@@ -28,6 +28,19 @@ Sur cet exemple, l'outil analyse 853 contacts et conclut :
 La phrase qui résume l'affaire est en haut de la page : *vous payez pour 853 contacts, 68 sont
 exploitables*.
 
+### Le modèle commercial est déclaré, jamais deviné
+
+Cet exemple est audité en **Sales-Led** — prospection sortante active. Ce n'est pas un détail de
+paramétrage : c'est ce qui décide de ce qui compte comme un défaut.
+
+> **237 contacts critiques et 0 importants AU SENS DE CE MODÈLE** — un autre modèle donnerait un
+> décompte différent sur le même fichier.
+
+Un contact sans téléphone bloque une équipe qui appelle ; il ne gêne pas un produit en libre-service.
+L'outil ne devine donc jamais ce modèle, il le demande — et le rapport dit à voix haute que ses
+priorités en découlent. Sans modèle déclaré, cette page invite à le renseigner plutôt que d'inventer
+un classement qui aurait l'air savant.
+
 ---
 
 ## Ce que contient `exemple/`
@@ -60,6 +73,13 @@ Le jeu de 853 contacts est produit par un générateur déterministe — même g
 n'importe quelle machine. Les anomalies y sont **injectées volontairement** et comptées à l'avance :
 3 doublons exacts, 2 doublons approchants, 3 e-mails invalides, 4 désinscriptions, 5 contacts à
 purger, 2 téléphones cassés, et ainsi de suite.
+
+Les adresses utilisent le domaine **`.example`**, réservé par la
+[RFC 2606](https://www.rfc-editor.org/rfc/rfc2606) : il ne sera jamais délégué, aucun serveur de
+messagerie ne peut l'héberger. Aucune des 456 adresses de ces fichiers ne peut donc atteindre qui
+que ce soit, ni coïncider avec l'adresse d'une personne réelle. Les seules exceptions sont les
+deux fautes de frappe volontairement injectées — l'outil doit démontrer qu'il les repère et les
+signale sans jamais les corriger d'office.
 
 Cela rend l'exemple honnête sur deux plans à la fois. Il ne peut divulguer la base de personne. Et
 comme la vérité est connue AVANT l'audit, on peut vérifier que l'outil trouve ce qu'il doit trouver,

@@ -1,461 +1,461 @@
 ﻿Record ID,First Name,Last Name,Phone Number,Job Title,Contact owner,Number of Employees,Company Name,Industry,Country/Region,City,State/Region,Website URL,Associated Company,Legal basis for processing contact's data,Became a Marketing Qualified Lead Date
-51000001,Sarah,Blanc,+33265423511,Chargé de projet,lea.bonnet@agence.fr,40,Iris Optique,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.irisoptique.fr/accueil,Iris Optique,,2026-05-23
-51000002,Victor,Petit,+33395931034,Directeur,,120,Lorette & Fils,CONSTRUCTION,France,Lyon,,https://www.lorettefils.fr/accueil,Lorette & Fils,,2025-07-31
-51000003,Hugo,Benali,+33628327648,Responsable achats,marie.dupont@agence.fr,5,Iris Optique,CONSTRUCTION,France,Nantes,,https://www.irisoptique.fr/accueil,Iris Optique,,2025-08-30
-51000004,Nadia,Benali,+33676724238,CTO,,120,Atelier Nord,CONSTRUCTION,France,Lyon,,https://www.ateliernord.fr/accueil,Atelier Nord,Legitimate interest – existing customer,2022-12-08
-51000005,Manon,Fontaine,+33226916697,CTO,marie.dupont@agence.fr,40,Sablier,CONSTRUCTION,France,Paris,,https://www.sablier.fr/accueil,Sablier,,2025-12-08
-51000006,Lucas,Girard,+33648281489,Responsable achats,karim.haddad@agence.fr,500,Kaolin,COMPUTER_SOFTWARE,France,Lille,,https://www.kaolin.fr/accueil,Kaolin,,2026-06-05
-51000009,Julien,Roux,+33534738299,Chargé de projet,,5,Sablier,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.sablier.fr/accueil,Sablier,,2026-02-10
-51000011,Sarah,Mercier,+33701326773,Chargé de projet,,120,Sablier,CONSTRUCTION,France,Rennes,,https://www.sablier.fr/accueil,Sablier,,2025-11-23
-51000014,Rémi,Nguyen,+33499118384,Responsable achats,karim.haddad@agence.fr,40,Brightpath,MARKETING_AND_ADVERTISING,France,Nantes,,https://www.brightpath.fr/accueil,Brightpath,Consent,2025-08-25
-51000015,Rémi,Perrin,+33541241182,CTO,karim.haddad@agence.fr,12,Verso,CONSTRUCTION,France,Lille,,https://www.verso.fr/accueil,Verso,,2026-05-17
-51000017,Sophie,De la Fontaine,+33305331586,Responsable achats,karim.haddad@agence.fr,5,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.dynamolab.fr/accueil,Dynamo Lab,,2025-12-29
-51000018,Lucas,Roux,+33160733754,Responsable achats,karim.haddad@agence.fr,40,Iris Optique,CONSTRUCTION,France,Rennes,,https://www.irisoptique.fr/accueil,Iris Optique,Legitimate interest – existing customer,2024-09-04
-51000020,Olivier,Van Damme,+33160883561,CTO,marie.dupont@agence.fr,500,Atelier Nord,CONSTRUCTION,France,Bordeaux,,https://www.ateliernord.fr/accueil,Atelier Nord,,2024-05-01
-51000024,Sarah,Moreau,+33557986872,Chargé de projet,karim.haddad@agence.fr,500,Kaolin,RETAIL,France,Bordeaux,,https://www.kaolin.fr/accueil,Kaolin,Legitimate interest – existing customer,2020-07-04
-51000025,Inès,Nguyen,+33355812236,Responsable achats,marie.dupont@agence.fr,120,Sablier,CONSTRUCTION,France,Lille,,https://www.sablier.fr/accueil,Sablier,,2023-04-05
-51000026,Lucas,Lambert,+33790967054,Chargé de projet,karim.haddad@agence.fr,12,Roseau Paysage,CONSTRUCTION,France,Nantes,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,,2021-10-02
-51000029,Paul,Moreau,+33619374529,Directeur,marie.dupont@agence.fr,5,Roseau Paysage,CONSTRUCTION,France,Lille,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Consent,2025-01-17
-51000030,Amina,Van Damme,+33631491905,Chargé de projet,marie.dupont@agence.fr,40,Roseau Paysage,COMPUTER_SOFTWARE,France,Rennes,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,,2025-08-11
-51000031,Antoine,Petit,+33772628498,Chargé de projet,lea.bonnet@agence.fr,12,Lorette & Fils,COMPUTER_SOFTWARE,France,Marseille,,https://www.lorettefils.fr/accueil,Lorette & Fils,,2022-05-27
-51000032,Thomas,Nguyen,+33175273545,CTO,lea.bonnet@agence.fr,5,Atelier Nord,FINANCIAL_SERVICES,France,Lyon,,https://www.ateliernord.fr/accueil,Atelier Nord,Legitimate interest – existing customer,2022-03-19
-51000035,Olivier,Benali,+33240824008,CTO,,5,Iris Optique,FINANCIAL_SERVICES,France,Marseille,,https://www.irisoptique.fr/accueil,Iris Optique,,2023-11-30
-51000037,Paul,Perrin,+33567749649,Directeur,marie.dupont@agence.fr,12,Atelier Nord,CONSTRUCTION,France,Bordeaux,,https://www.ateliernord.fr/accueil,Atelier Nord,Legitimate interest – existing customer,2023-12-07
-51000038,Marc,Roux,+33206797403,CTO,,12,Dynamo Lab,CONSTRUCTION,France,Rennes,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2020-04-10
-51000039,Leïla,Benali,+33224210249,CTO,,120,Lorette & Fils,CONSTRUCTION,France,Lille,,https://www.lorettefils.fr/accueil,Lorette & Fils,Consent,2025-03-05
-51000040,Antoine,Nguyen,+33459401399,Directeur,marie.dupont@agence.fr,120,Sablier,FINANCIAL_SERVICES,France,Bordeaux,,https://www.sablier.fr/accueil,Sablier,,2019-10-04
-51000047,Rémi,De la Fontaine,+33561586578,Directeur,karim.haddad@agence.fr,12,Kaolin,COMPUTER_SOFTWARE,France,Nantes,,https://www.kaolin.fr/accueil,Kaolin,Legitimate interest – existing customer,2023-06-29
-51000052,Hugo,Leroy,+33374517123,Chargé de projet,marie.dupont@agence.fr,5,Verso,CONSTRUCTION,France,Lille,,https://www.verso.fr/accueil,Verso,Legitimate interest – existing customer,2023-05-29
-51000054,Julien,Marchand,+33282675869,Responsable achats,marie.dupont@agence.fr,500,Kaolin,RETAIL,France,Marseille,,https://www.kaolin.fr/accueil,Kaolin,Legitimate interest – existing customer,2025-02-28
-51000057,Camille,Moreau,+33550240268,Directeur,,40,Menhir Data,FINANCIAL_SERVICES,France,Lille,,https://www.menhirdata.fr/accueil,Menhir Data,Legitimate interest – existing customer,2022-06-12
-51000058,Sarah,Leroy,,Directeur,,5,Roseau Paysage,CONSTRUCTION,France,Lille,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Legitimate interest – existing customer,2025-12-23
-51000062,Hugo,Mercier,+33393689980,CTO,lea.bonnet@agence.fr,40,Brightpath,CONSTRUCTION,France,Paris,,https://www.brightpath.fr/accueil,Brightpath,Legitimate interest – existing customer,2025-03-05
-51000063,Sophie,Blanc,+33601836675,Responsable achats,lea.bonnet@agence.fr,500,Lorette & Fils,COMPUTER_SOFTWARE,France,Paris,,https://www.lorettefils.fr/accueil,Lorette & Fils,Legitimate interest – existing customer,2025-09-06
-51000064,Marc,Perrin,+33467976438,Directeur,marie.dupont@agence.fr,500,Menhir Data,RETAIL,France,Lille,,https://www.menhirdata.fr/accueil,Menhir Data,Consent,2025-07-19
-51000066,Thomas,Leroy,+33406071596,Chargé de projet,,5,Verso,RETAIL,France,Paris,,https://www.verso.fr/accueil,Verso,,2022-06-29
-51000067,Marc,Perrin,+33413696816,CTO,karim.haddad@agence.fr,12,Kaolin,COMPUTER_SOFTWARE,France,Lille,,https://www.kaolin.fr/accueil,Kaolin,Consent,2022-05-28
-51000068,Olivier,Leroy,+33352312432,Responsable achats,karim.haddad@agence.fr,120,Verso,FINANCIAL_SERVICES,France,Rennes,,https://www.verso.fr/accueil,Verso,Consent,2024-04-15
-51000070,Hugo,n/a,+33586798079,Responsable achats,,12,Sablier,COMPUTER_SOFTWARE,France,Nantes,,https://www.sablier.fr/accueil,Sablier,Legitimate interest – existing customer,2025-06-14
-51000071,Claire,François,+33277889255,CTO,lea.bonnet@agence.fr,5,Verso,CONSTRUCTION,France,Paris,,https://www.verso.fr/accueil,Verso,,2024-07-12
-51000074,Manon,Lambert,+33422292706,CTO,karim.haddad@agence.fr,500,Brightpath,CONSTRUCTION,France,Rennes,,https://www.brightpath.fr/accueil,Brightpath,Consent,2024-12-29
-51000077,Amina,François,+33315220472,Chargé de projet,marie.dupont@agence.fr,5,Brightpath,CONSTRUCTION,France,Lyon,,https://www.brightpath.fr/accueil,Brightpath,Legitimate interest – existing customer,2023-12-12
-51000080,Jean-Pierre,De la Fontaine,+33331952058,CTO,,12,Menhir Data,MARKETING_AND_ADVERTISING,France,Paris,,https://www.menhirdata.fr/accueil,Menhir Data,Consent,2022-06-17
-51000084,Nadia,Van Damme,+33620297021,Responsable achats,lea.bonnet@agence.fr,500,Brightpath,COMPUTER_SOFTWARE,France,Lille,,https://www.brightpath.fr/accueil,Brightpath,Legitimate interest – existing customer,2020-09-16
-51000086,Inès,Chevalier,+33373121727,Directeur,lea.bonnet@agence.fr,500,Kaolin,FINANCIAL_SERVICES,France,Marseille,,https://www.kaolin.fr/accueil,Kaolin,,2024-01-22
-51000087,Marc,Girard,+33132370589,CTO,karim.haddad@agence.fr,5,Brightpath,COMPUTER_SOFTWARE,France,Marseille,,https://www.brightpath.fr/accueil,Brightpath,,2020-10-04
-51000089,Marc,Da Silva,+33314384249,Directeur,karim.haddad@agence.fr,500,Roseau Paysage,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Consent,2022-08-01
-51000090,Paul,Perrin,+33701094396,Directeur,lea.bonnet@agence.fr,120,Brightpath,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.brightpath.fr/accueil,Brightpath,Consent,2020-02-22
-51000091,Amina,Marchand,+33276773592,CTO,lea.bonnet@agence.fr,12,Kaolin,CONSTRUCTION,France,Lille,,https://www.kaolin.fr/accueil,Kaolin,Consent,2025-08-24
-51000095,Inès,Perrin,+33165585239,Chargé de projet,marie.dupont@agence.fr,12,Atelier Nord,CONSTRUCTION,France,Rennes,,https://www.ateliernord.fr/accueil,Atelier Nord,,2025-02-17
-51000096,Manon,Nguyen,+33395269495,Chargé de projet,lea.bonnet@agence.fr,5,Dynamo Lab,CONSTRUCTION,France,Marseille,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2020-09-06
-51000098,Olivier,Benali,+33426368970,Responsable achats,lea.bonnet@agence.fr,500,Menhir Data,RETAIL,France,Marseille,,https://www.menhirdata.fr/accueil,Menhir Data,Legitimate interest – existing customer,2021-07-08
-51000100,Inès,Marchand,+33566524041,CTO,lea.bonnet@agence.fr,12,Sablier,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.sablier.fr/accueil,Sablier,Consent,2020-01-13
-51000101,Inès,Mercier,+33593308330,Directeur,,12,Iris Optique,COMPUTER_SOFTWARE,France,Lille,,https://www.irisoptique.fr/accueil,Iris Optique,Legitimate interest – existing customer,2024-12-03
-51000102,Lucas,Fontaine,+33354019380,Responsable achats,marie.dupont@agence.fr,120,Kaolin,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.kaolin.fr/accueil,Kaolin,,2024-03-24
-51000104,Marc,Duval,+33632966851,Chargé de projet,karim.haddad@agence.fr,120,Brightpath,CONSTRUCTION,France,Lyon,,https://www.brightpath.fr/accueil,Brightpath,Legitimate interest – existing customer,2023-02-26
-51000105,Inès,Van Damme,+33354990453,Directeur,,12,Roseau Paysage,RETAIL,France,Bordeaux,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Consent,2021-06-15
-51000106,Rémi,Petit,+33232727956,Chargé de projet,karim.haddad@agence.fr,500,Iris Optique,COMPUTER_SOFTWARE,France,Lille,,https://www.irisoptique.fr/accueil,Iris Optique,,2022-05-05
-51000108,Julien,Nguyen,+33490874064,Directeur,marie.dupont@agence.fr,120,Dynamo Lab,CONSTRUCTION,France,Bordeaux,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2020-09-15
-51000110,Manon,Moreau,+33378686337,CTO,karim.haddad@agence.fr,5,Roseau Paysage,RETAIL,France,Lille,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Legitimate interest – existing customer,2026-06-04
-51000111,Thomas,Benali,+33179030673,Responsable achats,lea.bonnet@agence.fr,500,Sablier,CONSTRUCTION,France,Lille,,https://www.sablier.fr/accueil,Sablier,Consent,2025-05-01
-51000112,Claire,Roux,+33536440892,Chargé de projet,marie.dupont@agence.fr,120,Iris Optique,FINANCIAL_SERVICES,France,Marseille,,https://www.irisoptique.fr/accueil,Iris Optique,Consent,2024-11-09
-51000113,Lucas,De la Fontaine,+33287334270,Chargé de projet,karim.haddad@agence.fr,12,Dynamo Lab,CONSTRUCTION,France,Lyon,,https://www.dynamolab.fr/accueil,Dynamo Lab,,2023-02-06
-51000118,Julien,Duval,+33212038750,Chargé de projet,marie.dupont@agence.fr,500,Lorette & Fils,FINANCIAL_SERVICES,France,Nantes,,https://www.lorettefils.fr/accueil,Lorette & Fils,Legitimate interest – existing customer,2024-12-02
-51000119,Camille,Leroy,+33186211823,Responsable achats,lea.bonnet@agence.fr,40,Iris Optique,RETAIL,France,Paris,,https://www.irisoptique.fr/accueil,Iris Optique,,2020-06-15
-51000123,Paul,Van Damme,+33777358662,Chargé de projet,lea.bonnet@agence.fr,5,Brightpath,COMPUTER_SOFTWARE,France,Marseille,,https://www.brightpath.fr/accueil,Brightpath,Legitimate interest – existing customer,2026-02-17
-51000125,Camille,François,+33595604661,Responsable achats,karim.haddad@agence.fr,12,Brightpath,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.brightpath.fr/accueil,Brightpath,,2020-03-31
-51000126,Inès,Fontaine,+33446471543,Chargé de projet,karim.haddad@agence.fr,5,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2025-10-02
-51000128,Claire,Van Damme,+33193982807,Responsable achats,marie.dupont@agence.fr,120,Iris Optique,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.irisoptique.fr/accueil,Iris Optique,,2022-01-21
-51000130,Paul,Lambert,+33361014388,Responsable achats,,500,Atelier Nord,FINANCIAL_SERVICES,France,Lyon,,https://www.ateliernord.fr/accueil,Atelier Nord,,2021-12-25
-51000132,Julien,Petit,+33123828258,Chargé de projet,,12,Menhir Data,RETAIL,France,Nantes,,https://www.menhirdata.fr/accueil,Menhir Data,Legitimate interest – existing customer,2022-08-13
-51000134,Manon,Da Silva,+33491557924,Directeur,lea.bonnet@agence.fr,12,Atelier Nord,CONSTRUCTION,France,Paris,,https://www.ateliernord.fr/accueil,Atelier Nord,Legitimate interest – existing customer,2022-02-08
-51000135,Hugo,Moreau,+33529662782,Responsable achats,karim.haddad@agence.fr,40,Verso,RETAIL,France,Lille,,https://www.verso.fr/accueil,Verso,Legitimate interest – existing customer,2022-02-08
-51000137,Victor,Marchand,+33678819148,CTO,,12,Dynamo Lab,RETAIL,France,Paris,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2021-05-02
-51000141,Nadia,Nguyen,+33436374545,Responsable achats,lea.bonnet@agence.fr,5,Brightpath,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.brightpath.fr/accueil,Brightpath,,2025-10-02
-51000143,Thomas,De la Fontaine,+33271293870,Directeur,marie.dupont@agence.fr,12,Sablier,RETAIL,France,Paris,,https://www.sablier.fr/accueil,Sablier,Legitimate interest – existing customer,2025-05-25
-51000144,Amina,François,+33342622189,Directeur,karim.haddad@agence.fr,40,Sablier,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.sablier.fr/accueil,Sablier,Consent,2025-04-22
-51000149,Lucas,Roux,+33417990421,Directeur,marie.dupont@agence.fr,120,Menhir Data,CONSTRUCTION,France,Lille,,https://www.menhirdata.fr/accueil,Menhir Data,Consent,2023-09-21
-51000150,Inès,Girard,+33741056481,CTO,marie.dupont@agence.fr,120,Brightpath,FINANCIAL_SERVICES,France,Marseille,,https://www.brightpath.fr/accueil,Brightpath,Legitimate interest – existing customer,2025-01-15
-51000153,Rémi,Da Silva,+33153494937,CTO,karim.haddad@agence.fr,12,Sablier,MARKETING_AND_ADVERTISING,France,Paris,,https://www.sablier.fr/accueil,Sablier,,2020-04-05
-51000154,Camille,Roux,+33705064138,Responsable achats,marie.dupont@agence.fr,40,Verso,COMPUTER_SOFTWARE,France,Paris,,https://www.verso.fr/accueil,Verso,Legitimate interest – existing customer,2022-07-31
-51000155,Manon,De la Fontaine,+33191826199,Directeur,karim.haddad@agence.fr,40,Brightpath,CONSTRUCTION,France,Rennes,,https://www.brightpath.fr/accueil,Brightpath,,2021-04-28
-51000156,Amina,Da Silva,+33213291212,Chargé de projet,,500,Brightpath,CONSTRUCTION,France,Rennes,,https://www.brightpath.fr/accueil,Brightpath,Legitimate interest – existing customer,2021-05-21
-51000159,Camille,François,+33151070296,Chargé de projet,,12,Roseau Paysage,CONSTRUCTION,France,Lyon,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Legitimate interest – existing customer,2021-06-28
-51000162,Julien,Fontaine,+33532133480,Responsable achats,lea.bonnet@agence.fr,12,Verso,MARKETING_AND_ADVERTISING,France,Lille,,https://www.verso.fr/accueil,Verso,,2022-06-15
-51000165,Sophie,Girard,+33328953926,CTO,lea.bonnet@agence.fr,12,Lorette & Fils,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.lorettefils.fr/accueil,Lorette & Fils,Consent,2020-12-31
-51000167,Élodie,Roux,+33710067626,Chargé de projet,,120,Sablier,FINANCIAL_SERVICES,France,Bordeaux,,https://www.sablier.fr/accueil,Sablier,Consent,2022-07-14
-51000168,Thomas,Girard,+33305411526,Responsable achats,marie.dupont@agence.fr,500,Kaolin,FINANCIAL_SERVICES,France,Nantes,,https://www.kaolin.fr/accueil,Kaolin,Consent,2025-08-21
-51000170,Sophie,Lambert,+33397310324,Directeur,lea.bonnet@agence.fr,120,Brightpath,RETAIL,France,Bordeaux,,https://www.brightpath.fr/accueil,Brightpath,,2026-06-03
-51000173,Paul,Moreau,+33233206163,Responsable achats,lea.bonnet@agence.fr,5,Sablier,RETAIL,France,Lille,,https://www.sablier.fr/accueil,Sablier,,2021-06-05
-51000174,Victor,Da Silva,+33709986162,Responsable achats,marie.dupont@agence.fr,500,Iris Optique,COMPUTER_SOFTWARE,France,Rennes,,https://www.irisoptique.fr/accueil,Iris Optique,,2020-08-20
-51000175,Victor,O'Brien,+33679970246,Responsable achats,,120,Lorette & Fils,CONSTRUCTION,France,Bordeaux,,https://www.lorettefils.fr/accueil,Lorette & Fils,Legitimate interest – existing customer,2023-07-03
-51000180,Thomas,Chevalier,+33646657437,CTO,,5,Atelier Nord,COMPUTER_SOFTWARE,France,Lille,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2023-01-14
-51000182,Sophie,Duval,+33466099353,Chargé de projet,lea.bonnet@agence.fr,500,Kaolin,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.kaolin.fr/accueil,Kaolin,Legitimate interest – existing customer,2023-02-24
-51000184,Leïla,Blanc,+33281684602,Responsable achats,,120,Atelier Nord,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2025-08-31
-51000185,Marc,François,+33250074329,Responsable achats,karim.haddad@agence.fr,120,Kaolin,RETAIL,France,Nantes,,https://www.kaolin.fr/accueil,Kaolin,,2022-09-25
-51000186,Antoine,Van Damme,+33650583003,Responsable achats,lea.bonnet@agence.fr,5,Menhir Data,RETAIL,France,Lille,,https://www.menhirdata.fr/accueil,Menhir Data,Consent,2026-01-15
-51000187,Rémi,Girard,+33378985625,Chargé de projet,karim.haddad@agence.fr,5,Sablier,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.sablier.fr/accueil,Sablier,Consent,2025-12-13
-51000188,Sophie,Benali,+33215064890,Directeur,marie.dupont@agence.fr,5,Menhir Data,RETAIL,France,Nantes,,https://www.menhirdata.fr/accueil,Menhir Data,,2019-11-07
-51000189,Olivier,Mercier,+33230461849,Responsable achats,marie.dupont@agence.fr,5,Iris Optique,COMPUTER_SOFTWARE,France,Nantes,,https://www.irisoptique.fr/accueil,Iris Optique,Legitimate interest – existing customer,2021-02-21
-51000191,Sophie,François,+33143744701,Responsable achats,lea.bonnet@agence.fr,120,Verso,COMPUTER_SOFTWARE,France,Paris,,https://www.verso.fr/accueil,Verso,Legitimate interest – existing customer,2025-08-15
-51000192,Camille,Moreau,+33494155216,Chargé de projet,,120,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Paris,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2022-10-11
-51000193,Julien,Girard,+33497296590,Responsable achats,marie.dupont@agence.fr,120,Sablier,COMPUTER_SOFTWARE,France,Paris,,https://www.sablier.fr/accueil,Sablier,,2021-10-18
-51000195,Marc,Leroy,+33175354083,Chargé de projet,marie.dupont@agence.fr,120,Kaolin,FINANCIAL_SERVICES,France,Nantes,,https://www.kaolin.fr/accueil,Kaolin,Legitimate interest – existing customer,2020-11-26
-51000196,Antoine,Nguyen,+33601660880,Directeur,lea.bonnet@agence.fr,500,Brightpath,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.brightpath.fr/accueil,Brightpath,Consent,2025-02-17
-51000197,Sarah,Da Silva,+33775899757,Directeur,karim.haddad@agence.fr,40,Brightpath,CONSTRUCTION,France,Rennes,,https://www.brightpath.fr/accueil,Brightpath,Consent,2025-11-08
-51000199,Olivier,De la Fontaine,+33777982708,Directeur,,12,Menhir Data,FINANCIAL_SERVICES,France,Lyon,,https://www.menhirdata.fr/accueil,Menhir Data,Consent,2019-11-11
-51000200,Sophie,Petit,+33386693465,CTO,karim.haddad@agence.fr,500,Lorette & Fils,FINANCIAL_SERVICES,France,Marseille,,https://www.lorettefils.fr/accueil,Lorette & Fils,Consent,2019-09-24
-51000202,Victor,Marchand,+33162003424,CTO,lea.bonnet@agence.fr,500,Lorette & Fils,COMPUTER_SOFTWARE,France,Marseille,,https://www.lorettefils.fr/accueil,Lorette & Fils,,2026-04-27
-51000203,Olivier,Perrin,+33686384066,Chargé de projet,marie.dupont@agence.fr,40,Verso,MARKETING_AND_ADVERTISING,France,Lille,,https://www.verso.fr/accueil,Verso,,2023-12-13
-51000204,Thomas,O'Brien,+33533472122,Directeur,,500,Atelier Nord,CONSTRUCTION,France,Lyon,,https://www.ateliernord.fr/accueil,Atelier Nord,Legitimate interest – existing customer,2020-05-02
-51000205,Amina,Van Dammee,+33620259094,Chargé de projet,lea.bonnet@agence.fr,40,Roseau Paysage,FINANCIAL_SERVICES,France,Lyon,,https://www.menhirdata.fr/accueil,Roseau Paysage,Legitimate interest – existing customer,2022-10-04
-51000207,Sarah,Roux,+33656164840,CTO,,5,Atelier Nord,CONSTRUCTION,France,Bordeaux,,https://www.ateliernord.fr/accueil,Atelier Nord,Legitimate interest – existing customer,2023-09-24
-51000208,Claire,Leroy,+33788013361,Responsable achats,,12,Sablier,COMPUTER_SOFTWARE,France,Nantes,,https://www.sablier.fr/accueil,Sablier,Consent,2025-05-21
-51000209,Claire,Lambert,+33248193466,Chargé de projet,,5,Sablier,RETAIL,France,Bordeaux,,https://www.sablier.fr/accueil,Sablier,Legitimate interest – existing customer,2025-08-22
-51000210,Victor,Duval,+33501581449,Directeur,,5,Atelier Nord,RETAIL,France,Lyon,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2025-10-02
-51000212,Hugo,Benali,+33223943129,Directeur,marie.dupont@agence.fr,5,Lorette & Fils,CONSTRUCTION,France,Paris,,https://www.lorettefils.fr/accueil,Lorette & Fils,Legitimate interest – existing customer,2020-09-18
-51000214,Claire,De la Fontaine,+33736452577,Chargé de projet,,5,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2026-05-30
-51000216,Hugo,Van Damme,+33742788165,Directeur,karim.haddad@agence.fr,12,Roseau Paysage,RETAIL,France,Lyon,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Legitimate interest – existing customer,2019-11-07
-51000217,Leïla,Blanc,+33137314530,Responsable achats,,120,Dynamo Lab,COMPUTER_SOFTWARE,France,Paris,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2021-01-15
-51000218,Claire,Petit,+33398926659,Directeur,,500,Verso,RETAIL,France,Marseille,,https://www.verso.fr/accueil,Verso,,2023-05-25
-51000219,Antoine,Fontaine,+33272318432,Responsable achats,marie.dupont@agence.fr,120,Atelier Nord,CONSTRUCTION,France,Bordeaux,,https://www.ateliernord.fr/accueil,Atelier Nord,Legitimate interest – existing customer,2026-05-22
-51000220,Antoine,Fontaine,+33260302992,Responsable achats,marie.dupont@agence.fr,12,Kaolin,COMPUTER_SOFTWARE,France,Lyon,,https://www.kaolin.fr/accueil,Kaolin,,2024-02-06
-51000223,Victor,Leroy,+33629806865,Directeur,,120,Sablier,RETAIL,France,Marseille,,https://www.sablier.fr/accueil,Sablier,Consent,2025-06-02
-51000224,Leïla,Petit,+33431498643,Directeur,marie.dupont@agence.fr,500,Lorette & Fils,COMPUTER_SOFTWARE,France,Lille,,https://www.lorettefils.fr/accueil,Lorette & Fils,Legitimate interest – existing customer,2024-12-17
-51000226,Antoine,Girard,+33444956213,Chargé de projet,marie.dupont@agence.fr,500,Brightpath,RETAIL,France,Rennes,,https://www.brightpath.fr/accueil,Brightpath,,2020-03-11
-51000228,Manon,Marchand,+33277038430,Responsable achats,marie.dupont@agence.fr,12,Atelier Nord,COMPUTER_SOFTWARE,France,Lyon,,https://www.ateliernord.fr/accueil,Atelier Nord,Legitimate interest – existing customer,2025-10-26
-51000230,Camille,Chevalier,+33181845184,CTO,,120,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.dynamolab.fr/accueil,Dynamo Lab,,2021-11-24
-51000231,Sarah,Nguyen,+33316335658,Directeur,karim.haddad@agence.fr,5,Atelier Nord,RETAIL,France,Bordeaux,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2026-02-26
-51000233,Paul,O'Brien,+33179080759,CTO,lea.bonnet@agence.fr,12,Dynamo Lab,FINANCIAL_SERVICES,France,Marseille,,https://www.dynamolab.fr/accueil,Dynamo Lab,,2025-04-08
-51000234,Thomas,Blanc,+33478085627,Directeur,,5,Dynamo Lab,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2025-11-09
-51000241,Manon,François,+33216433472,Responsable achats,marie.dupont@agence.fr,40,Sablier,CONSTRUCTION,France,Rennes,,https://www.sablier.fr/accueil,Sablier,,2023-07-09
-51000243,Inès,Moreau,+33525478077,CTO,lea.bonnet@agence.fr,12,Iris Optique,COMPUTER_SOFTWARE,France,Lille,,https://www.irisoptique.fr/accueil,Iris Optique,,2026-05-06
-51000246,Thomas,François,+33364757051,Responsable achats,,500,Dynamo Lab,RETAIL,France,Lyon,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2026-04-19
-51000247,Inès,Van Damme,+33636730371,Responsable achats,lea.bonnet@agence.fr,12,Menhir Data,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.menhirdata.fr/accueil,Menhir Data,Consent,2025-02-04
-51000249,Antoine,Perrin,+33132719500,CTO,marie.dupont@agence.fr,120,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2022-04-19
-51000250,Hugo,Nguyen,+33324077848,Chargé de projet,karim.haddad@agence.fr,40,Roseau Paysage,CONSTRUCTION,France,Bordeaux,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,,2026-03-23
-51000251,Inès,Perrin,+33527448570,Chargé de projet,marie.dupont@agence.fr,40,Verso,FINANCIAL_SERVICES,France,Lyon,,https://www.verso.fr/accueil,Verso,,2024-08-31
-51000252,Nadia,Mercier,+33678294565,Directeur,marie.dupont@agence.fr,12,Lorette & Fils,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.lorettefils.fr/accueil,Lorette & Fils,Legitimate interest – existing customer,2024-05-02
-51000256,Sarah,O'Brien,+33756659398,Responsable achats,lea.bonnet@agence.fr,120,Brightpath,RETAIL,France,Nantes,,https://www.brightpath.fr/accueil,Brightpath,Legitimate interest – existing customer,2020-04-17
-51000257,Julien,Marchand,+33304335048,Responsable achats,,12,Atelier Nord,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.ateliernord.fr/accueil,Atelier Nord,,2026-04-13
-51000258,Leïla,Roux,+33196931572,Chargé de projet,marie.dupont@agence.fr,40,Roseau Paysage,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Consent,2023-08-04
-51000259,Amina,François,+33766139060,CTO,lea.bonnet@agence.fr,500,Menhir Data,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.menhirdata.fr/accueil,Menhir Data,Consent,2022-09-18
-51000261,Inès,François,+33722783769,Responsable achats,karim.haddad@agence.fr,5,Lorette & Fils,CONSTRUCTION,France,Rennes,,https://www.lorettefils.fr/accueil,Lorette & Fils,,2020-11-01
-51000262,Claire,Blanc,+33465535590,CTO,,12,Sablier,RETAIL,France,Paris,,https://www.sablier.fr/accueil,Sablier,Legitimate interest – existing customer,2025-03-15
-51000263,Élodie,O'Brien,+33603924051,CTO,marie.dupont@agence.fr,12,Dynamo Lab,FINANCIAL_SERVICES,France,Lyon,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2025-07-02
-51000265,Inès,O'Brien,+33663681579,Directeur,,5,Sablier,COMPUTER_SOFTWARE,France,Lyon,,https://www.sablier.fr/accueil,Sablier,Consent,2026-04-01
-51000266,Rémi,Da Silva,+33205554384,Directeur,,500,Kaolin,CONSTRUCTION,France,Lyon,,https://www.kaolin.fr/accueil,Kaolin,Legitimate interest – existing customer,2022-01-19
-51000267,Claire,Van Damme,+33489363926,CTO,,12,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2025-06-24
-51000269,Sarah,Chevalier,+33220994999,Responsable achats,karim.haddad@agence.fr,40,Dynamo Lab,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.dynamolab.fr/accueil,Dynamo Lab,,2024-05-10
-51000271,Élodie,Benali,+33797573660,Chargé de projet,,500,Sablier,FINANCIAL_SERVICES,France,Lille,,https://www.sablier.fr/accueil,Sablier,Consent,2024-06-23
-51000273,Lucas,Marchand,+33277181298,Responsable achats,lea.bonnet@agence.fr,5,Atelier Nord,MARKETING_AND_ADVERTISING,France,Nantes,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2025-11-07
-51000274,Élodie,Nguyen,+33621117518,Chargé de projet,karim.haddad@agence.fr,500,Sablier,RETAIL,France,Paris,,https://www.sablier.fr/accueil,Sablier,Legitimate interest – existing customer,2023-08-29
-51000278,Marc,Nguyen,+33145561681,CTO,marie.dupont@agence.fr,40,Atelier Nord,FINANCIAL_SERVICES,France,Nantes,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2022-06-04
-51000279,Élodie,Benali,+33581794695,CTO,lea.bonnet@agence.fr,500,Atelier Nord,FINANCIAL_SERVICES,France,Nantes,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2025-10-23
-51000280,Antoine,Fontaine,+33330107139,Chargé de projet,lea.bonnet@agence.fr,500,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Paris,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2023-11-08
-51000281,Élodie,Marchand,+33388501556,Directeur,lea.bonnet@agence.fr,120,Iris Optique,RETAIL,France,Rennes,,https://www.irisoptique.fr/accueil,Iris Optique,Legitimate interest – existing customer,2025-09-14
-51000286,Claire,Benali,+33557142241,Directeur,marie.dupont@agence.fr,500,Roseau Paysage,CONSTRUCTION,France,Lille,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,,2023-04-02
-51000288,Amina,Girard,+33779545381,Chargé de projet,marie.dupont@agence.fr,5,Atelier Nord,RETAIL,France,Marseille,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2019-10-26
-51000291,Antoine,Van Damme,+33796695832,Directeur,,500,Sablier,FINANCIAL_SERVICES,France,Nantes,,https://www.sablier.fr/accueil,Sablier,,2022-08-23
-51000293,Amina,Perrin,+33254946519,Directeur,,40,Atelier Nord,COMPUTER_SOFTWARE,France,Marseille,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2021-06-13
-51000294,Julien,Duval,+33740369656,Chargé de projet,karim.haddad@agence.fr,120,Verso,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.verso.fr/accueil,Verso,Consent,2022-06-08
-51000296,Sarah,Leroy,+33453269097,Responsable achats,lea.bonnet@agence.fr,500,Lorette & Fils,FINANCIAL_SERVICES,France,Marseille,,https://www.lorettefils.fr/accueil,Lorette & Fils,Legitimate interest – existing customer,2020-04-09
-51000298,Claire,Mercier,+33579565442,Directeur,lea.bonnet@agence.fr,40,Menhir Data,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.menhirdata.fr/accueil,Menhir Data,,2021-03-16
-51000299,Leïla,Girard,+33790471281,CTO,lea.bonnet@agence.fr,40,Atelier Nord,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.ateliernord.fr/accueil,Atelier Nord,Legitimate interest – existing customer,2025-11-19
-51000300,Paul,Girard,+33452437280,CTO,karim.haddad@agence.fr,120,Atelier Nord,RETAIL,France,Lyon,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2024-10-07
-51000301,Sarah,Girard,+33750410276,Chargé de projet,karim.haddad@agence.fr,120,Roseau Paysage,RETAIL,France,Marseille,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Legitimate interest – existing customer,2019-12-26
-51000303,Thomas,Blanc,+33625800106,Directeur,,12,Roseau Paysage,CONSTRUCTION,France,Marseille,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Legitimate interest – existing customer,2020-08-19
-51000306,Antoine,Petit,+33439174101,Directeur,lea.bonnet@agence.fr,5,Dynamo Lab,RETAIL,France,Lyon,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2020-05-26
-51000307,Camille,Lambert,+33656908776,Chargé de projet,karim.haddad@agence.fr,120,Lorette & Fils,RETAIL,France,Paris,,https://www.lorettefils.fr/accueil,Lorette & Fils,Consent,2023-06-23
-51000308,Victor,O'Brien,+33115851743,Responsable achats,,40,Brightpath,RETAIL,France,Paris,,https://www.brightpath.fr/accueil,Brightpath,Consent,2023-01-25
-51000309,Hugo,Fontaine,+33220309376,Directeur,lea.bonnet@agence.fr,500,Sablier,RETAIL,France,Paris,,https://www.sablier.fr/accueil,Sablier,Legitimate interest – existing customer,2021-07-21
-51000310,Claire,Lambert,+33287829310,Responsable achats,marie.dupont@agence.fr,500,Brightpath,COMPUTER_SOFTWARE,France,Lyon,,https://www.brightpath.fr/accueil,Brightpath,Consent,2025-12-25
-51000311,Sophie,Duval,+33717929111,Chargé de projet,karim.haddad@agence.fr,12,Dynamo Lab,RETAIL,France,Marseille,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2025-11-26
-51000313,Leïla,Lambert,+33562071002,Directeur,lea.bonnet@agence.fr,120,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2025-05-05
-51000314,Inès,Leroy,+33290927914,CTO,karim.haddad@agence.fr,5,Kaolin,FINANCIAL_SERVICES,France,Paris,,https://www.kaolin.fr/accueil,Kaolin,Consent,2021-11-04
-51000321,Lucas,Benali,+33210742799,Directeur,karim.haddad@agence.fr,12,Dynamo Lab,CONSTRUCTION,France,Bordeaux,,https://www.dynamolab.fr/accueil,Dynamo Lab,,2022-06-11
-51000322,Camille,François,+33146498931,CTO,lea.bonnet@agence.fr,5,Lorette & Fils,RETAIL,France,Marseille,,https://www.lorettefils.fr/accueil,Lorette & Fils,,2022-09-24
-51000323,Paul,Lambert,+33681832538,Directeur,karim.haddad@agence.fr,40,Brightpath,CONSTRUCTION,France,Marseille,,https://www.brightpath.fr/accueil,Brightpath,Consent,2022-05-10
-51000324,Lucas,Chevalier,+33377881788,CTO,lea.bonnet@agence.fr,12,Menhir Data,RETAIL,France,Paris,,https://www.menhirdata.fr/accueil,Menhir Data,Legitimate interest – existing customer,2025-10-02
-51000325,Amina,Girard,+33241272380,CTO,karim.haddad@agence.fr,40,Iris Optique,RETAIL,France,Nantes,,https://www.irisoptique.fr/accueil,Iris Optique,Consent,2025-08-07
-51000326,Camille,Marchand,+33738569557,Chargé de projet,karim.haddad@agence.fr,12,Roseau Paysage,CONSTRUCTION,France,Lyon,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,,2025-10-04
-51000329,Camille,Mercier,+33647492975,Directeur,marie.dupont@agence.fr,500,Verso,COMPUTER_SOFTWARE,France,Marseille,,https://www.verso.fr/accueil,Verso,Legitimate interest – existing customer,2022-10-01
-51000332,Sarah,De la Fontaine,+33766299123,CTO,lea.bonnet@agence.fr,500,Kaolin,RETAIL,France,Paris,,https://www.kaolin.fr/accueil,Kaolin,Legitimate interest – existing customer,2023-03-24
-51000335,Lucas,Chevalier,+33590429025,Chargé de projet,lea.bonnet@agence.fr,5,Kaolin,CONSTRUCTION,France,Marseille,,https://www.kaolin.fr/accueil,Kaolin,,2025-02-14
-51000339,Nadia,De la Fontaine,+33776031089,Directeur,lea.bonnet@agence.fr,5,Sablier,CONSTRUCTION,France,Bordeaux,,https://www.sablier.fr/accueil,Sablier,Legitimate interest – existing customer,2025-08-04
-51000341,Camille,Leroy,+33280138759,Responsable achats,marie.dupont@agence.fr,40,Roseau Paysage,RETAIL,France,Nantes,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Legitimate interest – existing customer,2024-04-25
-51000342,Manon,Roux,+33317182754,Directeur,,120,Lorette & Fils,CONSTRUCTION,France,Nantes,,https://www.lorettefils.fr/accueil,Lorette & Fils,Consent,2025-03-13
-51000343,Rémi,Nguyen,+33363175207,Directeur,marie.dupont@agence.fr,12,Roseau Paysage,RETAIL,France,Nantes,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Consent,2020-04-02
-51000344,Leïla,Petit,+33253961367,CTO,lea.bonnet@agence.fr,40,Dynamo Lab,RETAIL,France,Bordeaux,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2025-09-26
-51000346,Paul,Da Silva,+33511877347,Chargé de projet,lea.bonnet@agence.fr,500,Dynamo Lab,COMPUTER_SOFTWARE,France,Rennes,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2023-01-25
-51000347,Lucas,Petit,+33767700284,Responsable achats,karim.haddad@agence.fr,120,Lorette & Fils,RETAIL,France,Rennes,,https://www.lorettefils.fr/accueil,Lorette & Fils,Legitimate interest – existing customer,2021-06-01
-51000348,Leïla,Fontaine,+33478280647,Chargé de projet,lea.bonnet@agence.fr,40,Verso,COMPUTER_SOFTWARE,France,Paris,,https://www.verso.fr/accueil,Verso,Consent,2020-05-31
-51000351,Amina,Da Silva,+33135785294,CTO,,500,Atelier Nord,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.ateliernord.fr/accueil,Atelier Nord,,2025-05-14
-51000353,Lucas,Mercier,+33449878208,Responsable achats,karim.haddad@agence.fr,40,Brightpath,FINANCIAL_SERVICES,France,Rennes,,https://www.brightpath.fr/accueil,Brightpath,Consent,2024-03-21
-51000354,Lucas,Blanc,+33372324665,Directeur,,40,Menhir Data,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.menhirdata.fr/accueil,Menhir Data,Consent,2020-08-09
-51000355,Paul,Roux,+33230347786,Chargé de projet,karim.haddad@agence.fr,40,Lorette & Fils,MARKETING_AND_ADVERTISING,France,Paris,,https://www.lorettefils.fr/accueil,Lorette & Fils,,2023-10-16
-51000356,Inès,Mercier,+33700159416,CTO,marie.dupont@agence.fr,12,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Paris,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2025-12-28
-51000357,Manon,Petit,+33547139155,Chargé de projet,karim.haddad@agence.fr,12,Verso,MARKETING_AND_ADVERTISING,France,Paris,,https://www.verso.fr/accueil,Verso,Legitimate interest – existing customer,2019-12-15
-51000358,Élodie,Chevalier,+33790785158,Chargé de projet,karim.haddad@agence.fr,12,Kaolin,CONSTRUCTION,France,Nantes,,https://www.kaolin.fr/accueil,Kaolin,Consent,2021-11-19
-51000359,Hugo,Marchand,+33703486451,Responsable achats,marie.dupont@agence.fr,40,Menhir Data,CONSTRUCTION,France,Paris,,https://www.menhirdata.fr/accueil,Menhir Data,Legitimate interest – existing customer,2026-01-27
-51000361,Victor,Da Silva,+33627206345,Directeur,karim.haddad@agence.fr,12,Kaolin,FINANCIAL_SERVICES,France,Bordeaux,,https://www.kaolin.fr/accueil,Kaolin,,2026-02-26
-51000362,Claire,Nguyen,+33295431652,Chargé de projet,karim.haddad@agence.fr,5,Kaolin,FINANCIAL_SERVICES,France,Bordeaux,,https://www.kaolin.fr/accueil,Kaolin,Consent,2024-12-19
-51000365,Camille,Marchand,+33435971072,CTO,karim.haddad@agence.fr,120,Iris Optique,FINANCIAL_SERVICES,France,Marseille,,https://www.irisoptique.fr/accueil,Iris Optique,Legitimate interest – existing customer,2023-10-28
-51000366,Olivier,Mercier,+33275990048,Chargé de projet,lea.bonnet@agence.fr,500,Menhir Data,COMPUTER_SOFTWARE,France,Lille,,https://www.menhirdata.fr/accueil,Menhir Data,Legitimate interest – existing customer,2025-11-17
-51000369,Lucas,Petit,+33687771215,Directeur,karim.haddad@agence.fr,500,Kaolin,CONSTRUCTION,France,Lille,,https://www.kaolin.fr/accueil,Kaolin,Consent,2026-01-02
-51000370,Leïla,Benali,+33526137150,CTO,marie.dupont@agence.fr,40,Atelier Nord,FINANCIAL_SERVICES,France,Paris,,https://www.ateliernord.fr/accueil,Atelier Nord,,2026-06-02
-51000372,Nadia,Mercier,+33442361032,Chargé de projet,karim.haddad@agence.fr,40,Atelier Nord,RETAIL,France,Rennes,,https://www.ateliernord.fr/accueil,Atelier Nord,,2022-03-09
-51000375,Manon,De la Fontaine,+33510818661,Chargé de projet,lea.bonnet@agence.fr,40,Iris Optique,FINANCIAL_SERVICES,France,Paris,,https://www.irisoptique.fr/accueil,Iris Optique,Consent,2020-02-02
-51000376,Camille,Petit,+33760164597,Chargé de projet,lea.bonnet@agence.fr,12,Kaolin,MARKETING_AND_ADVERTISING,France,Paris,,https://www.kaolin.fr/accueil,Kaolin,Consent,2024-06-13
-51000378,Camille,Benali,+33703723683,Directeur,karim.haddad@agence.fr,120,Sablier,COMPUTER_SOFTWARE,France,Paris,,https://www.sablier.fr/accueil,Sablier,Legitimate interest – existing customer,2026-04-14
-51000380,Victor,Marchand,+33489973080,Chargé de projet,marie.dupont@agence.fr,120,Menhir Data,RETAIL,France,Paris,,https://www.menhirdata.fr/accueil,Menhir Data,,2020-12-30
-51000381,Paul,O'Brien,+33243757383,CTO,,40,Kaolin,RETAIL,France,Nantes,,https://www.kaolin.fr/accueil,Kaolin,Consent,2021-07-28
-51000382,Hugo,Fontaine,+33617223297,Directeur,lea.bonnet@agence.fr,12,Dynamo Lab,FINANCIAL_SERVICES,France,Paris,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2024-02-21
-51000383,Hugo,Chevalier,+33780156193,Directeur,,40,Brightpath,CONSTRUCTION,France,Rennes,,https://www.brightpath.fr/accueil,Brightpath,Legitimate interest – existing customer,2024-09-07
-51000384,Victor,Chevalier,+33610771199,Directeur,marie.dupont@agence.fr,5,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2020-09-06
-51000386,Inès,O'Brien,+33632863266,Chargé de projet,lea.bonnet@agence.fr,120,Lorette & Fils,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.lorettefils.fr/accueil,Lorette & Fils,Legitimate interest – existing customer,2022-06-02
-51000389,Élodie,François,+33552008943,CTO,marie.dupont@agence.fr,40,Verso,CONSTRUCTION,France,Bordeaux,,https://www.verso.fr/accueil,Verso,Consent,2020-04-10
-51000390,Hugo,Petit,+33390753998,Responsable achats,lea.bonnet@agence.fr,12,Menhir Data,RETAIL,France,Lille,,https://www.menhirdata.fr/accueil,Menhir Data,Consent,2025-01-24
-51000391,Thomas,Petit,+33257126611,Directeur,,120,Brightpath,COMPUTER_SOFTWARE,France,Marseille,,https://www.brightpath.fr/accueil,Brightpath,Consent,2020-09-02
-51000393,Manon,Petit,+33128519611,CTO,marie.dupont@agence.fr,12,Roseau Paysage,COMPUTER_SOFTWARE,France,Marseille,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,,2021-05-10
-51000394,Hugo,Marchand,+33722960443,Responsable achats,marie.dupont@agence.fr,500,Iris Optique,CONSTRUCTION,France,Paris,,https://www.irisoptique.fr/accueil,Iris Optique,Legitimate interest – existing customer,2021-01-05
-51000395,Lucas,Fontaine,+33456792287,Chargé de projet,karim.haddad@agence.fr,5,Atelier Nord,FINANCIAL_SERVICES,France,Bordeaux,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2022-12-28
-51000396,Lucas,Van Damme,+33507412094,Directeur,marie.dupont@agence.fr,500,Roseau Paysage,FINANCIAL_SERVICES,France,Lille,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Legitimate interest – existing customer,2022-01-11
-51000399,Marc,Lambert,+33104615265,CTO,marie.dupont@agence.fr,12,Atelier Nord,FINANCIAL_SERVICES,France,Lille,,https://www.ateliernord.fr/accueil,Atelier Nord,Legitimate interest – existing customer,2022-10-25
-51000400,Antoine,Leroy,+33305786170,Chargé de projet,marie.dupont@agence.fr,500,Verso,FINANCIAL_SERVICES,France,Bordeaux,,https://www.verso.fr/accueil,Verso,Legitimate interest – existing customer,2022-02-22
-51000401,Thomas,Mercier,+33471832582,Responsable achats,,5,Dynamo Lab,RETAIL,France,Rennes,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2023-01-18
-51000405,Hugo,Benali,+33145319433,Chargé de projet,lea.bonnet@agence.fr,500,Kaolin,MARKETING_AND_ADVERTISING,France,Paris,,https://www.kaolin.fr/accueil,Kaolin,Legitimate interest – existing customer,2026-05-11
-51000406,Amina,Petit,+33428399921,Responsable achats,karim.haddad@agence.fr,500,Iris Optique,MARKETING_AND_ADVERTISING,France,Lille,,https://www.irisoptique.fr/accueil,Iris Optique,Consent,2020-01-30
-51000408,Thomas,Lambert,+33450635190,Responsable achats,marie.dupont@agence.fr,12,Iris Optique,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.irisoptique.fr/accueil,Iris Optique,,2021-10-02
-51000412,Olivier,Petit,+33193928456,Chargé de projet,,12,Menhir Data,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.menhirdata.fr/accueil,Menhir Data,Legitimate interest – existing customer,2019-10-16
-51000414,Manon,Mercier,+33233153779,CTO,lea.bonnet@agence.fr,40,Menhir Data,RETAIL,France,Marseille,,https://www.menhirdata.fr/accueil,Menhir Data,Legitimate interest – existing customer,2021-09-24
-51000418,Olivier,Moreau,+33565596309,Responsable achats,karim.haddad@agence.fr,12,Dynamo Lab,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.dynamolab.fr/accueil,Dynamo Lab,,2024-05-03
-51000419,Sophie,Leroy,+33617912868,CTO,,40,Atelier Nord,CONSTRUCTION,France,Lille,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2020-12-24
-51000421,Nadia,Moreau,+33553907895,Chargé de projet,,40,Sablier,RETAIL,France,Marseille,,https://www.sablier.fr/accueil,Sablier,,2023-02-26
-51000425,Victor,Duval,+33724075536,Chargé de projet,lea.bonnet@agence.fr,500,Brightpath,COMPUTER_SOFTWARE,France,Lille,,https://www.brightpath.fr/accueil,Brightpath,Legitimate interest – existing customer,2024-11-26
-51000429,Élodie,Leroy,+33127169385,Chargé de projet,marie.dupont@agence.fr,40,Kaolin,RETAIL,France,Marseille,,https://www.kaolin.fr/accueil,Kaolin,Consent,2023-05-17
-51000430,Rémi,Van Damme,+33229676291,Chargé de projet,karim.haddad@agence.fr,40,Atelier Nord,FINANCIAL_SERVICES,France,Marseille,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2024-07-01
-51000435,Élodie,François,+33220681558,Responsable achats,,5,Roseau Paysage,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Legitimate interest – existing customer,2025-05-19
-51000436,Hugo,Da Silva,+33306373149,CTO,karim.haddad@agence.fr,40,Dynamo Lab,FINANCIAL_SERVICES,France,Nantes,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2026-04-18
-51000441,Sarah,Marchand,+33429344973,CTO,lea.bonnet@agence.fr,120,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Nantes,,https://www.dynamolab.fr/accueil,Dynamo Lab,,2024-03-31
-51000442,Lucas,Leroy,+33270661498,Responsable achats,karim.haddad@agence.fr,120,Atelier Nord,RETAIL,France,Marseille,,https://www.ateliernord.fr/accueil,Atelier Nord,,2021-08-08
-51000443,Rémi,Van Damme,+33327323008,CTO,,40,Verso,RETAIL,France,Nantes,,https://www.verso.fr/accueil,Verso,,2021-01-26
-51000444,Leïla,François,+33492364587,CTO,,12,Lorette & Fils,MARKETING_AND_ADVERTISING,France,Nantes,,https://www.lorettefils.fr/accueil,Lorette & Fils,Legitimate interest – existing customer,2026-01-10
-51000445,Hugo,Duval,+33424399201,Directeur,,500,Dynamo Lab,COMPUTER_SOFTWARE,France,Lille,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2023-07-14
-51000449,Olivier,Duval,+33190138069,CTO,lea.bonnet@agence.fr,120,Menhir Data,CONSTRUCTION,France,Marseille,,https://www.menhirdata.fr/accueil,Menhir Data,Consent,2023-06-25
-51000450,Claire,Da Silva,+33469055107,Chargé de projet,marie.dupont@agence.fr,5,Roseau Paysage,FINANCIAL_SERVICES,France,Marseille,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Consent,2022-05-31
-51000451,Thomas,O'Brien,+33430505057,Responsable achats,,5,Kaolin,CONSTRUCTION,France,Nantes,,https://www.kaolin.fr/accueil,Kaolin,,2021-02-18
-51000456,Thomas,Fontaine,+33320954814,Chargé de projet,,120,Kaolin,COMPUTER_SOFTWARE,France,Rennes,,https://www.kaolin.fr/accueil,Kaolin,,2024-10-23
-51000457,Sophie,Benali,+33776420865,Chargé de projet,lea.bonnet@agence.fr,120,Roseau Paysage,COMPUTER_SOFTWARE,France,Lille,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Consent,2025-11-15
-51000458,Rémi,Marchand,+33125904729,Responsable achats,,12,Roseau Paysage,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Consent,2020-04-26
-51000460,Amina,Roux,+33474926176,CTO,,5,Menhir Data,COMPUTER_SOFTWARE,France,Paris,,https://www.menhirdata.fr/accueil,Menhir Data,Legitimate interest – existing customer,2025-02-17
-51000461,Olivier,Fontaine,+33599741926,Chargé de projet,,500,Verso,MARKETING_AND_ADVERTISING,France,Paris,,https://www.verso.fr/accueil,Verso,,2023-12-10
-51000463,Sarah,Da Silva,+33532184011,CTO,karim.haddad@agence.fr,5,Sablier,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.sablier.fr/accueil,Sablier,Legitimate interest – existing customer,2026-01-09
-51000465,Sophie,Perrin,+33342961844,Chargé de projet,,5,Verso,CONSTRUCTION,France,Bordeaux,,https://www.verso.fr/accueil,Verso,,2024-01-16
-51000466,Sophie,Mercier,+33335989262,CTO,marie.dupont@agence.fr,12,Roseau Paysage,COMPUTER_SOFTWARE,France,Marseille,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Legitimate interest – existing customer,2025-09-02
-51000467,Victor,Petit,+33315542340,Directeur,,5,Verso,MARKETING_AND_ADVERTISING,France,Lille,,https://www.verso.fr/accueil,Verso,Consent,2021-11-25
-51000468,Rémi,Blanc,+33394849102,CTO,lea.bonnet@agence.fr,500,Kaolin,FINANCIAL_SERVICES,France,Rennes,,https://www.kaolin.fr/accueil,Kaolin,,2025-05-23
-51000469,Antoine,Blanc,+33682226940,CTO,,12,Dynamo Lab,RETAIL,France,Marseille,,https://www.dynamolab.fr/accueil,Dynamo Lab,,2023-07-23
-51000470,Manon,Marchand,+33634146511,Directeur,marie.dupont@agence.fr,500,Iris Optique,COMPUTER_SOFTWARE,France,Paris,,https://www.irisoptique.fr/accueil,Iris Optique,Consent,2021-08-31
-51000471,Rémi,Mercier,+33527788160,Responsable achats,,40,Kaolin,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.kaolin.fr/accueil,Kaolin,Consent,2026-05-06
-51000472,Manon,Perrin,+33683215285,Directeur,,40,Menhir Data,COMPUTER_SOFTWARE,France,Marseille,,https://www.menhirdata.fr/accueil,Menhir Data,Consent,2021-06-07
-51000473,Thomas,Mercier,+33444309634,Directeur,,40,Sablier,COMPUTER_SOFTWARE,France,Lille,,https://www.sablier.fr/accueil,Sablier,,2023-03-18
-51000474,Claire,Marchand,+33326501673,Directeur,karim.haddad@agence.fr,5,Brightpath,RETAIL,France,Paris,,https://www.brightpath.fr/accueil,Brightpath,Legitimate interest – existing customer,2025-04-06
-51000476,Rémi,Lambert,+33650237416,Chargé de projet,karim.haddad@agence.fr,120,Dynamo Lab,FINANCIAL_SERVICES,France,Bordeaux,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2022-01-14
-51000477,Amina,Moreau,+33225803056,Directeur,lea.bonnet@agence.fr,120,Sablier,COMPUTER_SOFTWARE,France,Rennes,,https://www.sablier.fr/accueil,Sablier,,2025-04-03
-51000482,Sophie,Perrin,+33633711895,CTO,karim.haddad@agence.fr,12,Sablier,COMPUTER_SOFTWARE,France,Lyon,,https://www.sablier.fr/accueil,Sablier,Legitimate interest – existing customer,2026-01-01
-51000486,Inès,Lambert,+33105955184,Responsable achats,lea.bonnet@agence.fr,5,Roseau Paysage,COMPUTER_SOFTWARE,France,Rennes,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,,2024-02-09
-51000490,Inès,Moreau,+33718513279,Chargé de projet,lea.bonnet@agence.fr,12,Atelier Nord,MARKETING_AND_ADVERTISING,France,Paris,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2026-04-24
-51000491,Inès,Mercier,+33184186203,Directeur,,40,Sablier,CONSTRUCTION,France,Lyon,,https://www.sablier.fr/accueil,Sablier,Consent,2026-03-24
-51000494,Antoine,François,+33642152265,CTO,,500,Sablier,CONSTRUCTION,France,Lyon,,https://www.sablier.fr/accueil,Sablier,Consent,2019-12-26
-51000495,Thomas,Van Damme,+33587883619,Chargé de projet,karim.haddad@agence.fr,12,Lorette & Fils,CONSTRUCTION,France,Paris,,https://www.lorettefils.fr/accueil,Lorette & Fils,Legitimate interest – existing customer,2020-04-20
-51000498,Sophie,Girard,+33547657041,Responsable achats,marie.dupont@agence.fr,12,Kaolin,FINANCIAL_SERVICES,France,Lyon,,https://www.kaolin.fr/accueil,Kaolin,Legitimate interest – existing customer,2024-11-22
-51000499,Amina,De la Fontaine,+33749843624,Directeur,karim.haddad@agence.fr,120,Kaolin,FINANCIAL_SERVICES,France,Paris,,https://www.kaolin.fr/accueil,Kaolin,Legitimate interest – existing customer,2020-04-01
-51000500,Amina,Girard,+33456620563,CTO,marie.dupont@agence.fr,500,Verso,CONSTRUCTION,France,Paris,,https://www.verso.fr/accueil,Verso,Legitimate interest – existing customer,2025-08-06
-51000502,Nadia,Marchand,+33368356521,CTO,marie.dupont@agence.fr,12,Menhir Data,COMPUTER_SOFTWARE,France,Lille,,https://www.menhirdata.fr/accueil,Menhir Data,,2022-06-19
-51000503,Antoine,Blanc,+33271133228,CTO,lea.bonnet@agence.fr,40,Menhir Data,FINANCIAL_SERVICES,France,Rennes,,https://www.menhirdata.fr/accueil,Menhir Data,,2023-03-18
-51000504,Julien,Van Damme,+33512971024,Directeur,,12,Roseau Paysage,CONSTRUCTION,France,Lyon,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Legitimate interest – existing customer,2024-02-14
-51000507,Thomas,Van Damme,+33478711216,Chargé de projet,lea.bonnet@agence.fr,40,Kaolin,CONSTRUCTION,France,Lille,,https://www.kaolin.fr/accueil,Kaolin,,2025-06-01
-51000511,Sophie,Fontaine,+33448072791,Directeur,karim.haddad@agence.fr,500,Brightpath,MARKETING_AND_ADVERTISING,France,Lille,,https://www.brightpath.fr/accueil,Brightpath,,2025-03-10
-51000512,Élodie,O'Brien,+33505504481,Chargé de projet,,40,Roseau Paysage,CONSTRUCTION,France,Rennes,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Consent,2024-04-27
-51000515,Olivier,O'Brien,+33660538444,CTO,karim.haddad@agence.fr,120,Kaolin,COMPUTER_SOFTWARE,France,Paris,,https://www.kaolin.fr/accueil,Kaolin,Legitimate interest – existing customer,2021-10-31
-51000519,Sophie,Duval,+33491124421,Directeur,karim.haddad@agence.fr,5,Atelier Nord,RETAIL,France,Rennes,,https://www.ateliernord.fr/accueil,Atelier Nord,Legitimate interest – existing customer,2025-04-21
-51000520,Lucas,François,+33666572240,Responsable achats,marie.dupont@agence.fr,40,Kaolin,CONSTRUCTION,France,Nantes,,https://www.kaolin.fr/accueil,Kaolin,Consent,2025-08-10
-51000525,Olivier,Duval,+33279538164,Responsable achats,marie.dupont@agence.fr,40,Brightpath,FINANCIAL_SERVICES,France,Rennes,,https://www.brightpath.fr/accueil,Brightpath,Consent,2026-05-05
-51000528,Rémi,Chevalier,+33185790647,Chargé de projet,lea.bonnet@agence.fr,5,Brightpath,COMPUTER_SOFTWARE,France,Lyon,,https://www.brightpath.fr/accueil,Brightpath,Legitimate interest – existing customer,2022-08-02
-51000530,Paul,Van Damme,+33571252967,Directeur,karim.haddad@agence.fr,120,Iris Optique,RETAIL,France,Marseille,,https://www.irisoptique.fr/accueil,Iris Optique,,2024-07-21
-51000532,Claire,Benali,+33754728123,CTO,karim.haddad@agence.fr,12,Atelier Nord,COMPUTER_SOFTWARE,France,Marseille,,https://www.ateliernord.fr/accueil,Atelier Nord,,2020-07-18
-51000533,Marc,Marchand,+33411307240,Chargé de projet,,40,Atelier Nord,COMPUTER_SOFTWARE,France,Lille,,https://www.ateliernord.fr/accueil,Atelier Nord,Legitimate interest – existing customer,2025-04-26
-51000534,Hugo,De la Fontaine,+33568507451,Directeur,,40,Roseau Paysage,MARKETING_AND_ADVERTISING,France,Nantes,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Legitimate interest – existing customer,2024-10-10
-51000536,Amina,Van Damme,+33647323549,CTO,marie.dupont@agence.fr,500,Lorette & Fils,FINANCIAL_SERVICES,France,Nantes,,https://www.lorettefils.fr/accueil,Lorette & Fils,Consent,2025-04-30
-51000540,Hugo,Fontaine,+33665313614,Chargé de projet,lea.bonnet@agence.fr,40,Menhir Data,RETAIL,France,Lille,,https://www.menhirdata.fr/accueil,Menhir Data,,2023-09-22
-51000541,Inès,Marchand,+33659167954,Directeur,karim.haddad@agence.fr,12,Roseau Paysage,FINANCIAL_SERVICES,France,Marseille,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Consent,2026-01-01
-51000542,Victor,Girard,+33140703491,Directeur,marie.dupont@agence.fr,40,Iris Optique,COMPUTER_SOFTWARE,France,Paris,,https://www.irisoptique.fr/accueil,Iris Optique,,2021-01-01
-51000546,Camille,De la Fontaine,+33339852989,CTO,karim.haddad@agence.fr,5,Sablier,RETAIL,France,Rennes,,https://www.sablier.fr/accueil,Sablier,Consent,2024-11-20
-51000547,Sarah,Lambert,+33715914975,Directeur,marie.dupont@agence.fr,500,Sablier,MARKETING_AND_ADVERTISING,France,Lille,,https://www.sablier.fr/accueil,Sablier,Consent,2025-11-06
-51000548,Antoine,Moreau,+33640793110,Responsable achats,marie.dupont@agence.fr,12,Roseau Paysage,COMPUTER_SOFTWARE,France,Nantes,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Legitimate interest – existing customer,2024-09-23
-51000549,Manon,Nguyen,+33367238497,Directeur,marie.dupont@agence.fr,12,Lorette & Fils,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.lorettefils.fr/accueil,Lorette & Fils,Consent,2025-11-03
-51000550,Victor,Benali,+33319754661,Chargé de projet,karim.haddad@agence.fr,40,Kaolin,RETAIL,France,Paris,,https://www.kaolin.fr/accueil,Kaolin,Consent,2021-01-28
-51000552,Marc,Moreau,+33424461767,Responsable achats,lea.bonnet@agence.fr,40,Brightpath,FINANCIAL_SERVICES,France,Lille,,https://www.brightpath.fr/accueil,Brightpath,,2020-02-24
-51000553,Leïla,Perrin,+33123117753,Responsable achats,,5,Lorette & Fils,COMPUTER_SOFTWARE,France,Lille,,https://www.lorettefils.fr/accueil,Lorette & Fils,,2025-09-15
-51000557,Camille,Roux,+33651241893,CTO,marie.dupont@agence.fr,5,Iris Optique,FINANCIAL_SERVICES,France,Nantes,,https://www.irisoptique.fr/accueil,Iris Optique,,2023-08-24
-51000560,Amina,Duval,+33462668217,Directeur,lea.bonnet@agence.fr,40,Verso,RETAIL,France,Paris,,https://www.verso.fr/accueil,Verso,Legitimate interest – existing customer,2021-01-21
-51000561,Thomas,François,+33689003010,Responsable achats,lea.bonnet@agence.fr,40,Atelier Nord,CONSTRUCTION,France,Lille,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2026-05-08
-51000562,Thomas,Marchand,+33611148375,Responsable achats,lea.bonnet@agence.fr,500,Dynamo Lab,CONSTRUCTION,France,Rennes,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2022-01-01
-51000565,Amina,Van Damme,+33262680408,CTO,lea.bonnet@agence.fr,500,Kaolin,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.kaolin.fr/accueil,Kaolin,Legitimate interest – existing customer,2025-12-19
-51000568,Sarah,Duval,+33683609149,CTO,karim.haddad@agence.fr,40,Kaolin,CONSTRUCTION,France,Rennes,,https://www.kaolin.fr/accueil,Kaolin,,2026-01-18
-51000569,Sophie,Roux,+33603102879,CTO,karim.haddad@agence.fr,40,Dynamo Lab,CONSTRUCTION,France,Paris,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2024-10-25
-51000572,Manon,Leroy,+33490261139,Chargé de projet,marie.dupont@agence.fr,5,Atelier Nord,FINANCIAL_SERVICES,France,Nantes,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2022-08-09
-51000573,Manon,Leroy,+33294353537,CTO,karim.haddad@agence.fr,120,Kaolin,CONSTRUCTION,France,Paris,,https://www.kaolin.fr/accueil,Kaolin,,2022-11-28
-51000576,Camille,Girard,+33786652683,CTO,lea.bonnet@agence.fr,500,Sablier,FINANCIAL_SERVICES,France,Paris,,https://www.sablier.fr/accueil,Sablier,Consent,2024-12-23
-51000578,Manon,Blanc,+33375098898,Chargé de projet,,12,Iris Optique,MARKETING_AND_ADVERTISING,France,Paris,,https://www.irisoptique.fr/accueil,Iris Optique,Consent,2025-05-18
-51000579,Élodie,De la Fontaine,+33551542144,Chargé de projet,karim.haddad@agence.fr,40,Verso,FINANCIAL_SERVICES,France,Rennes,,https://www.verso.fr/accueil,Verso,Legitimate interest – existing customer,2023-05-06
-51000580,Thomas,Chevalier,+33582090883,Directeur,lea.bonnet@agence.fr,40,Dynamo Lab,FINANCIAL_SERVICES,France,Nantes,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2025-05-21
-51000582,Inès,Nguyen,+33306185380,Directeur,,12,Verso,CONSTRUCTION,France,Nantes,,https://www.verso.fr/accueil,Verso,Legitimate interest – existing customer,2025-08-19
-51000583,Antoine,Girard,+33218306178,Responsable achats,marie.dupont@agence.fr,40,Kaolin,FINANCIAL_SERVICES,France,Nantes,,https://www.kaolin.fr/accueil,Kaolin,Consent,2023-04-18
-51000584,Leïla,Roux,+33624347769,CTO,lea.bonnet@agence.fr,12,Brightpath,COMPUTER_SOFTWARE,France,Rennes,,https://www.brightpath.fr/accueil,Brightpath,,2021-01-12
-51000585,Lucas,Nguyen,+33412751562,Chargé de projet,,5,Brightpath,CONSTRUCTION,France,Marseille,,https://www.brightpath.fr/accueil,Brightpath,Consent,2023-09-09
-51000588,Manon,Benali,+33286342556,Responsable achats,karim.haddad@agence.fr,5,Brightpath,COMPUTER_SOFTWARE,France,Rennes,,https://www.brightpath.fr/accueil,Brightpath,Consent,2020-06-16
-51000589,Olivier,Leroy,+33244033041,Chargé de projet,karim.haddad@agence.fr,5,Lorette & Fils,COMPUTER_SOFTWARE,France,Paris,,https://www.lorettefils.fr/accueil,Lorette & Fils,Consent,2021-01-09
-51000593,Manon,Blanc,+33364520599,Chargé de projet,karim.haddad@agence.fr,120,Roseau Paysage,FINANCIAL_SERVICES,France,Nantes,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,,2025-10-20
-51000595,Manon,Fontaine,+33404164485,CTO,karim.haddad@agence.fr,40,Dynamo Lab,FINANCIAL_SERVICES,France,Bordeaux,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2020-04-30
-51000601,Marc,Chevalier,+33474186520,CTO,lea.bonnet@agence.fr,12,Menhir Data,FINANCIAL_SERVICES,France,Lille,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2021-07-24
-51000602,Amina,O'Brien,+33383094515,CTO,lea.bonnet@agence.fr,40,Dynamo Lab,RETAIL,France,Nantes,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2026-05-06
-51000604,Julien,Nguyen,+33784390552,CTO,,5,Menhir Data,COMPUTER_SOFTWARE,France,Lyon,,https://www.menhirdata.fr/accueil,Menhir Data,Consent,2022-12-09
-51000605,Sophie,Chevalier,+33149386204,CTO,marie.dupont@agence.fr,120,Sablier,FINANCIAL_SERVICES,France,Rennes,,https://www.sablier.fr/accueil,Sablier,Consent,2024-07-12
-51000606,Nadia,Blanc,+33121259020,Responsable achats,,12,Kaolin,CONSTRUCTION,France,Rennes,,https://www.kaolin.fr/accueil,Kaolin,Consent,2025-06-22
-51000607,Élodie,Moreau,+33642429563,Responsable achats,karim.haddad@agence.fr,40,Iris Optique,RETAIL,France,Marseille,,https://www.irisoptique.fr/accueil,Iris Optique,Legitimate interest – existing customer,2025-11-12
-51000608,Antoine,O'Brien,+33787209628,Responsable achats,lea.bonnet@agence.fr,12,Atelier Nord,CONSTRUCTION,France,Bordeaux,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2022-05-21
-51000611,Leïla,De la Fontaine,+33359576403,Directeur,lea.bonnet@agence.fr,120,Lorette & Fils,FINANCIAL_SERVICES,France,Paris,,https://www.lorettefils.fr/accueil,Lorette & Fils,Legitimate interest – existing customer,2021-02-25
-51000613,Élodie,Girard,+33233613285,Directeur,lea.bonnet@agence.fr,120,Iris Optique,FINANCIAL_SERVICES,France,Bordeaux,,https://www.irisoptique.fr/accueil,Iris Optique,,2023-01-06
-51000614,Élodie,Fontaine,+33216252654,Chargé de projet,marie.dupont@agence.fr,120,Lorette & Fils,FINANCIAL_SERVICES,France,Paris,,https://www.lorettefils.fr/accueil,Lorette & Fils,Legitimate interest – existing customer,2021-04-07
-51000616,Marc,De la Fontaine,+33470462268,Directeur,lea.bonnet@agence.fr,120,Dynamo Lab,COMPUTER_SOFTWARE,France,Lyon,,https://www.dynamolab.fr/accueil,Dynamo Lab,,2023-04-08
-51000617,Sophie,Blanc,+33407660464,Directeur,lea.bonnet@agence.fr,40,Verso,FINANCIAL_SERVICES,France,Marseille,,https://www.verso.fr/accueil,Verso,Legitimate interest – existing customer,2022-02-27
-51000618,Marc,De la Fontaine,+33120594389,Chargé de projet,,5,Verso,COMPUTER_SOFTWARE,France,Rennes,,https://www.verso.fr/accueil,Verso,,2022-03-01
-51000620,Sarah,Blance,+33432181227,Chargé de projet,,12,Sablier,FINANCIAL_SERVICES,France,Lille,,https://www.brightpath.fr/accueil,Sablier,,2026-01-20
-51000627,Leïla,Marchand,+33768653694,CTO,marie.dupont@agence.fr,500,Dynamo Lab,FINANCIAL_SERVICES,France,Lille,,https://www.dynamolab.fr/accueil,Dynamo Lab,,2024-09-05
-51000631,Marc,Nguyen,+33752371006,Chargé de projet,,500,Verso,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.verso.fr/accueil,Verso,Consent,2025-03-20
-51000633,Claire,Moreau,+33315177345,CTO,lea.bonnet@agence.fr,40,Roseau Paysage,FINANCIAL_SERVICES,France,Marseille,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Consent,2021-01-19
-51000634,Julien,Moreau,+33135954429,CTO,,12,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2020-08-11
-51000635,Rémi,Van Damme,+33739429045,Chargé de projet,karim.haddad@agence.fr,12,Iris Optique,FINANCIAL_SERVICES,France,Rennes,,https://www.irisoptique.fr/accueil,Iris Optique,Consent,2023-11-28
-51000637,Olivier,Benali,+33508335061,CTO,lea.bonnet@agence.fr,500,Brightpath,FINANCIAL_SERVICES,France,Rennes,,https://www.brightpath.fr/accueil,Brightpath,Legitimate interest – existing customer,2020-11-13
-51000638,Julien,Nguyen,+33242337209,CTO,marie.dupont@agence.fr,5,Atelier Nord,MARKETING_AND_ADVERTISING,France,Lille,,https://www.ateliernord.fr/accueil,Atelier Nord,,2020-08-07
-51000639,Julien,Benali,+33797718051,Responsable achats,,120,Roseau Paysage,MARKETING_AND_ADVERTISING,France,Paris,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Consent,2023-09-23
-51000641,Claire,Leroy,+33644835488,CTO,marie.dupont@agence.fr,120,Kaolin,COMPUTER_SOFTWARE,France,Marseille,,https://www.kaolin.fr/accueil,Kaolin,Consent,2020-09-11
-51000644,Antoine,Marchand,+33355746966,Directeur,,12,Brightpath,RETAIL,France,Rennes,,https://www.brightpath.fr/accueil,Brightpath,,2024-11-02
-51000647,Olivier,Fontaine,+33762294938,Directeur,lea.bonnet@agence.fr,500,Dynamo Lab,CONSTRUCTION,France,Lille,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2025-08-19
-51000648,Rémi,Duval,+33655732573,Chargé de projet,karim.haddad@agence.fr,40,Dynamo Lab,FINANCIAL_SERVICES,France,Bordeaux,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2025-09-13
-51000650,Nadia,François,+33718281979,Responsable achats,,120,Atelier Nord,RETAIL,France,Bordeaux,,https://www.ateliernord.fr/accueil,Atelier Nord,Legitimate interest – existing customer,2025-06-06
-51000655,Lucas,Benali,+33374817006,Chargé de projet,lea.bonnet@agence.fr,40,Roseau Paysage,COMPUTER_SOFTWARE,France,Nantes,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Consent,2025-06-12
-51000656,Rémi,Roux,+33145023290,Responsable achats,karim.haddad@agence.fr,5,Sablier,COMPUTER_SOFTWARE,France,Lille,,https://www.sablier.fr/accueil,Sablier,Legitimate interest – existing customer,2022-02-03
-51000657,Rémi,O'Brien,+33422822512,Directeur,lea.bonnet@agence.fr,40,Atelier Nord,CONSTRUCTION,France,Lille,,https://www.ateliernord.fr/accueil,Atelier Nord,,2021-10-23
-51000658,Camille,Duval,+33626086982,Responsable achats,lea.bonnet@agence.fr,5,Brightpath,RETAIL,France,Paris,,https://www.brightpath.fr/accueil,Brightpath,Legitimate interest – existing customer,2026-02-22
-51000659,Antoine,Nguyen,+33290477425,CTO,marie.dupont@agence.fr,120,Lorette & Fils,FINANCIAL_SERVICES,France,Lyon,,https://www.lorettefils.fr/accueil,Lorette & Fils,Legitimate interest – existing customer,2020-06-11
-51000661,Leïla,Chevalier,+33329060320,Responsable achats,karim.haddad@agence.fr,120,Dynamo Lab,CONSTRUCTION,France,Paris,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2022-10-14
-51000665,Manon,Lambert,+33282521293,Responsable achats,,40,Verso,COMPUTER_SOFTWARE,France,Nantes,,https://www.verso.fr/accueil,Verso,,2022-05-25
-51000668,Manon,Marchand,+33697374189,Chargé de projet,lea.bonnet@agence.fr,5,Verso,RETAIL,France,Rennes,,https://www.verso.fr/accueil,Verso,,2025-04-24
-51000672,Sarah,Blanc,+33760392051,CTO,,40,Verso,CONSTRUCTION,France,Marseille,,https://www.verso.fr/accueil,Verso,Legitimate interest – existing customer,2026-01-17
-51000673,Inès,Nguyen,+33642388565,Responsable achats,lea.bonnet@agence.fr,500,Menhir Data,FINANCIAL_SERVICES,France,Bordeaux,,https://www.menhirdata.fr/accueil,Menhir Data,Legitimate interest – existing customer,2022-10-28
-51000674,Claire,Marchand,+33459726347,CTO,lea.bonnet@agence.fr,12,Sablier,CONSTRUCTION,France,Paris,,https://www.sablier.fr/accueil,Sablier,Legitimate interest – existing customer,2025-06-13
-51000676,Amina,Moreau,+33749915370,Responsable achats,lea.bonnet@agence.fr,120,Lorette & Fils,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.lorettefils.fr/accueil,Lorette & Fils,Consent,2025-04-20
-51000677,Thomas,Roux,+33732043097,Chargé de projet,karim.haddad@agence.fr,12,Roseau Paysage,FINANCIAL_SERVICES,France,Lille,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,,2021-07-11
-51000678,Leïla,Van Damme,+33455358512,CTO,karim.haddad@agence.fr,500,Iris Optique,RETAIL,France,Lille,,https://www.irisoptique.fr/accueil,Iris Optique,,2022-05-20
-51000679,Olivier,Perrin,+33683749079,Chargé de projet,,12,Roseau Paysage,COMPUTER_SOFTWARE,France,Lille,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,,2022-07-23
-51000680,Victor,Lambert,+33215149409,Chargé de projet,karim.haddad@agence.fr,12,Brightpath,RETAIL,France,Marseille,,https://www.brightpath.fr/accueil,Brightpath,Consent,2021-02-12
-51000682,Thomas,Perrin,+33671511696,Chargé de projet,,40,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Paris,,https://www.dynamolab.fr/accueil,Dynamo Lab,,2024-06-06
-51000684,Hugo,Petit,+33156409951,Responsable achats,,500,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2026-06-11
-51000687,Julien,Fontaine,+33158998868,Responsable achats,karim.haddad@agence.fr,12,Atelier Nord,CONSTRUCTION,France,Bordeaux,,https://www.ateliernord.fr/accueil,Atelier Nord,,2025-05-10
-51000688,Amina,De la Fontaine,+33171587964,Chargé de projet,marie.dupont@agence.fr,5,Lorette & Fils,MARKETING_AND_ADVERTISING,France,Paris,,https://www.lorettefils.fr/accueil,Lorette & Fils,,2025-07-16
-51000689,Leïla,Blanc,+33308004635,Directeur,karim.haddad@agence.fr,40,Verso,COMPUTER_SOFTWARE,France,Lyon,,https://www.verso.fr/accueil,Verso,Legitimate interest – existing customer,2024-07-08
-51000690,Sarah,Girard,+33637399006,Responsable achats,lea.bonnet@agence.fr,12,Roseau Paysage,CONSTRUCTION,France,Lyon,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,,2022-11-15
-51000691,Thomas,O'Brien,+33293946943,CTO,marie.dupont@agence.fr,120,Lorette & Fils,RETAIL,France,Marseille,,https://www.lorettefils.fr/accueil,Lorette & Fils,Legitimate interest – existing customer,2025-12-17
-51000692,Antoine,Chevalier,+33407231112,Chargé de projet,lea.bonnet@agence.fr,40,Atelier Nord,RETAIL,France,Marseille,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2026-05-07
-51000693,Rémi,Marchand,+33716318732,Directeur,marie.dupont@agence.fr,12,Atelier Nord,COMPUTER_SOFTWARE,France,Rennes,,https://www.ateliernord.fr/accueil,Atelier Nord,,2023-07-13
-51000694,Marc,François,+33557279083,Responsable achats,marie.dupont@agence.fr,5,Sablier,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.sablier.fr/accueil,Sablier,,2023-10-02
-51000696,Paul,Leroy,+33285011688,Directeur,karim.haddad@agence.fr,40,Iris Optique,COMPUTER_SOFTWARE,France,Lyon,,https://www.irisoptique.fr/accueil,Iris Optique,Legitimate interest – existing customer,2020-03-21
-51000697,Thomas,Duval,+33769130981,Directeur,,500,Lorette & Fils,RETAIL,France,Nantes,,https://www.lorettefils.fr/accueil,Lorette & Fils,Consent,2026-06-04
-51000698,Thomas,Fontaine,+33677278532,CTO,karim.haddad@agence.fr,40,Atelier Nord,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2023-08-29
-51000699,Camille,De la Fontaine,+33468362536,Chargé de projet,,120,Iris Optique,RETAIL,France,Marseille,,https://www.irisoptique.fr/accueil,Iris Optique,,2024-11-06
-51000702,Leïla,Moreau,+33732657327,CTO,,5,Lorette & Fils,COMPUTER_SOFTWARE,France,Paris,,https://www.lorettefils.fr/accueil,Lorette & Fils,Legitimate interest – existing customer,2020-01-06
-51000703,Julien,Da Silva,+33223415959,Chargé de projet,,40,Sablier,COMPUTER_SOFTWARE,France,Rennes,,https://www.sablier.fr/accueil,Sablier,Consent,2022-12-13
-51000704,Marc,Moreau,+33596288743,Directeur,,5,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Nantes,,https://www.dynamolab.fr/accueil,Dynamo Lab,,2021-10-22
-51000705,Amina,Fontaine,+33757992707,CTO,lea.bonnet@agence.fr,12,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Lille,,https://www.dynamolab.fr/accueil,Dynamo Lab,,2026-03-29
-51000707,Antoine,Da Silva,+33644765047,Directeur,marie.dupont@agence.fr,500,Dynamo Lab,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2025-11-17
-51000708,Camille,Marchand,+33460465586,Chargé de projet,karim.haddad@agence.fr,40,Lorette & Fils,FINANCIAL_SERVICES,France,Lyon,,https://www.lorettefils.fr/accueil,Lorette & Fils,,2024-03-23
-51000712,Victor,Blanc,+33713253269,CTO,lea.bonnet@agence.fr,120,Roseau Paysage,CONSTRUCTION,France,Rennes,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,,2025-01-27
-51000714,Paul,François,+33757575747,CTO,karim.haddad@agence.fr,500,Atelier Nord,MARKETING_AND_ADVERTISING,France,Paris,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2023-07-10
-51000716,Marc,Moreau,+33106724530,Chargé de projet,lea.bonnet@agence.fr,40,Atelier Nord,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.ateliernord.fr/accueil,Atelier Nord,,2024-05-26
-51000720,Sophie,Perrin,+33479417634,Responsable achats,,12,Brightpath,COMPUTER_SOFTWARE,France,Marseille,,https://www.brightpath.fr/accueil,Brightpath,,2025-07-20
-51000721,Paul,Fontaine,+33375983399,Directeur,marie.dupont@agence.fr,500,Verso,FINANCIAL_SERVICES,France,Marseille,,https://www.verso.fr/accueil,Verso,Legitimate interest – existing customer,2024-10-28
-51000722,Amina,De la Fontaine,+33224006157,Responsable achats,,12,Menhir Data,FINANCIAL_SERVICES,France,Nantes,,https://www.menhirdata.fr/accueil,Menhir Data,,2023-02-13
-51000724,Amina,Mercier,+33362590459,Directeur,karim.haddad@agence.fr,5,Menhir Data,COMPUTER_SOFTWARE,France,Lyon,,https://www.menhirdata.fr/accueil,Menhir Data,Legitimate interest – existing customer,2021-08-05
-51000725,Olivier,Leroy,+33755516517,Chargé de projet,,12,Dynamo Lab,FINANCIAL_SERVICES,France,Rennes,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2023-10-30
-51000726,Élodie,Nguyen,+33743308003,Chargé de projet,karim.haddad@agence.fr,12,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Lille,,https://www.dynamolab.fr/accueil,Dynamo Lab,,2025-03-03
-51000727,Claire,Van Damme,+33370681039,Directeur,,40,Lorette & Fils,COMPUTER_SOFTWARE,France,Lille,,https://www.lorettefils.fr/accueil,Lorette & Fils,,2026-04-01
-51000729,Olivier,Marchand,+33686321061,Responsable achats,lea.bonnet@agence.fr,500,Kaolin,CONSTRUCTION,France,Marseille,,https://www.kaolin.fr/accueil,Kaolin,,2026-02-20
-51000730,Julien,Roux,+33504032537,Chargé de projet,,500,Atelier Nord,MARKETING_AND_ADVERTISING,France,Nantes,,https://www.ateliernord.fr/accueil,Atelier Nord,,2023-08-20
-51000731,Victor,Perrin,+33510090040,CTO,karim.haddad@agence.fr,5,Iris Optique,CONSTRUCTION,France,Lyon,,https://www.irisoptique.fr/accueil,Iris Optique,Consent,2023-09-05
-51000732,Élodie,De la Fontaine,+33404014247,Responsable achats,marie.dupont@agence.fr,12,Brightpath,COMPUTER_SOFTWARE,France,Paris,,https://www.brightpath.fr/accueil,Brightpath,Legitimate interest – existing customer,2025-08-11
-51000734,Leïla,Lambert,+33373404337,Directeur,,120,Sablier,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.sablier.fr/accueil,Sablier,Consent,2023-04-25
-51000735,Julien,Marchand,+33377825588,Responsable achats,lea.bonnet@agence.fr,12,Brightpath,FINANCIAL_SERVICES,France,Nantes,,https://www.brightpath.fr/accueil,Brightpath,,2025-06-21
-51000736,Sarah,O'Brien,+33778656194,Responsable achats,,500,Iris Optique,MARKETING_AND_ADVERTISING,France,Paris,,https://www.irisoptique.fr/accueil,Iris Optique,,2024-10-22
-51000737,Manon,Moreau,+33629236161,Directeur,marie.dupont@agence.fr,500,Atelier Nord,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.ateliernord.fr/accueil,Atelier Nord,Legitimate interest – existing customer,2022-08-19
-51000738,Claire,Fontaine,+33758686395,Chargé de projet,karim.haddad@agence.fr,12,Sablier,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.sablier.fr/accueil,Sablier,Legitimate interest – existing customer,2022-10-24
-51000742,Nadia,François,+33453970548,Chargé de projet,,5,Roseau Paysage,MARKETING_AND_ADVERTISING,France,Lille,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Consent,2025-05-29
-51000743,Camille,Leroy,+33274968049,Directeur,,120,Kaolin,CONSTRUCTION,France,Rennes,,https://www.kaolin.fr/accueil,Kaolin,Legitimate interest – existing customer,2025-09-08
-51000746,Olivier,De la Fontaine,+33486111457,Chargé de projet,karim.haddad@agence.fr,5,Kaolin,MARKETING_AND_ADVERTISING,France,Paris,,https://www.kaolin.fr/accueil,Kaolin,Consent,2026-02-01
-51000748,Julien,Leroy,+33649804253,Chargé de projet,,120,Menhir Data,MARKETING_AND_ADVERTISING,France,Paris,,https://www.menhirdata.fr/accueil,Menhir Data,Legitimate interest – existing customer,2025-03-14
-51000749,Amina,Mercier,+33628217819,Responsable achats,,12,Verso,CONSTRUCTION,France,Nantes,,https://www.verso.fr/accueil,Verso,Legitimate interest – existing customer,2025-09-01
-51000751,Nadia,De la Fontaine,+33512054647,CTO,lea.bonnet@agence.fr,120,Atelier Nord,FINANCIAL_SERVICES,France,Nantes,,https://www.ateliernord.fr/accueil,Atelier Nord,,2026-03-01
-51000757,Inès,Petit,+33216309001,CTO,lea.bonnet@agence.fr,120,Verso,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.verso.fr/accueil,Verso,Legitimate interest – existing customer,2020-06-17
-51000759,Inès,Fontaine,+33763379223,CTO,karim.haddad@agence.fr,120,Sablier,FINANCIAL_SERVICES,France,Rennes,,https://www.sablier.fr/accueil,Sablier,Consent,2025-05-23
-51000760,Amina,Nguyen,+33716772696,Directeur,karim.haddad@agence.fr,120,Roseau Paysage,FINANCIAL_SERVICES,France,Marseille,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,,2023-11-10
-51000762,Thomas,Van Damme,+33693170695,CTO,,120,Atelier Nord,RETAIL,France,Paris,,https://www.ateliernord.fr/accueil,Atelier Nord,,2021-03-13
-51000764,Nadia,Perrin,+33184724264,Responsable achats,lea.bonnet@agence.fr,500,Verso,COMPUTER_SOFTWARE,France,Lyon,,https://www.verso.fr/accueil,Verso,Legitimate interest – existing customer,2025-11-25
-51000766,Marc,Moreau,+33705248088,Directeur,karim.haddad@agence.fr,120,Verso,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.verso.fr/accueil,Verso,Legitimate interest – existing customer,2024-05-14
-51000769,Rémi,Petit,+33445057303,Chargé de projet,,12,Atelier Nord,CONSTRUCTION,France,Nantes,,https://www.ateliernord.fr/accueil,Atelier Nord,Legitimate interest – existing customer,2021-11-02
-51000772,Victor,Chevalier,+33685076597,CTO,lea.bonnet@agence.fr,5,Menhir Data,FINANCIAL_SERVICES,France,Lille,,https://www.menhirdata.fr/accueil,Menhir Data,Legitimate interest – existing customer,2026-03-09
-51000775,Nadia,Roux,+33411759574,CTO,lea.bonnet@agence.fr,12,Kaolin,FINANCIAL_SERVICES,France,Lille,,https://www.kaolin.fr/accueil,Kaolin,Consent,2024-08-09
-51000778,Sophie,De la Fontaine,+33143776936,Chargé de projet,karim.haddad@agence.fr,12,Kaolin,CONSTRUCTION,France,Lyon,,https://www.kaolin.fr/accueil,Kaolin,Consent,2026-02-13
-51000779,Claire,Blanc,+33110286712,Directeur,karim.haddad@agence.fr,12,Lorette & Fils,CONSTRUCTION,France,Rennes,,https://www.lorettefils.fr/accueil,Lorette & Fils,,2025-07-14
-51000780,Hugo,Blanc,+33351091090,Responsable achats,,40,Sablier,FINANCIAL_SERVICES,France,Marseille,,https://www.sablier.fr/accueil,Sablier,Consent,2026-01-04
-51000781,Manon,François,+33179428179,Responsable achats,marie.dupont@agence.fr,40,Atelier Nord,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.ateliernord.fr/accueil,Atelier Nord,,2023-04-10
-51000782,Sarah,O'Brien,+33666345337,Responsable achats,marie.dupont@agence.fr,5,Verso,FINANCIAL_SERVICES,France,Paris,,https://www.verso.fr/accueil,Verso,Legitimate interest – existing customer,2023-01-10
-51000783,Olivier,Nguyen,+33145593766,Directeur,lea.bonnet@agence.fr,120,Dynamo Lab,COMPUTER_SOFTWARE,France,Marseille,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2024-10-15
-51000784,Amina,Benali,+33146277657,Responsable achats,,500,Brightpath,MARKETING_AND_ADVERTISING,France,Paris,,https://www.brightpath.fr/accueil,Brightpath,Legitimate interest – existing customer,2025-09-21
-51000785,Inès,De la Fontaine,+33202389743,Responsable achats,marie.dupont@agence.fr,40,Sablier,FINANCIAL_SERVICES,France,Marseille,,https://www.sablier.fr/accueil,Sablier,,2021-01-01
-51000787,Sarah,Lambert,+33491767993,CTO,,40,Iris Optique,COMPUTER_SOFTWARE,France,Rennes,,https://www.irisoptique.fr/accueil,Iris Optique,Legitimate interest – existing customer,2022-09-25
-51000791,Thomas,François,+33775188781,Chargé de projet,lea.bonnet@agence.fr,40,Iris Optique,COMPUTER_SOFTWARE,France,Marseille,,https://www.irisoptique.fr/accueil,Iris Optique,Legitimate interest – existing customer,2024-06-15
-51000792,Amina,Benali,+33191122528,Responsable achats,lea.bonnet@agence.fr,40,Verso,RETAIL,France,Rennes,,https://www.verso.fr/accueil,Verso,,2023-08-28
-51000794,Camille,Blanc,+33356057121,Directeur,,500,Brightpath,FINANCIAL_SERVICES,France,Bordeaux,,https://www.brightpath.fr/accueil,Brightpath,,2026-04-09
-51000795,Olivier,Perrin,+33386401042,CTO,lea.bonnet@agence.fr,120,Menhir Data,COMPUTER_SOFTWARE,France,Lille,,https://www.menhirdata.fr/accueil,Menhir Data,,2022-11-28
-51000798,Nadia,Da Silva,+33119017075,Chargé de projet,lea.bonnet@agence.fr,500,Iris Optique,FINANCIAL_SERVICES,France,Rennes,,https://www.irisoptique.fr/accueil,Iris Optique,Legitimate interest – existing customer,2025-11-17
-51000803,Élodie,Moreau,+33237746040,Chargé de projet,marie.dupont@agence.fr,120,Roseau Paysage,FINANCIAL_SERVICES,France,Marseille,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Legitimate interest – existing customer,2022-02-05
-51000806,Manon,Marchand,+33513443899,Responsable achats,marie.dupont@agence.fr,5,Lorette & Fils,CONSTRUCTION,France,Rennes,,https://www.lorettefils.fr/accueil,Lorette & Fils,Consent,2026-03-27
-51000807,Victor,De la Fontaine,+33432146449,Responsable achats,lea.bonnet@agence.fr,120,Atelier Nord,RETAIL,France,Lille,,https://www.ateliernord.fr/accueil,Atelier Nord,Legitimate interest – existing customer,2022-08-21
-51000809,Lucas,Mercier,+33572333510,CTO,,40,Sablier,FINANCIAL_SERVICES,France,Nantes,,https://www.sablier.fr/accueil,Sablier,Legitimate interest – existing customer,2025-04-24
-51000810,Nadia,Da Silva,+33749830748,Responsable achats,marie.dupont@agence.fr,12,Roseau Paysage,RETAIL,France,Marseille,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Legitimate interest – existing customer,2025-02-17
-51000811,Nadia,Leroy,+33306557820,Directeur,marie.dupont@agence.fr,12,Atelier Nord,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.ateliernord.fr/accueil,Atelier Nord,Legitimate interest – existing customer,2023-11-22
-51000815,Camille,Benali,+33787191203,Directeur,,12,Lorette & Fils,COMPUTER_SOFTWARE,France,Lille,,https://www.lorettefils.fr/accueil,Lorette & Fils,Legitimate interest – existing customer,2023-02-24
-51000817,Antoine,Benali,+33618297168,Directeur,,40,Dynamo Lab,CONSTRUCTION,France,Paris,,https://www.dynamolab.fr/accueil,Dynamo Lab,Legitimate interest – existing customer,2023-12-28
-51000818,Camille,Duval,+33329113717,CTO,marie.dupont@agence.fr,40,Menhir Data,CONSTRUCTION,France,Nantes,,https://www.menhirdata.fr/accueil,Menhir Data,Consent,2026-02-14
-51000819,Olivier,Leroy,+33218299874,Chargé de projet,karim.haddad@agence.fr,40,Iris Optique,FINANCIAL_SERVICES,France,Lille,,https://www.irisoptique.fr/accueil,Iris Optique,Legitimate interest – existing customer,2023-03-10
-51000820,Claire,Van Damme,+33400900436,CTO,marie.dupont@agence.fr,500,Kaolin,CONSTRUCTION,France,Lille,,https://www.kaolin.fr/accueil,Kaolin,Legitimate interest – existing customer,2026-01-04
-51000823,Inès,Leroy,+33604428773,Responsable achats,karim.haddad@agence.fr,5,Sablier,RETAIL,France,Marseille,,https://www.sablier.fr/accueil,Sablier,Legitimate interest – existing customer,2020-03-25
-51000825,Rémi,Chevalier,+33764625540,Responsable achats,lea.bonnet@agence.fr,500,Sablier,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.sablier.fr/accueil,Sablier,Legitimate interest – existing customer,2021-04-13
-51000827,Julien,Da Silva,+33604333353,CTO,marie.dupont@agence.fr,12,Menhir Data,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.menhirdata.fr/accueil,Menhir Data,Legitimate interest – existing customer,2023-03-20
-51000828,Nadia,Petit,+33418093391,Responsable achats,karim.haddad@agence.fr,40,Atelier Nord,MARKETING_AND_ADVERTISING,France,Paris,,https://www.ateliernord.fr/accueil,Atelier Nord,,2021-05-13
-51000830,Lucas,Petit,+33503657744,Directeur,marie.dupont@agence.fr,12,Verso,RETAIL,France,Marseille,,https://www.verso.fr/accueil,Verso,Consent,2025-01-11
-51000831,Hugo,Moreau,+33511894184,Responsable achats,,5,Menhir Data,FINANCIAL_SERVICES,France,Lyon,,https://www.menhirdata.fr/accueil,Menhir Data,,2025-08-10
-51000833,Lucas,Lambert,+33337666081,Directeur,,5,Brightpath,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.brightpath.fr/accueil,Brightpath,Legitimate interest – existing customer,2026-03-23
-51000836,Manon,Nguyen,+33278826033,CTO,marie.dupont@agence.fr,5,Roseau Paysage,CONSTRUCTION,France,Nantes,,https://www.roseaupaysage.fr/accueil,Roseau Paysage,Consent,2022-08-15
-51000837,Camille,Perrin,+33591449207,CTO,,500,Menhir Data,FINANCIAL_SERVICES,France,Bordeaux,,https://www.menhirdata.fr/accueil,Menhir Data,,2020-10-09
-51000838,Paul,Blanc,+33699718428,CTO,karim.haddad@agence.fr,40,Lorette & Fils,FINANCIAL_SERVICES,France,Paris,,https://www.lorettefils.fr/accueil,Lorette & Fils,,2023-02-20
-51000841,Camille,Marchand,+33612996508,Responsable achats,lea.bonnet@agence.fr,12,Menhir Data,RETAIL,France,Bordeaux,,https://www.menhirdata.fr/accueil,Menhir Data,,2022-08-07
-51000844,Olivier,Van Damme,+33139500168,Directeur,lea.bonnet@agence.fr,40,Verso,FINANCIAL_SERVICES,France,Paris,,https://www.verso.fr/accueil,Verso,Consent,2024-03-13
-51000845,Claire,Lambert,+33283976205,Responsable achats,lea.bonnet@agence.fr,120,Kaolin,RETAIL,France,Nantes,,https://www.kaolin.fr/accueil,Kaolin,Consent,2021-11-21
-51000846,Rémi,Van Damme,+33266292508,Directeur,,5,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Lille,,https://www.dynamolab.fr/accueil,Dynamo Lab,Consent,2025-10-23
-51000847,Paul,François,+33584133373,Directeur,lea.bonnet@agence.fr,12,Iris Optique,CONSTRUCTION,France,Nantes,,https://www.irisoptique.fr/accueil,Iris Optique,Legitimate interest – existing customer,2026-03-17
-51000850,Lucas,Chevalier,+33434167812,Chargé de projet,karim.haddad@agence.fr,5,Iris Optique,COMPUTER_SOFTWARE,France,Rennes,,https://www.irisoptique.fr/accueil,Iris Optique,Legitimate interest – existing customer,2025-11-14
-51000851,Nadia,Fontaine,+33134862985,Chargé de projet,,120,Atelier Nord,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.ateliernord.fr/accueil,Atelier Nord,Consent,2020-06-13
-51000852,Thomas,Petit,+33656053970,Chargé de projet,,5,Verso,RETAIL,France,Nantes,,https://www.verso.fr/accueil,Verso,Consent,2024-06-23
+51000001,Sarah,Blanc,+33265423511,Chargé de projet,lea.bonnet@agence.example,40,Iris Optique,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.irisoptique.example/accueil,Iris Optique,,2026-05-23
+51000002,Victor,Petit,+33395931034,Directeur,,120,Lorette & Fils,CONSTRUCTION,France,Lyon,,https://www.lorettefils.example/accueil,Lorette & Fils,,2025-07-31
+51000003,Hugo,Benali,+33628327648,Responsable achats,marie.dupont@agence.example,5,Iris Optique,CONSTRUCTION,France,Nantes,,https://www.irisoptique.example/accueil,Iris Optique,,2025-08-30
+51000004,Nadia,Benali,+33676724238,CTO,,120,Atelier Nord,CONSTRUCTION,France,Lyon,,https://www.ateliernord.example/accueil,Atelier Nord,Legitimate interest – existing customer,2022-12-08
+51000005,Manon,Fontaine,+33226916697,CTO,marie.dupont@agence.example,40,Sablier,CONSTRUCTION,France,Paris,,https://www.sablier.example/accueil,Sablier,,2025-12-08
+51000006,Lucas,Girard,+33648281489,Responsable achats,karim.haddad@agence.example,500,Kaolin,COMPUTER_SOFTWARE,France,Lille,,https://www.kaolin.example/accueil,Kaolin,,2026-06-05
+51000009,Julien,Roux,+33534738299,Chargé de projet,,5,Sablier,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.sablier.example/accueil,Sablier,,2026-02-10
+51000011,Sarah,Mercier,+33701326773,Chargé de projet,,120,Sablier,CONSTRUCTION,France,Rennes,,https://www.sablier.example/accueil,Sablier,,2025-11-23
+51000014,Rémi,Nguyen,+33499118384,Responsable achats,karim.haddad@agence.example,40,Brightpath,MARKETING_AND_ADVERTISING,France,Nantes,,https://www.brightpath.example/accueil,Brightpath,Consent,2025-08-25
+51000015,Rémi,Perrin,+33541241182,CTO,karim.haddad@agence.example,12,Verso,CONSTRUCTION,France,Lille,,https://www.verso.example/accueil,Verso,,2026-05-17
+51000017,Sophie,De la Fontaine,+33305331586,Responsable achats,karim.haddad@agence.example,5,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.dynamolab.example/accueil,Dynamo Lab,,2025-12-29
+51000018,Lucas,Roux,+33160733754,Responsable achats,karim.haddad@agence.example,40,Iris Optique,CONSTRUCTION,France,Rennes,,https://www.irisoptique.example/accueil,Iris Optique,Legitimate interest – existing customer,2024-09-04
+51000020,Olivier,Van Damme,+33160883561,CTO,marie.dupont@agence.example,500,Atelier Nord,CONSTRUCTION,France,Bordeaux,,https://www.ateliernord.example/accueil,Atelier Nord,,2024-05-01
+51000024,Sarah,Moreau,+33557986872,Chargé de projet,karim.haddad@agence.example,500,Kaolin,RETAIL,France,Bordeaux,,https://www.kaolin.example/accueil,Kaolin,Legitimate interest – existing customer,2020-07-04
+51000025,Inès,Nguyen,+33355812236,Responsable achats,marie.dupont@agence.example,120,Sablier,CONSTRUCTION,France,Lille,,https://www.sablier.example/accueil,Sablier,,2023-04-05
+51000026,Lucas,Lambert,+33790967054,Chargé de projet,karim.haddad@agence.example,12,Roseau Paysage,CONSTRUCTION,France,Nantes,,https://www.roseaupaysage.example/accueil,Roseau Paysage,,2021-10-02
+51000029,Paul,Moreau,+33619374529,Directeur,marie.dupont@agence.example,5,Roseau Paysage,CONSTRUCTION,France,Lille,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Consent,2025-01-17
+51000030,Amina,Van Damme,+33631491905,Chargé de projet,marie.dupont@agence.example,40,Roseau Paysage,COMPUTER_SOFTWARE,France,Rennes,,https://www.roseaupaysage.example/accueil,Roseau Paysage,,2025-08-11
+51000031,Antoine,Petit,+33772628498,Chargé de projet,lea.bonnet@agence.example,12,Lorette & Fils,COMPUTER_SOFTWARE,France,Marseille,,https://www.lorettefils.example/accueil,Lorette & Fils,,2022-05-27
+51000032,Thomas,Nguyen,+33175273545,CTO,lea.bonnet@agence.example,5,Atelier Nord,FINANCIAL_SERVICES,France,Lyon,,https://www.ateliernord.example/accueil,Atelier Nord,Legitimate interest – existing customer,2022-03-19
+51000035,Olivier,Benali,+33240824008,CTO,,5,Iris Optique,FINANCIAL_SERVICES,France,Marseille,,https://www.irisoptique.example/accueil,Iris Optique,,2023-11-30
+51000037,Paul,Perrin,+33567749649,Directeur,marie.dupont@agence.example,12,Atelier Nord,CONSTRUCTION,France,Bordeaux,,https://www.ateliernord.example/accueil,Atelier Nord,Legitimate interest – existing customer,2023-12-07
+51000038,Marc,Roux,+33206797403,CTO,,12,Dynamo Lab,CONSTRUCTION,France,Rennes,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2020-04-10
+51000039,Leïla,Benali,+33224210249,CTO,,120,Lorette & Fils,CONSTRUCTION,France,Lille,,https://www.lorettefils.example/accueil,Lorette & Fils,Consent,2025-03-05
+51000040,Antoine,Nguyen,+33459401399,Directeur,marie.dupont@agence.example,120,Sablier,FINANCIAL_SERVICES,France,Bordeaux,,https://www.sablier.example/accueil,Sablier,,2019-10-04
+51000047,Rémi,De la Fontaine,+33561586578,Directeur,karim.haddad@agence.example,12,Kaolin,COMPUTER_SOFTWARE,France,Nantes,,https://www.kaolin.example/accueil,Kaolin,Legitimate interest – existing customer,2023-06-29
+51000052,Hugo,Leroy,+33374517123,Chargé de projet,marie.dupont@agence.example,5,Verso,CONSTRUCTION,France,Lille,,https://www.verso.example/accueil,Verso,Legitimate interest – existing customer,2023-05-29
+51000054,Julien,Marchand,+33282675869,Responsable achats,marie.dupont@agence.example,500,Kaolin,RETAIL,France,Marseille,,https://www.kaolin.example/accueil,Kaolin,Legitimate interest – existing customer,2025-02-28
+51000057,Camille,Moreau,+33550240268,Directeur,,40,Menhir Data,FINANCIAL_SERVICES,France,Lille,,https://www.menhirdata.example/accueil,Menhir Data,Legitimate interest – existing customer,2022-06-12
+51000058,Sarah,Leroy,,Directeur,,5,Roseau Paysage,CONSTRUCTION,France,Lille,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Legitimate interest – existing customer,2025-12-23
+51000062,Hugo,Mercier,+33393689980,CTO,lea.bonnet@agence.example,40,Brightpath,CONSTRUCTION,France,Paris,,https://www.brightpath.example/accueil,Brightpath,Legitimate interest – existing customer,2025-03-05
+51000063,Sophie,Blanc,+33601836675,Responsable achats,lea.bonnet@agence.example,500,Lorette & Fils,COMPUTER_SOFTWARE,France,Paris,,https://www.lorettefils.example/accueil,Lorette & Fils,Legitimate interest – existing customer,2025-09-06
+51000064,Marc,Perrin,+33467976438,Directeur,marie.dupont@agence.example,500,Menhir Data,RETAIL,France,Lille,,https://www.menhirdata.example/accueil,Menhir Data,Consent,2025-07-19
+51000066,Thomas,Leroy,+33406071596,Chargé de projet,,5,Verso,RETAIL,France,Paris,,https://www.verso.example/accueil,Verso,,2022-06-29
+51000067,Marc,Perrin,+33413696816,CTO,karim.haddad@agence.example,12,Kaolin,COMPUTER_SOFTWARE,France,Lille,,https://www.kaolin.example/accueil,Kaolin,Consent,2022-05-28
+51000068,Olivier,Leroy,+33352312432,Responsable achats,karim.haddad@agence.example,120,Verso,FINANCIAL_SERVICES,France,Rennes,,https://www.verso.example/accueil,Verso,Consent,2024-04-15
+51000070,Hugo,n/a,+33586798079,Responsable achats,,12,Sablier,COMPUTER_SOFTWARE,France,Nantes,,https://www.sablier.example/accueil,Sablier,Legitimate interest – existing customer,2025-06-14
+51000071,Claire,François,+33277889255,CTO,lea.bonnet@agence.example,5,Verso,CONSTRUCTION,France,Paris,,https://www.verso.example/accueil,Verso,,2024-07-12
+51000074,Manon,Lambert,+33422292706,CTO,karim.haddad@agence.example,500,Brightpath,CONSTRUCTION,France,Rennes,,https://www.brightpath.example/accueil,Brightpath,Consent,2024-12-29
+51000077,Amina,François,+33315220472,Chargé de projet,marie.dupont@agence.example,5,Brightpath,CONSTRUCTION,France,Lyon,,https://www.brightpath.example/accueil,Brightpath,Legitimate interest – existing customer,2023-12-12
+51000080,Jean-Pierre,De la Fontaine,+33331952058,CTO,,12,Menhir Data,MARKETING_AND_ADVERTISING,France,Paris,,https://www.menhirdata.example/accueil,Menhir Data,Consent,2022-06-17
+51000084,Nadia,Van Damme,+33620297021,Responsable achats,lea.bonnet@agence.example,500,Brightpath,COMPUTER_SOFTWARE,France,Lille,,https://www.brightpath.example/accueil,Brightpath,Legitimate interest – existing customer,2020-09-16
+51000086,Inès,Chevalier,+33373121727,Directeur,lea.bonnet@agence.example,500,Kaolin,FINANCIAL_SERVICES,France,Marseille,,https://www.kaolin.example/accueil,Kaolin,,2024-01-22
+51000087,Marc,Girard,+33132370589,CTO,karim.haddad@agence.example,5,Brightpath,COMPUTER_SOFTWARE,France,Marseille,,https://www.brightpath.example/accueil,Brightpath,,2020-10-04
+51000089,Marc,Da Silva,+33314384249,Directeur,karim.haddad@agence.example,500,Roseau Paysage,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Consent,2022-08-01
+51000090,Paul,Perrin,+33701094396,Directeur,lea.bonnet@agence.example,120,Brightpath,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.brightpath.example/accueil,Brightpath,Consent,2020-02-22
+51000091,Amina,Marchand,+33276773592,CTO,lea.bonnet@agence.example,12,Kaolin,CONSTRUCTION,France,Lille,,https://www.kaolin.example/accueil,Kaolin,Consent,2025-08-24
+51000095,Inès,Perrin,+33165585239,Chargé de projet,marie.dupont@agence.example,12,Atelier Nord,CONSTRUCTION,France,Rennes,,https://www.ateliernord.example/accueil,Atelier Nord,,2025-02-17
+51000096,Manon,Nguyen,+33395269495,Chargé de projet,lea.bonnet@agence.example,5,Dynamo Lab,CONSTRUCTION,France,Marseille,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2020-09-06
+51000098,Olivier,Benali,+33426368970,Responsable achats,lea.bonnet@agence.example,500,Menhir Data,RETAIL,France,Marseille,,https://www.menhirdata.example/accueil,Menhir Data,Legitimate interest – existing customer,2021-07-08
+51000100,Inès,Marchand,+33566524041,CTO,lea.bonnet@agence.example,12,Sablier,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.sablier.example/accueil,Sablier,Consent,2020-01-13
+51000101,Inès,Mercier,+33593308330,Directeur,,12,Iris Optique,COMPUTER_SOFTWARE,France,Lille,,https://www.irisoptique.example/accueil,Iris Optique,Legitimate interest – existing customer,2024-12-03
+51000102,Lucas,Fontaine,+33354019380,Responsable achats,marie.dupont@agence.example,120,Kaolin,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.kaolin.example/accueil,Kaolin,,2024-03-24
+51000104,Marc,Duval,+33632966851,Chargé de projet,karim.haddad@agence.example,120,Brightpath,CONSTRUCTION,France,Lyon,,https://www.brightpath.example/accueil,Brightpath,Legitimate interest – existing customer,2023-02-26
+51000105,Inès,Van Damme,+33354990453,Directeur,,12,Roseau Paysage,RETAIL,France,Bordeaux,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Consent,2021-06-15
+51000106,Rémi,Petit,+33232727956,Chargé de projet,karim.haddad@agence.example,500,Iris Optique,COMPUTER_SOFTWARE,France,Lille,,https://www.irisoptique.example/accueil,Iris Optique,,2022-05-05
+51000108,Julien,Nguyen,+33490874064,Directeur,marie.dupont@agence.example,120,Dynamo Lab,CONSTRUCTION,France,Bordeaux,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2020-09-15
+51000110,Manon,Moreau,+33378686337,CTO,karim.haddad@agence.example,5,Roseau Paysage,RETAIL,France,Lille,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Legitimate interest – existing customer,2026-06-04
+51000111,Thomas,Benali,+33179030673,Responsable achats,lea.bonnet@agence.example,500,Sablier,CONSTRUCTION,France,Lille,,https://www.sablier.example/accueil,Sablier,Consent,2025-05-01
+51000112,Claire,Roux,+33536440892,Chargé de projet,marie.dupont@agence.example,120,Iris Optique,FINANCIAL_SERVICES,France,Marseille,,https://www.irisoptique.example/accueil,Iris Optique,Consent,2024-11-09
+51000113,Lucas,De la Fontaine,+33287334270,Chargé de projet,karim.haddad@agence.example,12,Dynamo Lab,CONSTRUCTION,France,Lyon,,https://www.dynamolab.example/accueil,Dynamo Lab,,2023-02-06
+51000118,Julien,Duval,+33212038750,Chargé de projet,marie.dupont@agence.example,500,Lorette & Fils,FINANCIAL_SERVICES,France,Nantes,,https://www.lorettefils.example/accueil,Lorette & Fils,Legitimate interest – existing customer,2024-12-02
+51000119,Camille,Leroy,+33186211823,Responsable achats,lea.bonnet@agence.example,40,Iris Optique,RETAIL,France,Paris,,https://www.irisoptique.example/accueil,Iris Optique,,2020-06-15
+51000123,Paul,Van Damme,+33777358662,Chargé de projet,lea.bonnet@agence.example,5,Brightpath,COMPUTER_SOFTWARE,France,Marseille,,https://www.brightpath.example/accueil,Brightpath,Legitimate interest – existing customer,2026-02-17
+51000125,Camille,François,+33595604661,Responsable achats,karim.haddad@agence.example,12,Brightpath,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.brightpath.example/accueil,Brightpath,,2020-03-31
+51000126,Inès,Fontaine,+33446471543,Chargé de projet,karim.haddad@agence.example,5,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2025-10-02
+51000128,Claire,Van Damme,+33193982807,Responsable achats,marie.dupont@agence.example,120,Iris Optique,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.irisoptique.example/accueil,Iris Optique,,2022-01-21
+51000130,Paul,Lambert,+33361014388,Responsable achats,,500,Atelier Nord,FINANCIAL_SERVICES,France,Lyon,,https://www.ateliernord.example/accueil,Atelier Nord,,2021-12-25
+51000132,Julien,Petit,+33123828258,Chargé de projet,,12,Menhir Data,RETAIL,France,Nantes,,https://www.menhirdata.example/accueil,Menhir Data,Legitimate interest – existing customer,2022-08-13
+51000134,Manon,Da Silva,+33491557924,Directeur,lea.bonnet@agence.example,12,Atelier Nord,CONSTRUCTION,France,Paris,,https://www.ateliernord.example/accueil,Atelier Nord,Legitimate interest – existing customer,2022-02-08
+51000135,Hugo,Moreau,+33529662782,Responsable achats,karim.haddad@agence.example,40,Verso,RETAIL,France,Lille,,https://www.verso.example/accueil,Verso,Legitimate interest – existing customer,2022-02-08
+51000137,Victor,Marchand,+33678819148,CTO,,12,Dynamo Lab,RETAIL,France,Paris,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2021-05-02
+51000141,Nadia,Nguyen,+33436374545,Responsable achats,lea.bonnet@agence.example,5,Brightpath,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.brightpath.example/accueil,Brightpath,,2025-10-02
+51000143,Thomas,De la Fontaine,+33271293870,Directeur,marie.dupont@agence.example,12,Sablier,RETAIL,France,Paris,,https://www.sablier.example/accueil,Sablier,Legitimate interest – existing customer,2025-05-25
+51000144,Amina,François,+33342622189,Directeur,karim.haddad@agence.example,40,Sablier,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.sablier.example/accueil,Sablier,Consent,2025-04-22
+51000149,Lucas,Roux,+33417990421,Directeur,marie.dupont@agence.example,120,Menhir Data,CONSTRUCTION,France,Lille,,https://www.menhirdata.example/accueil,Menhir Data,Consent,2023-09-21
+51000150,Inès,Girard,+33741056481,CTO,marie.dupont@agence.example,120,Brightpath,FINANCIAL_SERVICES,France,Marseille,,https://www.brightpath.example/accueil,Brightpath,Legitimate interest – existing customer,2025-01-15
+51000153,Rémi,Da Silva,+33153494937,CTO,karim.haddad@agence.example,12,Sablier,MARKETING_AND_ADVERTISING,France,Paris,,https://www.sablier.example/accueil,Sablier,,2020-04-05
+51000154,Camille,Roux,+33705064138,Responsable achats,marie.dupont@agence.example,40,Verso,COMPUTER_SOFTWARE,France,Paris,,https://www.verso.example/accueil,Verso,Legitimate interest – existing customer,2022-07-31
+51000155,Manon,De la Fontaine,+33191826199,Directeur,karim.haddad@agence.example,40,Brightpath,CONSTRUCTION,France,Rennes,,https://www.brightpath.example/accueil,Brightpath,,2021-04-28
+51000156,Amina,Da Silva,+33213291212,Chargé de projet,,500,Brightpath,CONSTRUCTION,France,Rennes,,https://www.brightpath.example/accueil,Brightpath,Legitimate interest – existing customer,2021-05-21
+51000159,Camille,François,+33151070296,Chargé de projet,,12,Roseau Paysage,CONSTRUCTION,France,Lyon,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Legitimate interest – existing customer,2021-06-28
+51000162,Julien,Fontaine,+33532133480,Responsable achats,lea.bonnet@agence.example,12,Verso,MARKETING_AND_ADVERTISING,France,Lille,,https://www.verso.example/accueil,Verso,,2022-06-15
+51000165,Sophie,Girard,+33328953926,CTO,lea.bonnet@agence.example,12,Lorette & Fils,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.lorettefils.example/accueil,Lorette & Fils,Consent,2020-12-31
+51000167,Élodie,Roux,+33710067626,Chargé de projet,,120,Sablier,FINANCIAL_SERVICES,France,Bordeaux,,https://www.sablier.example/accueil,Sablier,Consent,2022-07-14
+51000168,Thomas,Girard,+33305411526,Responsable achats,marie.dupont@agence.example,500,Kaolin,FINANCIAL_SERVICES,France,Nantes,,https://www.kaolin.example/accueil,Kaolin,Consent,2025-08-21
+51000170,Sophie,Lambert,+33397310324,Directeur,lea.bonnet@agence.example,120,Brightpath,RETAIL,France,Bordeaux,,https://www.brightpath.example/accueil,Brightpath,,2026-06-03
+51000173,Paul,Moreau,+33233206163,Responsable achats,lea.bonnet@agence.example,5,Sablier,RETAIL,France,Lille,,https://www.sablier.example/accueil,Sablier,,2021-06-05
+51000174,Victor,Da Silva,+33709986162,Responsable achats,marie.dupont@agence.example,500,Iris Optique,COMPUTER_SOFTWARE,France,Rennes,,https://www.irisoptique.example/accueil,Iris Optique,,2020-08-20
+51000175,Victor,O'Brien,+33679970246,Responsable achats,,120,Lorette & Fils,CONSTRUCTION,France,Bordeaux,,https://www.lorettefils.example/accueil,Lorette & Fils,Legitimate interest – existing customer,2023-07-03
+51000180,Thomas,Chevalier,+33646657437,CTO,,5,Atelier Nord,COMPUTER_SOFTWARE,France,Lille,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2023-01-14
+51000182,Sophie,Duval,+33466099353,Chargé de projet,lea.bonnet@agence.example,500,Kaolin,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.kaolin.example/accueil,Kaolin,Legitimate interest – existing customer,2023-02-24
+51000184,Leïla,Blanc,+33281684602,Responsable achats,,120,Atelier Nord,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2025-08-31
+51000185,Marc,François,+33250074329,Responsable achats,karim.haddad@agence.example,120,Kaolin,RETAIL,France,Nantes,,https://www.kaolin.example/accueil,Kaolin,,2022-09-25
+51000186,Antoine,Van Damme,+33650583003,Responsable achats,lea.bonnet@agence.example,5,Menhir Data,RETAIL,France,Lille,,https://www.menhirdata.example/accueil,Menhir Data,Consent,2026-01-15
+51000187,Rémi,Girard,+33378985625,Chargé de projet,karim.haddad@agence.example,5,Sablier,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.sablier.example/accueil,Sablier,Consent,2025-12-13
+51000188,Sophie,Benali,+33215064890,Directeur,marie.dupont@agence.example,5,Menhir Data,RETAIL,France,Nantes,,https://www.menhirdata.example/accueil,Menhir Data,,2019-11-07
+51000189,Olivier,Mercier,+33230461849,Responsable achats,marie.dupont@agence.example,5,Iris Optique,COMPUTER_SOFTWARE,France,Nantes,,https://www.irisoptique.example/accueil,Iris Optique,Legitimate interest – existing customer,2021-02-21
+51000191,Sophie,François,+33143744701,Responsable achats,lea.bonnet@agence.example,120,Verso,COMPUTER_SOFTWARE,France,Paris,,https://www.verso.example/accueil,Verso,Legitimate interest – existing customer,2025-08-15
+51000192,Camille,Moreau,+33494155216,Chargé de projet,,120,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Paris,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2022-10-11
+51000193,Julien,Girard,+33497296590,Responsable achats,marie.dupont@agence.example,120,Sablier,COMPUTER_SOFTWARE,France,Paris,,https://www.sablier.example/accueil,Sablier,,2021-10-18
+51000195,Marc,Leroy,+33175354083,Chargé de projet,marie.dupont@agence.example,120,Kaolin,FINANCIAL_SERVICES,France,Nantes,,https://www.kaolin.example/accueil,Kaolin,Legitimate interest – existing customer,2020-11-26
+51000196,Antoine,Nguyen,+33601660880,Directeur,lea.bonnet@agence.example,500,Brightpath,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.brightpath.example/accueil,Brightpath,Consent,2025-02-17
+51000197,Sarah,Da Silva,+33775899757,Directeur,karim.haddad@agence.example,40,Brightpath,CONSTRUCTION,France,Rennes,,https://www.brightpath.example/accueil,Brightpath,Consent,2025-11-08
+51000199,Olivier,De la Fontaine,+33777982708,Directeur,,12,Menhir Data,FINANCIAL_SERVICES,France,Lyon,,https://www.menhirdata.example/accueil,Menhir Data,Consent,2019-11-11
+51000200,Sophie,Petit,+33386693465,CTO,karim.haddad@agence.example,500,Lorette & Fils,FINANCIAL_SERVICES,France,Marseille,,https://www.lorettefils.example/accueil,Lorette & Fils,Consent,2019-09-24
+51000202,Victor,Marchand,+33162003424,CTO,lea.bonnet@agence.example,500,Lorette & Fils,COMPUTER_SOFTWARE,France,Marseille,,https://www.lorettefils.example/accueil,Lorette & Fils,,2026-04-27
+51000203,Olivier,Perrin,+33686384066,Chargé de projet,marie.dupont@agence.example,40,Verso,MARKETING_AND_ADVERTISING,France,Lille,,https://www.verso.example/accueil,Verso,,2023-12-13
+51000204,Thomas,O'Brien,+33533472122,Directeur,,500,Atelier Nord,CONSTRUCTION,France,Lyon,,https://www.ateliernord.example/accueil,Atelier Nord,Legitimate interest – existing customer,2020-05-02
+51000205,Amina,Van Dammee,+33620259094,Chargé de projet,lea.bonnet@agence.example,40,Roseau Paysage,FINANCIAL_SERVICES,France,Lyon,,https://www.menhirdata.example/accueil,Roseau Paysage,Legitimate interest – existing customer,2022-10-04
+51000207,Sarah,Roux,+33656164840,CTO,,5,Atelier Nord,CONSTRUCTION,France,Bordeaux,,https://www.ateliernord.example/accueil,Atelier Nord,Legitimate interest – existing customer,2023-09-24
+51000208,Claire,Leroy,+33788013361,Responsable achats,,12,Sablier,COMPUTER_SOFTWARE,France,Nantes,,https://www.sablier.example/accueil,Sablier,Consent,2025-05-21
+51000209,Claire,Lambert,+33248193466,Chargé de projet,,5,Sablier,RETAIL,France,Bordeaux,,https://www.sablier.example/accueil,Sablier,Legitimate interest – existing customer,2025-08-22
+51000210,Victor,Duval,+33501581449,Directeur,,5,Atelier Nord,RETAIL,France,Lyon,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2025-10-02
+51000212,Hugo,Benali,+33223943129,Directeur,marie.dupont@agence.example,5,Lorette & Fils,CONSTRUCTION,France,Paris,,https://www.lorettefils.example/accueil,Lorette & Fils,Legitimate interest – existing customer,2020-09-18
+51000214,Claire,De la Fontaine,+33736452577,Chargé de projet,,5,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2026-05-30
+51000216,Hugo,Van Damme,+33742788165,Directeur,karim.haddad@agence.example,12,Roseau Paysage,RETAIL,France,Lyon,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Legitimate interest – existing customer,2019-11-07
+51000217,Leïla,Blanc,+33137314530,Responsable achats,,120,Dynamo Lab,COMPUTER_SOFTWARE,France,Paris,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2021-01-15
+51000218,Claire,Petit,+33398926659,Directeur,,500,Verso,RETAIL,France,Marseille,,https://www.verso.example/accueil,Verso,,2023-05-25
+51000219,Antoine,Fontaine,+33272318432,Responsable achats,marie.dupont@agence.example,120,Atelier Nord,CONSTRUCTION,France,Bordeaux,,https://www.ateliernord.example/accueil,Atelier Nord,Legitimate interest – existing customer,2026-05-22
+51000220,Antoine,Fontaine,+33260302992,Responsable achats,marie.dupont@agence.example,12,Kaolin,COMPUTER_SOFTWARE,France,Lyon,,https://www.kaolin.example/accueil,Kaolin,,2024-02-06
+51000223,Victor,Leroy,+33629806865,Directeur,,120,Sablier,RETAIL,France,Marseille,,https://www.sablier.example/accueil,Sablier,Consent,2025-06-02
+51000224,Leïla,Petit,+33431498643,Directeur,marie.dupont@agence.example,500,Lorette & Fils,COMPUTER_SOFTWARE,France,Lille,,https://www.lorettefils.example/accueil,Lorette & Fils,Legitimate interest – existing customer,2024-12-17
+51000226,Antoine,Girard,+33444956213,Chargé de projet,marie.dupont@agence.example,500,Brightpath,RETAIL,France,Rennes,,https://www.brightpath.example/accueil,Brightpath,,2020-03-11
+51000228,Manon,Marchand,+33277038430,Responsable achats,marie.dupont@agence.example,12,Atelier Nord,COMPUTER_SOFTWARE,France,Lyon,,https://www.ateliernord.example/accueil,Atelier Nord,Legitimate interest – existing customer,2025-10-26
+51000230,Camille,Chevalier,+33181845184,CTO,,120,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.dynamolab.example/accueil,Dynamo Lab,,2021-11-24
+51000231,Sarah,Nguyen,+33316335658,Directeur,karim.haddad@agence.example,5,Atelier Nord,RETAIL,France,Bordeaux,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2026-02-26
+51000233,Paul,O'Brien,+33179080759,CTO,lea.bonnet@agence.example,12,Dynamo Lab,FINANCIAL_SERVICES,France,Marseille,,https://www.dynamolab.example/accueil,Dynamo Lab,,2025-04-08
+51000234,Thomas,Blanc,+33478085627,Directeur,,5,Dynamo Lab,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2025-11-09
+51000241,Manon,François,+33216433472,Responsable achats,marie.dupont@agence.example,40,Sablier,CONSTRUCTION,France,Rennes,,https://www.sablier.example/accueil,Sablier,,2023-07-09
+51000243,Inès,Moreau,+33525478077,CTO,lea.bonnet@agence.example,12,Iris Optique,COMPUTER_SOFTWARE,France,Lille,,https://www.irisoptique.example/accueil,Iris Optique,,2026-05-06
+51000246,Thomas,François,+33364757051,Responsable achats,,500,Dynamo Lab,RETAIL,France,Lyon,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2026-04-19
+51000247,Inès,Van Damme,+33636730371,Responsable achats,lea.bonnet@agence.example,12,Menhir Data,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.menhirdata.example/accueil,Menhir Data,Consent,2025-02-04
+51000249,Antoine,Perrin,+33132719500,CTO,marie.dupont@agence.example,120,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2022-04-19
+51000250,Hugo,Nguyen,+33324077848,Chargé de projet,karim.haddad@agence.example,40,Roseau Paysage,CONSTRUCTION,France,Bordeaux,,https://www.roseaupaysage.example/accueil,Roseau Paysage,,2026-03-23
+51000251,Inès,Perrin,+33527448570,Chargé de projet,marie.dupont@agence.example,40,Verso,FINANCIAL_SERVICES,France,Lyon,,https://www.verso.example/accueil,Verso,,2024-08-31
+51000252,Nadia,Mercier,+33678294565,Directeur,marie.dupont@agence.example,12,Lorette & Fils,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.lorettefils.example/accueil,Lorette & Fils,Legitimate interest – existing customer,2024-05-02
+51000256,Sarah,O'Brien,+33756659398,Responsable achats,lea.bonnet@agence.example,120,Brightpath,RETAIL,France,Nantes,,https://www.brightpath.example/accueil,Brightpath,Legitimate interest – existing customer,2020-04-17
+51000257,Julien,Marchand,+33304335048,Responsable achats,,12,Atelier Nord,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.ateliernord.example/accueil,Atelier Nord,,2026-04-13
+51000258,Leïla,Roux,+33196931572,Chargé de projet,marie.dupont@agence.example,40,Roseau Paysage,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Consent,2023-08-04
+51000259,Amina,François,+33766139060,CTO,lea.bonnet@agence.example,500,Menhir Data,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.menhirdata.example/accueil,Menhir Data,Consent,2022-09-18
+51000261,Inès,François,+33722783769,Responsable achats,karim.haddad@agence.example,5,Lorette & Fils,CONSTRUCTION,France,Rennes,,https://www.lorettefils.example/accueil,Lorette & Fils,,2020-11-01
+51000262,Claire,Blanc,+33465535590,CTO,,12,Sablier,RETAIL,France,Paris,,https://www.sablier.example/accueil,Sablier,Legitimate interest – existing customer,2025-03-15
+51000263,Élodie,O'Brien,+33603924051,CTO,marie.dupont@agence.example,12,Dynamo Lab,FINANCIAL_SERVICES,France,Lyon,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2025-07-02
+51000265,Inès,O'Brien,+33663681579,Directeur,,5,Sablier,COMPUTER_SOFTWARE,France,Lyon,,https://www.sablier.example/accueil,Sablier,Consent,2026-04-01
+51000266,Rémi,Da Silva,+33205554384,Directeur,,500,Kaolin,CONSTRUCTION,France,Lyon,,https://www.kaolin.example/accueil,Kaolin,Legitimate interest – existing customer,2022-01-19
+51000267,Claire,Van Damme,+33489363926,CTO,,12,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2025-06-24
+51000269,Sarah,Chevalier,+33220994999,Responsable achats,karim.haddad@agence.example,40,Dynamo Lab,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.dynamolab.example/accueil,Dynamo Lab,,2024-05-10
+51000271,Élodie,Benali,+33797573660,Chargé de projet,,500,Sablier,FINANCIAL_SERVICES,France,Lille,,https://www.sablier.example/accueil,Sablier,Consent,2024-06-23
+51000273,Lucas,Marchand,+33277181298,Responsable achats,lea.bonnet@agence.example,5,Atelier Nord,MARKETING_AND_ADVERTISING,France,Nantes,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2025-11-07
+51000274,Élodie,Nguyen,+33621117518,Chargé de projet,karim.haddad@agence.example,500,Sablier,RETAIL,France,Paris,,https://www.sablier.example/accueil,Sablier,Legitimate interest – existing customer,2023-08-29
+51000278,Marc,Nguyen,+33145561681,CTO,marie.dupont@agence.example,40,Atelier Nord,FINANCIAL_SERVICES,France,Nantes,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2022-06-04
+51000279,Élodie,Benali,+33581794695,CTO,lea.bonnet@agence.example,500,Atelier Nord,FINANCIAL_SERVICES,France,Nantes,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2025-10-23
+51000280,Antoine,Fontaine,+33330107139,Chargé de projet,lea.bonnet@agence.example,500,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Paris,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2023-11-08
+51000281,Élodie,Marchand,+33388501556,Directeur,lea.bonnet@agence.example,120,Iris Optique,RETAIL,France,Rennes,,https://www.irisoptique.example/accueil,Iris Optique,Legitimate interest – existing customer,2025-09-14
+51000286,Claire,Benali,+33557142241,Directeur,marie.dupont@agence.example,500,Roseau Paysage,CONSTRUCTION,France,Lille,,https://www.roseaupaysage.example/accueil,Roseau Paysage,,2023-04-02
+51000288,Amina,Girard,+33779545381,Chargé de projet,marie.dupont@agence.example,5,Atelier Nord,RETAIL,France,Marseille,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2019-10-26
+51000291,Antoine,Van Damme,+33796695832,Directeur,,500,Sablier,FINANCIAL_SERVICES,France,Nantes,,https://www.sablier.example/accueil,Sablier,,2022-08-23
+51000293,Amina,Perrin,+33254946519,Directeur,,40,Atelier Nord,COMPUTER_SOFTWARE,France,Marseille,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2021-06-13
+51000294,Julien,Duval,+33740369656,Chargé de projet,karim.haddad@agence.example,120,Verso,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.verso.example/accueil,Verso,Consent,2022-06-08
+51000296,Sarah,Leroy,+33453269097,Responsable achats,lea.bonnet@agence.example,500,Lorette & Fils,FINANCIAL_SERVICES,France,Marseille,,https://www.lorettefils.example/accueil,Lorette & Fils,Legitimate interest – existing customer,2020-04-09
+51000298,Claire,Mercier,+33579565442,Directeur,lea.bonnet@agence.example,40,Menhir Data,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.menhirdata.example/accueil,Menhir Data,,2021-03-16
+51000299,Leïla,Girard,+33790471281,CTO,lea.bonnet@agence.example,40,Atelier Nord,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.ateliernord.example/accueil,Atelier Nord,Legitimate interest – existing customer,2025-11-19
+51000300,Paul,Girard,+33452437280,CTO,karim.haddad@agence.example,120,Atelier Nord,RETAIL,France,Lyon,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2024-10-07
+51000301,Sarah,Girard,+33750410276,Chargé de projet,karim.haddad@agence.example,120,Roseau Paysage,RETAIL,France,Marseille,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Legitimate interest – existing customer,2019-12-26
+51000303,Thomas,Blanc,+33625800106,Directeur,,12,Roseau Paysage,CONSTRUCTION,France,Marseille,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Legitimate interest – existing customer,2020-08-19
+51000306,Antoine,Petit,+33439174101,Directeur,lea.bonnet@agence.example,5,Dynamo Lab,RETAIL,France,Lyon,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2020-05-26
+51000307,Camille,Lambert,+33656908776,Chargé de projet,karim.haddad@agence.example,120,Lorette & Fils,RETAIL,France,Paris,,https://www.lorettefils.example/accueil,Lorette & Fils,Consent,2023-06-23
+51000308,Victor,O'Brien,+33115851743,Responsable achats,,40,Brightpath,RETAIL,France,Paris,,https://www.brightpath.example/accueil,Brightpath,Consent,2023-01-25
+51000309,Hugo,Fontaine,+33220309376,Directeur,lea.bonnet@agence.example,500,Sablier,RETAIL,France,Paris,,https://www.sablier.example/accueil,Sablier,Legitimate interest – existing customer,2021-07-21
+51000310,Claire,Lambert,+33287829310,Responsable achats,marie.dupont@agence.example,500,Brightpath,COMPUTER_SOFTWARE,France,Lyon,,https://www.brightpath.example/accueil,Brightpath,Consent,2025-12-25
+51000311,Sophie,Duval,+33717929111,Chargé de projet,karim.haddad@agence.example,12,Dynamo Lab,RETAIL,France,Marseille,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2025-11-26
+51000313,Leïla,Lambert,+33562071002,Directeur,lea.bonnet@agence.example,120,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2025-05-05
+51000314,Inès,Leroy,+33290927914,CTO,karim.haddad@agence.example,5,Kaolin,FINANCIAL_SERVICES,France,Paris,,https://www.kaolin.example/accueil,Kaolin,Consent,2021-11-04
+51000321,Lucas,Benali,+33210742799,Directeur,karim.haddad@agence.example,12,Dynamo Lab,CONSTRUCTION,France,Bordeaux,,https://www.dynamolab.example/accueil,Dynamo Lab,,2022-06-11
+51000322,Camille,François,+33146498931,CTO,lea.bonnet@agence.example,5,Lorette & Fils,RETAIL,France,Marseille,,https://www.lorettefils.example/accueil,Lorette & Fils,,2022-09-24
+51000323,Paul,Lambert,+33681832538,Directeur,karim.haddad@agence.example,40,Brightpath,CONSTRUCTION,France,Marseille,,https://www.brightpath.example/accueil,Brightpath,Consent,2022-05-10
+51000324,Lucas,Chevalier,+33377881788,CTO,lea.bonnet@agence.example,12,Menhir Data,RETAIL,France,Paris,,https://www.menhirdata.example/accueil,Menhir Data,Legitimate interest – existing customer,2025-10-02
+51000325,Amina,Girard,+33241272380,CTO,karim.haddad@agence.example,40,Iris Optique,RETAIL,France,Nantes,,https://www.irisoptique.example/accueil,Iris Optique,Consent,2025-08-07
+51000326,Camille,Marchand,+33738569557,Chargé de projet,karim.haddad@agence.example,12,Roseau Paysage,CONSTRUCTION,France,Lyon,,https://www.roseaupaysage.example/accueil,Roseau Paysage,,2025-10-04
+51000329,Camille,Mercier,+33647492975,Directeur,marie.dupont@agence.example,500,Verso,COMPUTER_SOFTWARE,France,Marseille,,https://www.verso.example/accueil,Verso,Legitimate interest – existing customer,2022-10-01
+51000332,Sarah,De la Fontaine,+33766299123,CTO,lea.bonnet@agence.example,500,Kaolin,RETAIL,France,Paris,,https://www.kaolin.example/accueil,Kaolin,Legitimate interest – existing customer,2023-03-24
+51000335,Lucas,Chevalier,+33590429025,Chargé de projet,lea.bonnet@agence.example,5,Kaolin,CONSTRUCTION,France,Marseille,,https://www.kaolin.example/accueil,Kaolin,,2025-02-14
+51000339,Nadia,De la Fontaine,+33776031089,Directeur,lea.bonnet@agence.example,5,Sablier,CONSTRUCTION,France,Bordeaux,,https://www.sablier.example/accueil,Sablier,Legitimate interest – existing customer,2025-08-04
+51000341,Camille,Leroy,+33280138759,Responsable achats,marie.dupont@agence.example,40,Roseau Paysage,RETAIL,France,Nantes,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Legitimate interest – existing customer,2024-04-25
+51000342,Manon,Roux,+33317182754,Directeur,,120,Lorette & Fils,CONSTRUCTION,France,Nantes,,https://www.lorettefils.example/accueil,Lorette & Fils,Consent,2025-03-13
+51000343,Rémi,Nguyen,+33363175207,Directeur,marie.dupont@agence.example,12,Roseau Paysage,RETAIL,France,Nantes,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Consent,2020-04-02
+51000344,Leïla,Petit,+33253961367,CTO,lea.bonnet@agence.example,40,Dynamo Lab,RETAIL,France,Bordeaux,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2025-09-26
+51000346,Paul,Da Silva,+33511877347,Chargé de projet,lea.bonnet@agence.example,500,Dynamo Lab,COMPUTER_SOFTWARE,France,Rennes,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2023-01-25
+51000347,Lucas,Petit,+33767700284,Responsable achats,karim.haddad@agence.example,120,Lorette & Fils,RETAIL,France,Rennes,,https://www.lorettefils.example/accueil,Lorette & Fils,Legitimate interest – existing customer,2021-06-01
+51000348,Leïla,Fontaine,+33478280647,Chargé de projet,lea.bonnet@agence.example,40,Verso,COMPUTER_SOFTWARE,France,Paris,,https://www.verso.example/accueil,Verso,Consent,2020-05-31
+51000351,Amina,Da Silva,+33135785294,CTO,,500,Atelier Nord,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.ateliernord.example/accueil,Atelier Nord,,2025-05-14
+51000353,Lucas,Mercier,+33449878208,Responsable achats,karim.haddad@agence.example,40,Brightpath,FINANCIAL_SERVICES,France,Rennes,,https://www.brightpath.example/accueil,Brightpath,Consent,2024-03-21
+51000354,Lucas,Blanc,+33372324665,Directeur,,40,Menhir Data,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.menhirdata.example/accueil,Menhir Data,Consent,2020-08-09
+51000355,Paul,Roux,+33230347786,Chargé de projet,karim.haddad@agence.example,40,Lorette & Fils,MARKETING_AND_ADVERTISING,France,Paris,,https://www.lorettefils.example/accueil,Lorette & Fils,,2023-10-16
+51000356,Inès,Mercier,+33700159416,CTO,marie.dupont@agence.example,12,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Paris,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2025-12-28
+51000357,Manon,Petit,+33547139155,Chargé de projet,karim.haddad@agence.example,12,Verso,MARKETING_AND_ADVERTISING,France,Paris,,https://www.verso.example/accueil,Verso,Legitimate interest – existing customer,2019-12-15
+51000358,Élodie,Chevalier,+33790785158,Chargé de projet,karim.haddad@agence.example,12,Kaolin,CONSTRUCTION,France,Nantes,,https://www.kaolin.example/accueil,Kaolin,Consent,2021-11-19
+51000359,Hugo,Marchand,+33703486451,Responsable achats,marie.dupont@agence.example,40,Menhir Data,CONSTRUCTION,France,Paris,,https://www.menhirdata.example/accueil,Menhir Data,Legitimate interest – existing customer,2026-01-27
+51000361,Victor,Da Silva,+33627206345,Directeur,karim.haddad@agence.example,12,Kaolin,FINANCIAL_SERVICES,France,Bordeaux,,https://www.kaolin.example/accueil,Kaolin,,2026-02-26
+51000362,Claire,Nguyen,+33295431652,Chargé de projet,karim.haddad@agence.example,5,Kaolin,FINANCIAL_SERVICES,France,Bordeaux,,https://www.kaolin.example/accueil,Kaolin,Consent,2024-12-19
+51000365,Camille,Marchand,+33435971072,CTO,karim.haddad@agence.example,120,Iris Optique,FINANCIAL_SERVICES,France,Marseille,,https://www.irisoptique.example/accueil,Iris Optique,Legitimate interest – existing customer,2023-10-28
+51000366,Olivier,Mercier,+33275990048,Chargé de projet,lea.bonnet@agence.example,500,Menhir Data,COMPUTER_SOFTWARE,France,Lille,,https://www.menhirdata.example/accueil,Menhir Data,Legitimate interest – existing customer,2025-11-17
+51000369,Lucas,Petit,+33687771215,Directeur,karim.haddad@agence.example,500,Kaolin,CONSTRUCTION,France,Lille,,https://www.kaolin.example/accueil,Kaolin,Consent,2026-01-02
+51000370,Leïla,Benali,+33526137150,CTO,marie.dupont@agence.example,40,Atelier Nord,FINANCIAL_SERVICES,France,Paris,,https://www.ateliernord.example/accueil,Atelier Nord,,2026-06-02
+51000372,Nadia,Mercier,+33442361032,Chargé de projet,karim.haddad@agence.example,40,Atelier Nord,RETAIL,France,Rennes,,https://www.ateliernord.example/accueil,Atelier Nord,,2022-03-09
+51000375,Manon,De la Fontaine,+33510818661,Chargé de projet,lea.bonnet@agence.example,40,Iris Optique,FINANCIAL_SERVICES,France,Paris,,https://www.irisoptique.example/accueil,Iris Optique,Consent,2020-02-02
+51000376,Camille,Petit,+33760164597,Chargé de projet,lea.bonnet@agence.example,12,Kaolin,MARKETING_AND_ADVERTISING,France,Paris,,https://www.kaolin.example/accueil,Kaolin,Consent,2024-06-13
+51000378,Camille,Benali,+33703723683,Directeur,karim.haddad@agence.example,120,Sablier,COMPUTER_SOFTWARE,France,Paris,,https://www.sablier.example/accueil,Sablier,Legitimate interest – existing customer,2026-04-14
+51000380,Victor,Marchand,+33489973080,Chargé de projet,marie.dupont@agence.example,120,Menhir Data,RETAIL,France,Paris,,https://www.menhirdata.example/accueil,Menhir Data,,2020-12-30
+51000381,Paul,O'Brien,+33243757383,CTO,,40,Kaolin,RETAIL,France,Nantes,,https://www.kaolin.example/accueil,Kaolin,Consent,2021-07-28
+51000382,Hugo,Fontaine,+33617223297,Directeur,lea.bonnet@agence.example,12,Dynamo Lab,FINANCIAL_SERVICES,France,Paris,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2024-02-21
+51000383,Hugo,Chevalier,+33780156193,Directeur,,40,Brightpath,CONSTRUCTION,France,Rennes,,https://www.brightpath.example/accueil,Brightpath,Legitimate interest – existing customer,2024-09-07
+51000384,Victor,Chevalier,+33610771199,Directeur,marie.dupont@agence.example,5,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2020-09-06
+51000386,Inès,O'Brien,+33632863266,Chargé de projet,lea.bonnet@agence.example,120,Lorette & Fils,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.lorettefils.example/accueil,Lorette & Fils,Legitimate interest – existing customer,2022-06-02
+51000389,Élodie,François,+33552008943,CTO,marie.dupont@agence.example,40,Verso,CONSTRUCTION,France,Bordeaux,,https://www.verso.example/accueil,Verso,Consent,2020-04-10
+51000390,Hugo,Petit,+33390753998,Responsable achats,lea.bonnet@agence.example,12,Menhir Data,RETAIL,France,Lille,,https://www.menhirdata.example/accueil,Menhir Data,Consent,2025-01-24
+51000391,Thomas,Petit,+33257126611,Directeur,,120,Brightpath,COMPUTER_SOFTWARE,France,Marseille,,https://www.brightpath.example/accueil,Brightpath,Consent,2020-09-02
+51000393,Manon,Petit,+33128519611,CTO,marie.dupont@agence.example,12,Roseau Paysage,COMPUTER_SOFTWARE,France,Marseille,,https://www.roseaupaysage.example/accueil,Roseau Paysage,,2021-05-10
+51000394,Hugo,Marchand,+33722960443,Responsable achats,marie.dupont@agence.example,500,Iris Optique,CONSTRUCTION,France,Paris,,https://www.irisoptique.example/accueil,Iris Optique,Legitimate interest – existing customer,2021-01-05
+51000395,Lucas,Fontaine,+33456792287,Chargé de projet,karim.haddad@agence.example,5,Atelier Nord,FINANCIAL_SERVICES,France,Bordeaux,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2022-12-28
+51000396,Lucas,Van Damme,+33507412094,Directeur,marie.dupont@agence.example,500,Roseau Paysage,FINANCIAL_SERVICES,France,Lille,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Legitimate interest – existing customer,2022-01-11
+51000399,Marc,Lambert,+33104615265,CTO,marie.dupont@agence.example,12,Atelier Nord,FINANCIAL_SERVICES,France,Lille,,https://www.ateliernord.example/accueil,Atelier Nord,Legitimate interest – existing customer,2022-10-25
+51000400,Antoine,Leroy,+33305786170,Chargé de projet,marie.dupont@agence.example,500,Verso,FINANCIAL_SERVICES,France,Bordeaux,,https://www.verso.example/accueil,Verso,Legitimate interest – existing customer,2022-02-22
+51000401,Thomas,Mercier,+33471832582,Responsable achats,,5,Dynamo Lab,RETAIL,France,Rennes,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2023-01-18
+51000405,Hugo,Benali,+33145319433,Chargé de projet,lea.bonnet@agence.example,500,Kaolin,MARKETING_AND_ADVERTISING,France,Paris,,https://www.kaolin.example/accueil,Kaolin,Legitimate interest – existing customer,2026-05-11
+51000406,Amina,Petit,+33428399921,Responsable achats,karim.haddad@agence.example,500,Iris Optique,MARKETING_AND_ADVERTISING,France,Lille,,https://www.irisoptique.example/accueil,Iris Optique,Consent,2020-01-30
+51000408,Thomas,Lambert,+33450635190,Responsable achats,marie.dupont@agence.example,12,Iris Optique,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.irisoptique.example/accueil,Iris Optique,,2021-10-02
+51000412,Olivier,Petit,+33193928456,Chargé de projet,,12,Menhir Data,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.menhirdata.example/accueil,Menhir Data,Legitimate interest – existing customer,2019-10-16
+51000414,Manon,Mercier,+33233153779,CTO,lea.bonnet@agence.example,40,Menhir Data,RETAIL,France,Marseille,,https://www.menhirdata.example/accueil,Menhir Data,Legitimate interest – existing customer,2021-09-24
+51000418,Olivier,Moreau,+33565596309,Responsable achats,karim.haddad@agence.example,12,Dynamo Lab,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.dynamolab.example/accueil,Dynamo Lab,,2024-05-03
+51000419,Sophie,Leroy,+33617912868,CTO,,40,Atelier Nord,CONSTRUCTION,France,Lille,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2020-12-24
+51000421,Nadia,Moreau,+33553907895,Chargé de projet,,40,Sablier,RETAIL,France,Marseille,,https://www.sablier.example/accueil,Sablier,,2023-02-26
+51000425,Victor,Duval,+33724075536,Chargé de projet,lea.bonnet@agence.example,500,Brightpath,COMPUTER_SOFTWARE,France,Lille,,https://www.brightpath.example/accueil,Brightpath,Legitimate interest – existing customer,2024-11-26
+51000429,Élodie,Leroy,+33127169385,Chargé de projet,marie.dupont@agence.example,40,Kaolin,RETAIL,France,Marseille,,https://www.kaolin.example/accueil,Kaolin,Consent,2023-05-17
+51000430,Rémi,Van Damme,+33229676291,Chargé de projet,karim.haddad@agence.example,40,Atelier Nord,FINANCIAL_SERVICES,France,Marseille,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2024-07-01
+51000435,Élodie,François,+33220681558,Responsable achats,,5,Roseau Paysage,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Legitimate interest – existing customer,2025-05-19
+51000436,Hugo,Da Silva,+33306373149,CTO,karim.haddad@agence.example,40,Dynamo Lab,FINANCIAL_SERVICES,France,Nantes,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2026-04-18
+51000441,Sarah,Marchand,+33429344973,CTO,lea.bonnet@agence.example,120,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Nantes,,https://www.dynamolab.example/accueil,Dynamo Lab,,2024-03-31
+51000442,Lucas,Leroy,+33270661498,Responsable achats,karim.haddad@agence.example,120,Atelier Nord,RETAIL,France,Marseille,,https://www.ateliernord.example/accueil,Atelier Nord,,2021-08-08
+51000443,Rémi,Van Damme,+33327323008,CTO,,40,Verso,RETAIL,France,Nantes,,https://www.verso.example/accueil,Verso,,2021-01-26
+51000444,Leïla,François,+33492364587,CTO,,12,Lorette & Fils,MARKETING_AND_ADVERTISING,France,Nantes,,https://www.lorettefils.example/accueil,Lorette & Fils,Legitimate interest – existing customer,2026-01-10
+51000445,Hugo,Duval,+33424399201,Directeur,,500,Dynamo Lab,COMPUTER_SOFTWARE,France,Lille,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2023-07-14
+51000449,Olivier,Duval,+33190138069,CTO,lea.bonnet@agence.example,120,Menhir Data,CONSTRUCTION,France,Marseille,,https://www.menhirdata.example/accueil,Menhir Data,Consent,2023-06-25
+51000450,Claire,Da Silva,+33469055107,Chargé de projet,marie.dupont@agence.example,5,Roseau Paysage,FINANCIAL_SERVICES,France,Marseille,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Consent,2022-05-31
+51000451,Thomas,O'Brien,+33430505057,Responsable achats,,5,Kaolin,CONSTRUCTION,France,Nantes,,https://www.kaolin.example/accueil,Kaolin,,2021-02-18
+51000456,Thomas,Fontaine,+33320954814,Chargé de projet,,120,Kaolin,COMPUTER_SOFTWARE,France,Rennes,,https://www.kaolin.example/accueil,Kaolin,,2024-10-23
+51000457,Sophie,Benali,+33776420865,Chargé de projet,lea.bonnet@agence.example,120,Roseau Paysage,COMPUTER_SOFTWARE,France,Lille,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Consent,2025-11-15
+51000458,Rémi,Marchand,+33125904729,Responsable achats,,12,Roseau Paysage,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Consent,2020-04-26
+51000460,Amina,Roux,+33474926176,CTO,,5,Menhir Data,COMPUTER_SOFTWARE,France,Paris,,https://www.menhirdata.example/accueil,Menhir Data,Legitimate interest – existing customer,2025-02-17
+51000461,Olivier,Fontaine,+33599741926,Chargé de projet,,500,Verso,MARKETING_AND_ADVERTISING,France,Paris,,https://www.verso.example/accueil,Verso,,2023-12-10
+51000463,Sarah,Da Silva,+33532184011,CTO,karim.haddad@agence.example,5,Sablier,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.sablier.example/accueil,Sablier,Legitimate interest – existing customer,2026-01-09
+51000465,Sophie,Perrin,+33342961844,Chargé de projet,,5,Verso,CONSTRUCTION,France,Bordeaux,,https://www.verso.example/accueil,Verso,,2024-01-16
+51000466,Sophie,Mercier,+33335989262,CTO,marie.dupont@agence.example,12,Roseau Paysage,COMPUTER_SOFTWARE,France,Marseille,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Legitimate interest – existing customer,2025-09-02
+51000467,Victor,Petit,+33315542340,Directeur,,5,Verso,MARKETING_AND_ADVERTISING,France,Lille,,https://www.verso.example/accueil,Verso,Consent,2021-11-25
+51000468,Rémi,Blanc,+33394849102,CTO,lea.bonnet@agence.example,500,Kaolin,FINANCIAL_SERVICES,France,Rennes,,https://www.kaolin.example/accueil,Kaolin,,2025-05-23
+51000469,Antoine,Blanc,+33682226940,CTO,,12,Dynamo Lab,RETAIL,France,Marseille,,https://www.dynamolab.example/accueil,Dynamo Lab,,2023-07-23
+51000470,Manon,Marchand,+33634146511,Directeur,marie.dupont@agence.example,500,Iris Optique,COMPUTER_SOFTWARE,France,Paris,,https://www.irisoptique.example/accueil,Iris Optique,Consent,2021-08-31
+51000471,Rémi,Mercier,+33527788160,Responsable achats,,40,Kaolin,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.kaolin.example/accueil,Kaolin,Consent,2026-05-06
+51000472,Manon,Perrin,+33683215285,Directeur,,40,Menhir Data,COMPUTER_SOFTWARE,France,Marseille,,https://www.menhirdata.example/accueil,Menhir Data,Consent,2021-06-07
+51000473,Thomas,Mercier,+33444309634,Directeur,,40,Sablier,COMPUTER_SOFTWARE,France,Lille,,https://www.sablier.example/accueil,Sablier,,2023-03-18
+51000474,Claire,Marchand,+33326501673,Directeur,karim.haddad@agence.example,5,Brightpath,RETAIL,France,Paris,,https://www.brightpath.example/accueil,Brightpath,Legitimate interest – existing customer,2025-04-06
+51000476,Rémi,Lambert,+33650237416,Chargé de projet,karim.haddad@agence.example,120,Dynamo Lab,FINANCIAL_SERVICES,France,Bordeaux,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2022-01-14
+51000477,Amina,Moreau,+33225803056,Directeur,lea.bonnet@agence.example,120,Sablier,COMPUTER_SOFTWARE,France,Rennes,,https://www.sablier.example/accueil,Sablier,,2025-04-03
+51000482,Sophie,Perrin,+33633711895,CTO,karim.haddad@agence.example,12,Sablier,COMPUTER_SOFTWARE,France,Lyon,,https://www.sablier.example/accueil,Sablier,Legitimate interest – existing customer,2026-01-01
+51000486,Inès,Lambert,+33105955184,Responsable achats,lea.bonnet@agence.example,5,Roseau Paysage,COMPUTER_SOFTWARE,France,Rennes,,https://www.roseaupaysage.example/accueil,Roseau Paysage,,2024-02-09
+51000490,Inès,Moreau,+33718513279,Chargé de projet,lea.bonnet@agence.example,12,Atelier Nord,MARKETING_AND_ADVERTISING,France,Paris,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2026-04-24
+51000491,Inès,Mercier,+33184186203,Directeur,,40,Sablier,CONSTRUCTION,France,Lyon,,https://www.sablier.example/accueil,Sablier,Consent,2026-03-24
+51000494,Antoine,François,+33642152265,CTO,,500,Sablier,CONSTRUCTION,France,Lyon,,https://www.sablier.example/accueil,Sablier,Consent,2019-12-26
+51000495,Thomas,Van Damme,+33587883619,Chargé de projet,karim.haddad@agence.example,12,Lorette & Fils,CONSTRUCTION,France,Paris,,https://www.lorettefils.example/accueil,Lorette & Fils,Legitimate interest – existing customer,2020-04-20
+51000498,Sophie,Girard,+33547657041,Responsable achats,marie.dupont@agence.example,12,Kaolin,FINANCIAL_SERVICES,France,Lyon,,https://www.kaolin.example/accueil,Kaolin,Legitimate interest – existing customer,2024-11-22
+51000499,Amina,De la Fontaine,+33749843624,Directeur,karim.haddad@agence.example,120,Kaolin,FINANCIAL_SERVICES,France,Paris,,https://www.kaolin.example/accueil,Kaolin,Legitimate interest – existing customer,2020-04-01
+51000500,Amina,Girard,+33456620563,CTO,marie.dupont@agence.example,500,Verso,CONSTRUCTION,France,Paris,,https://www.verso.example/accueil,Verso,Legitimate interest – existing customer,2025-08-06
+51000502,Nadia,Marchand,+33368356521,CTO,marie.dupont@agence.example,12,Menhir Data,COMPUTER_SOFTWARE,France,Lille,,https://www.menhirdata.example/accueil,Menhir Data,,2022-06-19
+51000503,Antoine,Blanc,+33271133228,CTO,lea.bonnet@agence.example,40,Menhir Data,FINANCIAL_SERVICES,France,Rennes,,https://www.menhirdata.example/accueil,Menhir Data,,2023-03-18
+51000504,Julien,Van Damme,+33512971024,Directeur,,12,Roseau Paysage,CONSTRUCTION,France,Lyon,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Legitimate interest – existing customer,2024-02-14
+51000507,Thomas,Van Damme,+33478711216,Chargé de projet,lea.bonnet@agence.example,40,Kaolin,CONSTRUCTION,France,Lille,,https://www.kaolin.example/accueil,Kaolin,,2025-06-01
+51000511,Sophie,Fontaine,+33448072791,Directeur,karim.haddad@agence.example,500,Brightpath,MARKETING_AND_ADVERTISING,France,Lille,,https://www.brightpath.example/accueil,Brightpath,,2025-03-10
+51000512,Élodie,O'Brien,+33505504481,Chargé de projet,,40,Roseau Paysage,CONSTRUCTION,France,Rennes,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Consent,2024-04-27
+51000515,Olivier,O'Brien,+33660538444,CTO,karim.haddad@agence.example,120,Kaolin,COMPUTER_SOFTWARE,France,Paris,,https://www.kaolin.example/accueil,Kaolin,Legitimate interest – existing customer,2021-10-31
+51000519,Sophie,Duval,+33491124421,Directeur,karim.haddad@agence.example,5,Atelier Nord,RETAIL,France,Rennes,,https://www.ateliernord.example/accueil,Atelier Nord,Legitimate interest – existing customer,2025-04-21
+51000520,Lucas,François,+33666572240,Responsable achats,marie.dupont@agence.example,40,Kaolin,CONSTRUCTION,France,Nantes,,https://www.kaolin.example/accueil,Kaolin,Consent,2025-08-10
+51000525,Olivier,Duval,+33279538164,Responsable achats,marie.dupont@agence.example,40,Brightpath,FINANCIAL_SERVICES,France,Rennes,,https://www.brightpath.example/accueil,Brightpath,Consent,2026-05-05
+51000528,Rémi,Chevalier,+33185790647,Chargé de projet,lea.bonnet@agence.example,5,Brightpath,COMPUTER_SOFTWARE,France,Lyon,,https://www.brightpath.example/accueil,Brightpath,Legitimate interest – existing customer,2022-08-02
+51000530,Paul,Van Damme,+33571252967,Directeur,karim.haddad@agence.example,120,Iris Optique,RETAIL,France,Marseille,,https://www.irisoptique.example/accueil,Iris Optique,,2024-07-21
+51000532,Claire,Benali,+33754728123,CTO,karim.haddad@agence.example,12,Atelier Nord,COMPUTER_SOFTWARE,France,Marseille,,https://www.ateliernord.example/accueil,Atelier Nord,,2020-07-18
+51000533,Marc,Marchand,+33411307240,Chargé de projet,,40,Atelier Nord,COMPUTER_SOFTWARE,France,Lille,,https://www.ateliernord.example/accueil,Atelier Nord,Legitimate interest – existing customer,2025-04-26
+51000534,Hugo,De la Fontaine,+33568507451,Directeur,,40,Roseau Paysage,MARKETING_AND_ADVERTISING,France,Nantes,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Legitimate interest – existing customer,2024-10-10
+51000536,Amina,Van Damme,+33647323549,CTO,marie.dupont@agence.example,500,Lorette & Fils,FINANCIAL_SERVICES,France,Nantes,,https://www.lorettefils.example/accueil,Lorette & Fils,Consent,2025-04-30
+51000540,Hugo,Fontaine,+33665313614,Chargé de projet,lea.bonnet@agence.example,40,Menhir Data,RETAIL,France,Lille,,https://www.menhirdata.example/accueil,Menhir Data,,2023-09-22
+51000541,Inès,Marchand,+33659167954,Directeur,karim.haddad@agence.example,12,Roseau Paysage,FINANCIAL_SERVICES,France,Marseille,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Consent,2026-01-01
+51000542,Victor,Girard,+33140703491,Directeur,marie.dupont@agence.example,40,Iris Optique,COMPUTER_SOFTWARE,France,Paris,,https://www.irisoptique.example/accueil,Iris Optique,,2021-01-01
+51000546,Camille,De la Fontaine,+33339852989,CTO,karim.haddad@agence.example,5,Sablier,RETAIL,France,Rennes,,https://www.sablier.example/accueil,Sablier,Consent,2024-11-20
+51000547,Sarah,Lambert,+33715914975,Directeur,marie.dupont@agence.example,500,Sablier,MARKETING_AND_ADVERTISING,France,Lille,,https://www.sablier.example/accueil,Sablier,Consent,2025-11-06
+51000548,Antoine,Moreau,+33640793110,Responsable achats,marie.dupont@agence.example,12,Roseau Paysage,COMPUTER_SOFTWARE,France,Nantes,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Legitimate interest – existing customer,2024-09-23
+51000549,Manon,Nguyen,+33367238497,Directeur,marie.dupont@agence.example,12,Lorette & Fils,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.lorettefils.example/accueil,Lorette & Fils,Consent,2025-11-03
+51000550,Victor,Benali,+33319754661,Chargé de projet,karim.haddad@agence.example,40,Kaolin,RETAIL,France,Paris,,https://www.kaolin.example/accueil,Kaolin,Consent,2021-01-28
+51000552,Marc,Moreau,+33424461767,Responsable achats,lea.bonnet@agence.example,40,Brightpath,FINANCIAL_SERVICES,France,Lille,,https://www.brightpath.example/accueil,Brightpath,,2020-02-24
+51000553,Leïla,Perrin,+33123117753,Responsable achats,,5,Lorette & Fils,COMPUTER_SOFTWARE,France,Lille,,https://www.lorettefils.example/accueil,Lorette & Fils,,2025-09-15
+51000557,Camille,Roux,+33651241893,CTO,marie.dupont@agence.example,5,Iris Optique,FINANCIAL_SERVICES,France,Nantes,,https://www.irisoptique.example/accueil,Iris Optique,,2023-08-24
+51000560,Amina,Duval,+33462668217,Directeur,lea.bonnet@agence.example,40,Verso,RETAIL,France,Paris,,https://www.verso.example/accueil,Verso,Legitimate interest – existing customer,2021-01-21
+51000561,Thomas,François,+33689003010,Responsable achats,lea.bonnet@agence.example,40,Atelier Nord,CONSTRUCTION,France,Lille,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2026-05-08
+51000562,Thomas,Marchand,+33611148375,Responsable achats,lea.bonnet@agence.example,500,Dynamo Lab,CONSTRUCTION,France,Rennes,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2022-01-01
+51000565,Amina,Van Damme,+33262680408,CTO,lea.bonnet@agence.example,500,Kaolin,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.kaolin.example/accueil,Kaolin,Legitimate interest – existing customer,2025-12-19
+51000568,Sarah,Duval,+33683609149,CTO,karim.haddad@agence.example,40,Kaolin,CONSTRUCTION,France,Rennes,,https://www.kaolin.example/accueil,Kaolin,,2026-01-18
+51000569,Sophie,Roux,+33603102879,CTO,karim.haddad@agence.example,40,Dynamo Lab,CONSTRUCTION,France,Paris,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2024-10-25
+51000572,Manon,Leroy,+33490261139,Chargé de projet,marie.dupont@agence.example,5,Atelier Nord,FINANCIAL_SERVICES,France,Nantes,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2022-08-09
+51000573,Manon,Leroy,+33294353537,CTO,karim.haddad@agence.example,120,Kaolin,CONSTRUCTION,France,Paris,,https://www.kaolin.example/accueil,Kaolin,,2022-11-28
+51000576,Camille,Girard,+33786652683,CTO,lea.bonnet@agence.example,500,Sablier,FINANCIAL_SERVICES,France,Paris,,https://www.sablier.example/accueil,Sablier,Consent,2024-12-23
+51000578,Manon,Blanc,+33375098898,Chargé de projet,,12,Iris Optique,MARKETING_AND_ADVERTISING,France,Paris,,https://www.irisoptique.example/accueil,Iris Optique,Consent,2025-05-18
+51000579,Élodie,De la Fontaine,+33551542144,Chargé de projet,karim.haddad@agence.example,40,Verso,FINANCIAL_SERVICES,France,Rennes,,https://www.verso.example/accueil,Verso,Legitimate interest – existing customer,2023-05-06
+51000580,Thomas,Chevalier,+33582090883,Directeur,lea.bonnet@agence.example,40,Dynamo Lab,FINANCIAL_SERVICES,France,Nantes,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2025-05-21
+51000582,Inès,Nguyen,+33306185380,Directeur,,12,Verso,CONSTRUCTION,France,Nantes,,https://www.verso.example/accueil,Verso,Legitimate interest – existing customer,2025-08-19
+51000583,Antoine,Girard,+33218306178,Responsable achats,marie.dupont@agence.example,40,Kaolin,FINANCIAL_SERVICES,France,Nantes,,https://www.kaolin.example/accueil,Kaolin,Consent,2023-04-18
+51000584,Leïla,Roux,+33624347769,CTO,lea.bonnet@agence.example,12,Brightpath,COMPUTER_SOFTWARE,France,Rennes,,https://www.brightpath.example/accueil,Brightpath,,2021-01-12
+51000585,Lucas,Nguyen,+33412751562,Chargé de projet,,5,Brightpath,CONSTRUCTION,France,Marseille,,https://www.brightpath.example/accueil,Brightpath,Consent,2023-09-09
+51000588,Manon,Benali,+33286342556,Responsable achats,karim.haddad@agence.example,5,Brightpath,COMPUTER_SOFTWARE,France,Rennes,,https://www.brightpath.example/accueil,Brightpath,Consent,2020-06-16
+51000589,Olivier,Leroy,+33244033041,Chargé de projet,karim.haddad@agence.example,5,Lorette & Fils,COMPUTER_SOFTWARE,France,Paris,,https://www.lorettefils.example/accueil,Lorette & Fils,Consent,2021-01-09
+51000593,Manon,Blanc,+33364520599,Chargé de projet,karim.haddad@agence.example,120,Roseau Paysage,FINANCIAL_SERVICES,France,Nantes,,https://www.roseaupaysage.example/accueil,Roseau Paysage,,2025-10-20
+51000595,Manon,Fontaine,+33404164485,CTO,karim.haddad@agence.example,40,Dynamo Lab,FINANCIAL_SERVICES,France,Bordeaux,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2020-04-30
+51000601,Marc,Chevalier,+33474186520,CTO,lea.bonnet@agence.example,12,Menhir Data,FINANCIAL_SERVICES,France,Lille,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2021-07-24
+51000602,Amina,O'Brien,+33383094515,CTO,lea.bonnet@agence.example,40,Dynamo Lab,RETAIL,France,Nantes,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2026-05-06
+51000604,Julien,Nguyen,+33784390552,CTO,,5,Menhir Data,COMPUTER_SOFTWARE,France,Lyon,,https://www.menhirdata.example/accueil,Menhir Data,Consent,2022-12-09
+51000605,Sophie,Chevalier,+33149386204,CTO,marie.dupont@agence.example,120,Sablier,FINANCIAL_SERVICES,France,Rennes,,https://www.sablier.example/accueil,Sablier,Consent,2024-07-12
+51000606,Nadia,Blanc,+33121259020,Responsable achats,,12,Kaolin,CONSTRUCTION,France,Rennes,,https://www.kaolin.example/accueil,Kaolin,Consent,2025-06-22
+51000607,Élodie,Moreau,+33642429563,Responsable achats,karim.haddad@agence.example,40,Iris Optique,RETAIL,France,Marseille,,https://www.irisoptique.example/accueil,Iris Optique,Legitimate interest – existing customer,2025-11-12
+51000608,Antoine,O'Brien,+33787209628,Responsable achats,lea.bonnet@agence.example,12,Atelier Nord,CONSTRUCTION,France,Bordeaux,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2022-05-21
+51000611,Leïla,De la Fontaine,+33359576403,Directeur,lea.bonnet@agence.example,120,Lorette & Fils,FINANCIAL_SERVICES,France,Paris,,https://www.lorettefils.example/accueil,Lorette & Fils,Legitimate interest – existing customer,2021-02-25
+51000613,Élodie,Girard,+33233613285,Directeur,lea.bonnet@agence.example,120,Iris Optique,FINANCIAL_SERVICES,France,Bordeaux,,https://www.irisoptique.example/accueil,Iris Optique,,2023-01-06
+51000614,Élodie,Fontaine,+33216252654,Chargé de projet,marie.dupont@agence.example,120,Lorette & Fils,FINANCIAL_SERVICES,France,Paris,,https://www.lorettefils.example/accueil,Lorette & Fils,Legitimate interest – existing customer,2021-04-07
+51000616,Marc,De la Fontaine,+33470462268,Directeur,lea.bonnet@agence.example,120,Dynamo Lab,COMPUTER_SOFTWARE,France,Lyon,,https://www.dynamolab.example/accueil,Dynamo Lab,,2023-04-08
+51000617,Sophie,Blanc,+33407660464,Directeur,lea.bonnet@agence.example,40,Verso,FINANCIAL_SERVICES,France,Marseille,,https://www.verso.example/accueil,Verso,Legitimate interest – existing customer,2022-02-27
+51000618,Marc,De la Fontaine,+33120594389,Chargé de projet,,5,Verso,COMPUTER_SOFTWARE,France,Rennes,,https://www.verso.example/accueil,Verso,,2022-03-01
+51000620,Sarah,Blance,+33432181227,Chargé de projet,,12,Sablier,FINANCIAL_SERVICES,France,Lille,,https://www.brightpath.example/accueil,Sablier,,2026-01-20
+51000627,Leïla,Marchand,+33768653694,CTO,marie.dupont@agence.example,500,Dynamo Lab,FINANCIAL_SERVICES,France,Lille,,https://www.dynamolab.example/accueil,Dynamo Lab,,2024-09-05
+51000631,Marc,Nguyen,+33752371006,Chargé de projet,,500,Verso,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.verso.example/accueil,Verso,Consent,2025-03-20
+51000633,Claire,Moreau,+33315177345,CTO,lea.bonnet@agence.example,40,Roseau Paysage,FINANCIAL_SERVICES,France,Marseille,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Consent,2021-01-19
+51000634,Julien,Moreau,+33135954429,CTO,,12,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2020-08-11
+51000635,Rémi,Van Damme,+33739429045,Chargé de projet,karim.haddad@agence.example,12,Iris Optique,FINANCIAL_SERVICES,France,Rennes,,https://www.irisoptique.example/accueil,Iris Optique,Consent,2023-11-28
+51000637,Olivier,Benali,+33508335061,CTO,lea.bonnet@agence.example,500,Brightpath,FINANCIAL_SERVICES,France,Rennes,,https://www.brightpath.example/accueil,Brightpath,Legitimate interest – existing customer,2020-11-13
+51000638,Julien,Nguyen,+33242337209,CTO,marie.dupont@agence.example,5,Atelier Nord,MARKETING_AND_ADVERTISING,France,Lille,,https://www.ateliernord.example/accueil,Atelier Nord,,2020-08-07
+51000639,Julien,Benali,+33797718051,Responsable achats,,120,Roseau Paysage,MARKETING_AND_ADVERTISING,France,Paris,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Consent,2023-09-23
+51000641,Claire,Leroy,+33644835488,CTO,marie.dupont@agence.example,120,Kaolin,COMPUTER_SOFTWARE,France,Marseille,,https://www.kaolin.example/accueil,Kaolin,Consent,2020-09-11
+51000644,Antoine,Marchand,+33355746966,Directeur,,12,Brightpath,RETAIL,France,Rennes,,https://www.brightpath.example/accueil,Brightpath,,2024-11-02
+51000647,Olivier,Fontaine,+33762294938,Directeur,lea.bonnet@agence.example,500,Dynamo Lab,CONSTRUCTION,France,Lille,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2025-08-19
+51000648,Rémi,Duval,+33655732573,Chargé de projet,karim.haddad@agence.example,40,Dynamo Lab,FINANCIAL_SERVICES,France,Bordeaux,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2025-09-13
+51000650,Nadia,François,+33718281979,Responsable achats,,120,Atelier Nord,RETAIL,France,Bordeaux,,https://www.ateliernord.example/accueil,Atelier Nord,Legitimate interest – existing customer,2025-06-06
+51000655,Lucas,Benali,+33374817006,Chargé de projet,lea.bonnet@agence.example,40,Roseau Paysage,COMPUTER_SOFTWARE,France,Nantes,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Consent,2025-06-12
+51000656,Rémi,Roux,+33145023290,Responsable achats,karim.haddad@agence.example,5,Sablier,COMPUTER_SOFTWARE,France,Lille,,https://www.sablier.example/accueil,Sablier,Legitimate interest – existing customer,2022-02-03
+51000657,Rémi,O'Brien,+33422822512,Directeur,lea.bonnet@agence.example,40,Atelier Nord,CONSTRUCTION,France,Lille,,https://www.ateliernord.example/accueil,Atelier Nord,,2021-10-23
+51000658,Camille,Duval,+33626086982,Responsable achats,lea.bonnet@agence.example,5,Brightpath,RETAIL,France,Paris,,https://www.brightpath.example/accueil,Brightpath,Legitimate interest – existing customer,2026-02-22
+51000659,Antoine,Nguyen,+33290477425,CTO,marie.dupont@agence.example,120,Lorette & Fils,FINANCIAL_SERVICES,France,Lyon,,https://www.lorettefils.example/accueil,Lorette & Fils,Legitimate interest – existing customer,2020-06-11
+51000661,Leïla,Chevalier,+33329060320,Responsable achats,karim.haddad@agence.example,120,Dynamo Lab,CONSTRUCTION,France,Paris,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2022-10-14
+51000665,Manon,Lambert,+33282521293,Responsable achats,,40,Verso,COMPUTER_SOFTWARE,France,Nantes,,https://www.verso.example/accueil,Verso,,2022-05-25
+51000668,Manon,Marchand,+33697374189,Chargé de projet,lea.bonnet@agence.example,5,Verso,RETAIL,France,Rennes,,https://www.verso.example/accueil,Verso,,2025-04-24
+51000672,Sarah,Blanc,+33760392051,CTO,,40,Verso,CONSTRUCTION,France,Marseille,,https://www.verso.example/accueil,Verso,Legitimate interest – existing customer,2026-01-17
+51000673,Inès,Nguyen,+33642388565,Responsable achats,lea.bonnet@agence.example,500,Menhir Data,FINANCIAL_SERVICES,France,Bordeaux,,https://www.menhirdata.example/accueil,Menhir Data,Legitimate interest – existing customer,2022-10-28
+51000674,Claire,Marchand,+33459726347,CTO,lea.bonnet@agence.example,12,Sablier,CONSTRUCTION,France,Paris,,https://www.sablier.example/accueil,Sablier,Legitimate interest – existing customer,2025-06-13
+51000676,Amina,Moreau,+33749915370,Responsable achats,lea.bonnet@agence.example,120,Lorette & Fils,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.lorettefils.example/accueil,Lorette & Fils,Consent,2025-04-20
+51000677,Thomas,Roux,+33732043097,Chargé de projet,karim.haddad@agence.example,12,Roseau Paysage,FINANCIAL_SERVICES,France,Lille,,https://www.roseaupaysage.example/accueil,Roseau Paysage,,2021-07-11
+51000678,Leïla,Van Damme,+33455358512,CTO,karim.haddad@agence.example,500,Iris Optique,RETAIL,France,Lille,,https://www.irisoptique.example/accueil,Iris Optique,,2022-05-20
+51000679,Olivier,Perrin,+33683749079,Chargé de projet,,12,Roseau Paysage,COMPUTER_SOFTWARE,France,Lille,,https://www.roseaupaysage.example/accueil,Roseau Paysage,,2022-07-23
+51000680,Victor,Lambert,+33215149409,Chargé de projet,karim.haddad@agence.example,12,Brightpath,RETAIL,France,Marseille,,https://www.brightpath.example/accueil,Brightpath,Consent,2021-02-12
+51000682,Thomas,Perrin,+33671511696,Chargé de projet,,40,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Paris,,https://www.dynamolab.example/accueil,Dynamo Lab,,2024-06-06
+51000684,Hugo,Petit,+33156409951,Responsable achats,,500,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2026-06-11
+51000687,Julien,Fontaine,+33158998868,Responsable achats,karim.haddad@agence.example,12,Atelier Nord,CONSTRUCTION,France,Bordeaux,,https://www.ateliernord.example/accueil,Atelier Nord,,2025-05-10
+51000688,Amina,De la Fontaine,+33171587964,Chargé de projet,marie.dupont@agence.example,5,Lorette & Fils,MARKETING_AND_ADVERTISING,France,Paris,,https://www.lorettefils.example/accueil,Lorette & Fils,,2025-07-16
+51000689,Leïla,Blanc,+33308004635,Directeur,karim.haddad@agence.example,40,Verso,COMPUTER_SOFTWARE,France,Lyon,,https://www.verso.example/accueil,Verso,Legitimate interest – existing customer,2024-07-08
+51000690,Sarah,Girard,+33637399006,Responsable achats,lea.bonnet@agence.example,12,Roseau Paysage,CONSTRUCTION,France,Lyon,,https://www.roseaupaysage.example/accueil,Roseau Paysage,,2022-11-15
+51000691,Thomas,O'Brien,+33293946943,CTO,marie.dupont@agence.example,120,Lorette & Fils,RETAIL,France,Marseille,,https://www.lorettefils.example/accueil,Lorette & Fils,Legitimate interest – existing customer,2025-12-17
+51000692,Antoine,Chevalier,+33407231112,Chargé de projet,lea.bonnet@agence.example,40,Atelier Nord,RETAIL,France,Marseille,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2026-05-07
+51000693,Rémi,Marchand,+33716318732,Directeur,marie.dupont@agence.example,12,Atelier Nord,COMPUTER_SOFTWARE,France,Rennes,,https://www.ateliernord.example/accueil,Atelier Nord,,2023-07-13
+51000694,Marc,François,+33557279083,Responsable achats,marie.dupont@agence.example,5,Sablier,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.sablier.example/accueil,Sablier,,2023-10-02
+51000696,Paul,Leroy,+33285011688,Directeur,karim.haddad@agence.example,40,Iris Optique,COMPUTER_SOFTWARE,France,Lyon,,https://www.irisoptique.example/accueil,Iris Optique,Legitimate interest – existing customer,2020-03-21
+51000697,Thomas,Duval,+33769130981,Directeur,,500,Lorette & Fils,RETAIL,France,Nantes,,https://www.lorettefils.example/accueil,Lorette & Fils,Consent,2026-06-04
+51000698,Thomas,Fontaine,+33677278532,CTO,karim.haddad@agence.example,40,Atelier Nord,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2023-08-29
+51000699,Camille,De la Fontaine,+33468362536,Chargé de projet,,120,Iris Optique,RETAIL,France,Marseille,,https://www.irisoptique.example/accueil,Iris Optique,,2024-11-06
+51000702,Leïla,Moreau,+33732657327,CTO,,5,Lorette & Fils,COMPUTER_SOFTWARE,France,Paris,,https://www.lorettefils.example/accueil,Lorette & Fils,Legitimate interest – existing customer,2020-01-06
+51000703,Julien,Da Silva,+33223415959,Chargé de projet,,40,Sablier,COMPUTER_SOFTWARE,France,Rennes,,https://www.sablier.example/accueil,Sablier,Consent,2022-12-13
+51000704,Marc,Moreau,+33596288743,Directeur,,5,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Nantes,,https://www.dynamolab.example/accueil,Dynamo Lab,,2021-10-22
+51000705,Amina,Fontaine,+33757992707,CTO,lea.bonnet@agence.example,12,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Lille,,https://www.dynamolab.example/accueil,Dynamo Lab,,2026-03-29
+51000707,Antoine,Da Silva,+33644765047,Directeur,marie.dupont@agence.example,500,Dynamo Lab,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2025-11-17
+51000708,Camille,Marchand,+33460465586,Chargé de projet,karim.haddad@agence.example,40,Lorette & Fils,FINANCIAL_SERVICES,France,Lyon,,https://www.lorettefils.example/accueil,Lorette & Fils,,2024-03-23
+51000712,Victor,Blanc,+33713253269,CTO,lea.bonnet@agence.example,120,Roseau Paysage,CONSTRUCTION,France,Rennes,,https://www.roseaupaysage.example/accueil,Roseau Paysage,,2025-01-27
+51000714,Paul,François,+33757575747,CTO,karim.haddad@agence.example,500,Atelier Nord,MARKETING_AND_ADVERTISING,France,Paris,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2023-07-10
+51000716,Marc,Moreau,+33106724530,Chargé de projet,lea.bonnet@agence.example,40,Atelier Nord,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.ateliernord.example/accueil,Atelier Nord,,2024-05-26
+51000720,Sophie,Perrin,+33479417634,Responsable achats,,12,Brightpath,COMPUTER_SOFTWARE,France,Marseille,,https://www.brightpath.example/accueil,Brightpath,,2025-07-20
+51000721,Paul,Fontaine,+33375983399,Directeur,marie.dupont@agence.example,500,Verso,FINANCIAL_SERVICES,France,Marseille,,https://www.verso.example/accueil,Verso,Legitimate interest – existing customer,2024-10-28
+51000722,Amina,De la Fontaine,+33224006157,Responsable achats,,12,Menhir Data,FINANCIAL_SERVICES,France,Nantes,,https://www.menhirdata.example/accueil,Menhir Data,,2023-02-13
+51000724,Amina,Mercier,+33362590459,Directeur,karim.haddad@agence.example,5,Menhir Data,COMPUTER_SOFTWARE,France,Lyon,,https://www.menhirdata.example/accueil,Menhir Data,Legitimate interest – existing customer,2021-08-05
+51000725,Olivier,Leroy,+33755516517,Chargé de projet,,12,Dynamo Lab,FINANCIAL_SERVICES,France,Rennes,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2023-10-30
+51000726,Élodie,Nguyen,+33743308003,Chargé de projet,karim.haddad@agence.example,12,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Lille,,https://www.dynamolab.example/accueil,Dynamo Lab,,2025-03-03
+51000727,Claire,Van Damme,+33370681039,Directeur,,40,Lorette & Fils,COMPUTER_SOFTWARE,France,Lille,,https://www.lorettefils.example/accueil,Lorette & Fils,,2026-04-01
+51000729,Olivier,Marchand,+33686321061,Responsable achats,lea.bonnet@agence.example,500,Kaolin,CONSTRUCTION,France,Marseille,,https://www.kaolin.example/accueil,Kaolin,,2026-02-20
+51000730,Julien,Roux,+33504032537,Chargé de projet,,500,Atelier Nord,MARKETING_AND_ADVERTISING,France,Nantes,,https://www.ateliernord.example/accueil,Atelier Nord,,2023-08-20
+51000731,Victor,Perrin,+33510090040,CTO,karim.haddad@agence.example,5,Iris Optique,CONSTRUCTION,France,Lyon,,https://www.irisoptique.example/accueil,Iris Optique,Consent,2023-09-05
+51000732,Élodie,De la Fontaine,+33404014247,Responsable achats,marie.dupont@agence.example,12,Brightpath,COMPUTER_SOFTWARE,France,Paris,,https://www.brightpath.example/accueil,Brightpath,Legitimate interest – existing customer,2025-08-11
+51000734,Leïla,Lambert,+33373404337,Directeur,,120,Sablier,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.sablier.example/accueil,Sablier,Consent,2023-04-25
+51000735,Julien,Marchand,+33377825588,Responsable achats,lea.bonnet@agence.example,12,Brightpath,FINANCIAL_SERVICES,France,Nantes,,https://www.brightpath.example/accueil,Brightpath,,2025-06-21
+51000736,Sarah,O'Brien,+33778656194,Responsable achats,,500,Iris Optique,MARKETING_AND_ADVERTISING,France,Paris,,https://www.irisoptique.example/accueil,Iris Optique,,2024-10-22
+51000737,Manon,Moreau,+33629236161,Directeur,marie.dupont@agence.example,500,Atelier Nord,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.ateliernord.example/accueil,Atelier Nord,Legitimate interest – existing customer,2022-08-19
+51000738,Claire,Fontaine,+33758686395,Chargé de projet,karim.haddad@agence.example,12,Sablier,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.sablier.example/accueil,Sablier,Legitimate interest – existing customer,2022-10-24
+51000742,Nadia,François,+33453970548,Chargé de projet,,5,Roseau Paysage,MARKETING_AND_ADVERTISING,France,Lille,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Consent,2025-05-29
+51000743,Camille,Leroy,+33274968049,Directeur,,120,Kaolin,CONSTRUCTION,France,Rennes,,https://www.kaolin.example/accueil,Kaolin,Legitimate interest – existing customer,2025-09-08
+51000746,Olivier,De la Fontaine,+33486111457,Chargé de projet,karim.haddad@agence.example,5,Kaolin,MARKETING_AND_ADVERTISING,France,Paris,,https://www.kaolin.example/accueil,Kaolin,Consent,2026-02-01
+51000748,Julien,Leroy,+33649804253,Chargé de projet,,120,Menhir Data,MARKETING_AND_ADVERTISING,France,Paris,,https://www.menhirdata.example/accueil,Menhir Data,Legitimate interest – existing customer,2025-03-14
+51000749,Amina,Mercier,+33628217819,Responsable achats,,12,Verso,CONSTRUCTION,France,Nantes,,https://www.verso.example/accueil,Verso,Legitimate interest – existing customer,2025-09-01
+51000751,Nadia,De la Fontaine,+33512054647,CTO,lea.bonnet@agence.example,120,Atelier Nord,FINANCIAL_SERVICES,France,Nantes,,https://www.ateliernord.example/accueil,Atelier Nord,,2026-03-01
+51000757,Inès,Petit,+33216309001,CTO,lea.bonnet@agence.example,120,Verso,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.verso.example/accueil,Verso,Legitimate interest – existing customer,2020-06-17
+51000759,Inès,Fontaine,+33763379223,CTO,karim.haddad@agence.example,120,Sablier,FINANCIAL_SERVICES,France,Rennes,,https://www.sablier.example/accueil,Sablier,Consent,2025-05-23
+51000760,Amina,Nguyen,+33716772696,Directeur,karim.haddad@agence.example,120,Roseau Paysage,FINANCIAL_SERVICES,France,Marseille,,https://www.roseaupaysage.example/accueil,Roseau Paysage,,2023-11-10
+51000762,Thomas,Van Damme,+33693170695,CTO,,120,Atelier Nord,RETAIL,France,Paris,,https://www.ateliernord.example/accueil,Atelier Nord,,2021-03-13
+51000764,Nadia,Perrin,+33184724264,Responsable achats,lea.bonnet@agence.example,500,Verso,COMPUTER_SOFTWARE,France,Lyon,,https://www.verso.example/accueil,Verso,Legitimate interest – existing customer,2025-11-25
+51000766,Marc,Moreau,+33705248088,Directeur,karim.haddad@agence.example,120,Verso,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.verso.example/accueil,Verso,Legitimate interest – existing customer,2024-05-14
+51000769,Rémi,Petit,+33445057303,Chargé de projet,,12,Atelier Nord,CONSTRUCTION,France,Nantes,,https://www.ateliernord.example/accueil,Atelier Nord,Legitimate interest – existing customer,2021-11-02
+51000772,Victor,Chevalier,+33685076597,CTO,lea.bonnet@agence.example,5,Menhir Data,FINANCIAL_SERVICES,France,Lille,,https://www.menhirdata.example/accueil,Menhir Data,Legitimate interest – existing customer,2026-03-09
+51000775,Nadia,Roux,+33411759574,CTO,lea.bonnet@agence.example,12,Kaolin,FINANCIAL_SERVICES,France,Lille,,https://www.kaolin.example/accueil,Kaolin,Consent,2024-08-09
+51000778,Sophie,De la Fontaine,+33143776936,Chargé de projet,karim.haddad@agence.example,12,Kaolin,CONSTRUCTION,France,Lyon,,https://www.kaolin.example/accueil,Kaolin,Consent,2026-02-13
+51000779,Claire,Blanc,+33110286712,Directeur,karim.haddad@agence.example,12,Lorette & Fils,CONSTRUCTION,France,Rennes,,https://www.lorettefils.example/accueil,Lorette & Fils,,2025-07-14
+51000780,Hugo,Blanc,+33351091090,Responsable achats,,40,Sablier,FINANCIAL_SERVICES,France,Marseille,,https://www.sablier.example/accueil,Sablier,Consent,2026-01-04
+51000781,Manon,François,+33179428179,Responsable achats,marie.dupont@agence.example,40,Atelier Nord,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.ateliernord.example/accueil,Atelier Nord,,2023-04-10
+51000782,Sarah,O'Brien,+33666345337,Responsable achats,marie.dupont@agence.example,5,Verso,FINANCIAL_SERVICES,France,Paris,,https://www.verso.example/accueil,Verso,Legitimate interest – existing customer,2023-01-10
+51000783,Olivier,Nguyen,+33145593766,Directeur,lea.bonnet@agence.example,120,Dynamo Lab,COMPUTER_SOFTWARE,France,Marseille,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2024-10-15
+51000784,Amina,Benali,+33146277657,Responsable achats,,500,Brightpath,MARKETING_AND_ADVERTISING,France,Paris,,https://www.brightpath.example/accueil,Brightpath,Legitimate interest – existing customer,2025-09-21
+51000785,Inès,De la Fontaine,+33202389743,Responsable achats,marie.dupont@agence.example,40,Sablier,FINANCIAL_SERVICES,France,Marseille,,https://www.sablier.example/accueil,Sablier,,2021-01-01
+51000787,Sarah,Lambert,+33491767993,CTO,,40,Iris Optique,COMPUTER_SOFTWARE,France,Rennes,,https://www.irisoptique.example/accueil,Iris Optique,Legitimate interest – existing customer,2022-09-25
+51000791,Thomas,François,+33775188781,Chargé de projet,lea.bonnet@agence.example,40,Iris Optique,COMPUTER_SOFTWARE,France,Marseille,,https://www.irisoptique.example/accueil,Iris Optique,Legitimate interest – existing customer,2024-06-15
+51000792,Amina,Benali,+33191122528,Responsable achats,lea.bonnet@agence.example,40,Verso,RETAIL,France,Rennes,,https://www.verso.example/accueil,Verso,,2023-08-28
+51000794,Camille,Blanc,+33356057121,Directeur,,500,Brightpath,FINANCIAL_SERVICES,France,Bordeaux,,https://www.brightpath.example/accueil,Brightpath,,2026-04-09
+51000795,Olivier,Perrin,+33386401042,CTO,lea.bonnet@agence.example,120,Menhir Data,COMPUTER_SOFTWARE,France,Lille,,https://www.menhirdata.example/accueil,Menhir Data,,2022-11-28
+51000798,Nadia,Da Silva,+33119017075,Chargé de projet,lea.bonnet@agence.example,500,Iris Optique,FINANCIAL_SERVICES,France,Rennes,,https://www.irisoptique.example/accueil,Iris Optique,Legitimate interest – existing customer,2025-11-17
+51000803,Élodie,Moreau,+33237746040,Chargé de projet,marie.dupont@agence.example,120,Roseau Paysage,FINANCIAL_SERVICES,France,Marseille,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Legitimate interest – existing customer,2022-02-05
+51000806,Manon,Marchand,+33513443899,Responsable achats,marie.dupont@agence.example,5,Lorette & Fils,CONSTRUCTION,France,Rennes,,https://www.lorettefils.example/accueil,Lorette & Fils,Consent,2026-03-27
+51000807,Victor,De la Fontaine,+33432146449,Responsable achats,lea.bonnet@agence.example,120,Atelier Nord,RETAIL,France,Lille,,https://www.ateliernord.example/accueil,Atelier Nord,Legitimate interest – existing customer,2022-08-21
+51000809,Lucas,Mercier,+33572333510,CTO,,40,Sablier,FINANCIAL_SERVICES,France,Nantes,,https://www.sablier.example/accueil,Sablier,Legitimate interest – existing customer,2025-04-24
+51000810,Nadia,Da Silva,+33749830748,Responsable achats,marie.dupont@agence.example,12,Roseau Paysage,RETAIL,France,Marseille,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Legitimate interest – existing customer,2025-02-17
+51000811,Nadia,Leroy,+33306557820,Directeur,marie.dupont@agence.example,12,Atelier Nord,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.ateliernord.example/accueil,Atelier Nord,Legitimate interest – existing customer,2023-11-22
+51000815,Camille,Benali,+33787191203,Directeur,,12,Lorette & Fils,COMPUTER_SOFTWARE,France,Lille,,https://www.lorettefils.example/accueil,Lorette & Fils,Legitimate interest – existing customer,2023-02-24
+51000817,Antoine,Benali,+33618297168,Directeur,,40,Dynamo Lab,CONSTRUCTION,France,Paris,,https://www.dynamolab.example/accueil,Dynamo Lab,Legitimate interest – existing customer,2023-12-28
+51000818,Camille,Duval,+33329113717,CTO,marie.dupont@agence.example,40,Menhir Data,CONSTRUCTION,France,Nantes,,https://www.menhirdata.example/accueil,Menhir Data,Consent,2026-02-14
+51000819,Olivier,Leroy,+33218299874,Chargé de projet,karim.haddad@agence.example,40,Iris Optique,FINANCIAL_SERVICES,France,Lille,,https://www.irisoptique.example/accueil,Iris Optique,Legitimate interest – existing customer,2023-03-10
+51000820,Claire,Van Damme,+33400900436,CTO,marie.dupont@agence.example,500,Kaolin,CONSTRUCTION,France,Lille,,https://www.kaolin.example/accueil,Kaolin,Legitimate interest – existing customer,2026-01-04
+51000823,Inès,Leroy,+33604428773,Responsable achats,karim.haddad@agence.example,5,Sablier,RETAIL,France,Marseille,,https://www.sablier.example/accueil,Sablier,Legitimate interest – existing customer,2020-03-25
+51000825,Rémi,Chevalier,+33764625540,Responsable achats,lea.bonnet@agence.example,500,Sablier,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.sablier.example/accueil,Sablier,Legitimate interest – existing customer,2021-04-13
+51000827,Julien,Da Silva,+33604333353,CTO,marie.dupont@agence.example,12,Menhir Data,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.menhirdata.example/accueil,Menhir Data,Legitimate interest – existing customer,2023-03-20
+51000828,Nadia,Petit,+33418093391,Responsable achats,karim.haddad@agence.example,40,Atelier Nord,MARKETING_AND_ADVERTISING,France,Paris,,https://www.ateliernord.example/accueil,Atelier Nord,,2021-05-13
+51000830,Lucas,Petit,+33503657744,Directeur,marie.dupont@agence.example,12,Verso,RETAIL,France,Marseille,,https://www.verso.example/accueil,Verso,Consent,2025-01-11
+51000831,Hugo,Moreau,+33511894184,Responsable achats,,5,Menhir Data,FINANCIAL_SERVICES,France,Lyon,,https://www.menhirdata.example/accueil,Menhir Data,,2025-08-10
+51000833,Lucas,Lambert,+33337666081,Directeur,,5,Brightpath,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.brightpath.example/accueil,Brightpath,Legitimate interest – existing customer,2026-03-23
+51000836,Manon,Nguyen,+33278826033,CTO,marie.dupont@agence.example,5,Roseau Paysage,CONSTRUCTION,France,Nantes,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Consent,2022-08-15
+51000837,Camille,Perrin,+33591449207,CTO,,500,Menhir Data,FINANCIAL_SERVICES,France,Bordeaux,,https://www.menhirdata.example/accueil,Menhir Data,,2020-10-09
+51000838,Paul,Blanc,+33699718428,CTO,karim.haddad@agence.example,40,Lorette & Fils,FINANCIAL_SERVICES,France,Paris,,https://www.lorettefils.example/accueil,Lorette & Fils,,2023-02-20
+51000841,Camille,Marchand,+33612996508,Responsable achats,lea.bonnet@agence.example,12,Menhir Data,RETAIL,France,Bordeaux,,https://www.menhirdata.example/accueil,Menhir Data,,2022-08-07
+51000844,Olivier,Van Damme,+33139500168,Directeur,lea.bonnet@agence.example,40,Verso,FINANCIAL_SERVICES,France,Paris,,https://www.verso.example/accueil,Verso,Consent,2024-03-13
+51000845,Claire,Lambert,+33283976205,Responsable achats,lea.bonnet@agence.example,120,Kaolin,RETAIL,France,Nantes,,https://www.kaolin.example/accueil,Kaolin,Consent,2021-11-21
+51000846,Rémi,Van Damme,+33266292508,Directeur,,5,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Lille,,https://www.dynamolab.example/accueil,Dynamo Lab,Consent,2025-10-23
+51000847,Paul,François,+33584133373,Directeur,lea.bonnet@agence.example,12,Iris Optique,CONSTRUCTION,France,Nantes,,https://www.irisoptique.example/accueil,Iris Optique,Legitimate interest – existing customer,2026-03-17
+51000850,Lucas,Chevalier,+33434167812,Chargé de projet,karim.haddad@agence.example,5,Iris Optique,COMPUTER_SOFTWARE,France,Rennes,,https://www.irisoptique.example/accueil,Iris Optique,Legitimate interest – existing customer,2025-11-14
+51000851,Nadia,Fontaine,+33134862985,Chargé de projet,,120,Atelier Nord,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.ateliernord.example/accueil,Atelier Nord,Consent,2020-06-13
+51000852,Thomas,Petit,+33656053970,Chargé de projet,,5,Verso,RETAIL,France,Nantes,,https://www.verso.example/accueil,Verso,Consent,2024-06-23

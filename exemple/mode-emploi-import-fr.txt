@@ -4,8 +4,8 @@ vos données existantes par des valeurs vides.
 ── QUEL FICHIER CHOISIR ? ──────────────────────────────────
 • METTRE À JOUR vos fiches existantes (même portail que celui d'où elles ont été
   exportées) :
-    utilisez  demo_853_Import_HubSpot_MISE_A_JOUR_ne_pas_ouvrir.csv
-• CRÉER des fiches (autre portail, ou base neuve) : utilisez  demo_853_Import_HubSpot_CREATION_ne_pas_ouvrir.csv
+    utilisez  sample_853_Import_HubSpot_MISE_A_JOUR_ne_pas_ouvrir.csv
+• CRÉER des fiches (autre portail, ou base neuve) : utilisez  sample_853_Import_HubSpot_CREATION_ne_pas_ouvrir.csv
 ⚠️ UTILISEZ L'UN OU L'AUTRE — JAMAIS LES DEUX : ils contiennent les MÊMES fiches.
    Importer les deux DOUBLERAIT toute votre base.
 
@@ -185,4 +185,4 @@ Le chiffre a comparer depend du fichier que vous avez importe :
 Comparez avec l'ecran de fin d'import et renvoyez-nous les chiffres réels. Un écart signifie soit un defaut de notre traitement, soit des doublons déjà présents dans votre portail - invisibles depuis votre fichier d'export. C'est la seule vérification qui puisse le révéler.
 
 ----------------------------------------------------------------------
-Généré par l'outil d'audit CRM v3.14.0 - fichier source : demo_853.xlsx (SHA-256 1647a66c4bc5dc07...)
+Généré par l'outil d'audit CRM v3.14.0 - fichier source : sample_853.xlsx (SHA-256 28aee3e79fee8889...)
