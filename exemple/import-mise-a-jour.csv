@@ -11,7 +11,6 @@
 51000015,Rémi,Perrin,+33541241182,CTO,karim.haddad@agence.example,12,Verso,CONSTRUCTION,France,Lille,,https://www.verso.example/accueil,Verso,,2026-05-17
 51000017,Sophie,De la Fontaine,+33305331586,Responsable achats,karim.haddad@agence.example,5,Dynamo Lab,MARKETING_AND_ADVERTISING,France,Bordeaux,,https://www.dynamolab.example/accueil,Dynamo Lab,,2025-12-29
 51000018,Lucas,Roux,+33160733754,Responsable achats,karim.haddad@agence.example,40,Iris Optique,CONSTRUCTION,France,Rennes,,https://www.irisoptique.example/accueil,Iris Optique,Legitimate interest – existing customer,2024-09-04
-51000020,Olivier,Van Damme,+33160883561,CTO,marie.dupont@agence.example,500,Atelier Nord,CONSTRUCTION,France,Bordeaux,,https://www.ateliernord.example/accueil,Atelier Nord,,2024-05-01
 51000024,Sarah,Moreau,+33557986872,Chargé de projet,karim.haddad@agence.example,500,Kaolin,RETAIL,France,Bordeaux,,https://www.kaolin.example/accueil,Kaolin,Legitimate interest – existing customer,2020-07-04
 51000025,Inès,Nguyen,+33355812236,Responsable achats,marie.dupont@agence.example,120,Sablier,CONSTRUCTION,France,Lille,,https://www.sablier.example/accueil,Sablier,,2023-04-05
 51000026,Lucas,Lambert,+33790967054,Chargé de projet,karim.haddad@agence.example,12,Roseau Paysage,CONSTRUCTION,France,Nantes,,https://www.roseaupaysage.example/accueil,Roseau Paysage,,2021-10-02
@@ -430,6 +429,9 @@
 51000794,Camille,Blanc,+33356057121,Directeur,,500,Brightpath,FINANCIAL_SERVICES,France,Bordeaux,,https://www.brightpath.example/accueil,Brightpath,,2026-04-09
 51000795,Olivier,Perrin,+33386401042,CTO,lea.bonnet@agence.example,120,Menhir Data,COMPUTER_SOFTWARE,France,Lille,,https://www.menhirdata.example/accueil,Menhir Data,,2022-11-28
 51000798,Nadia,Da Silva,+33119017075,Chargé de projet,lea.bonnet@agence.example,500,Iris Optique,FINANCIAL_SERVICES,France,Rennes,,https://www.irisoptique.example/accueil,Iris Optique,Legitimate interest – existing customer,2025-11-17
+51000800,Julien,De la Fontaine,+33784526969,CTO,marie.dupont@agence.example,40,Roseau Paysage,FINANCIAL_SERVICES,France,Nantes,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Legitimate interest – existing customer,2022-02-08
+51000801,Olivier,Van Damme,+33329291320,Responsable achats,marie.dupont@agence.example,120,Atelier Nord,MARKETING_AND_ADVERTISING,France,Lyon,,https://www.ateliernord.example/accueil,Atelier Nord,,2024-04-26
+51000802,Olivier,Blanc,+33106153722,Directeur,,500,Menhir Data,CONSTRUCTION,France,Nantes,,https://www.menhirdata.example/accueil,Menhir Data,Consent,2024-02-09
 51000803,Élodie,Moreau,+33237746040,Chargé de projet,marie.dupont@agence.example,120,Roseau Paysage,FINANCIAL_SERVICES,France,Marseille,,https://www.roseaupaysage.example/accueil,Roseau Paysage,Legitimate interest – existing customer,2022-02-05
 51000806,Manon,Marchand,+33513443899,Responsable achats,marie.dupont@agence.example,5,Lorette & Fils,CONSTRUCTION,France,Rennes,,https://www.lorettefils.example/accueil,Lorette & Fils,Consent,2026-03-27
 51000807,Victor,De la Fontaine,+33432146449,Responsable achats,lea.bonnet@agence.example,120,Atelier Nord,RETAIL,France,Lille,,https://www.ateliernord.example/accueil,Atelier Nord,Legitimate interest – existing customer,2022-08-21
@@ -441,6 +443,7 @@
 51000818,Camille,Duval,+33329113717,CTO,marie.dupont@agence.example,40,Menhir Data,CONSTRUCTION,France,Nantes,,https://www.menhirdata.example/accueil,Menhir Data,Consent,2026-02-14
 51000819,Olivier,Leroy,+33218299874,Chargé de projet,karim.haddad@agence.example,40,Iris Optique,FINANCIAL_SERVICES,France,Lille,,https://www.irisoptique.example/accueil,Iris Optique,Legitimate interest – existing customer,2023-03-10
 51000820,Claire,Van Damme,+33400900436,CTO,marie.dupont@agence.example,500,Kaolin,CONSTRUCTION,France,Lille,,https://www.kaolin.example/accueil,Kaolin,Legitimate interest – existing customer,2026-01-04
+51000821,Amina,Van Damme,+33424835505,CTO,,500,Atelier Nord,COMPUTER_SOFTWARE,France,Bordeaux,,https://www.ateliernord.example/accueil,Atelier Nord,,2025-01-31
 51000823,Inès,Leroy,+33604428773,Responsable achats,karim.haddad@agence.example,5,Sablier,RETAIL,France,Marseille,,https://www.sablier.example/accueil,Sablier,Legitimate interest – existing customer,2020-03-25
 51000825,Rémi,Chevalier,+33764625540,Responsable achats,lea.bonnet@agence.example,500,Sablier,MARKETING_AND_ADVERTISING,France,Marseille,,https://www.sablier.example/accueil,Sablier,Legitimate interest – existing customer,2021-04-13
 51000827,Julien,Da Silva,+33604333353,CTO,marie.dupont@agence.example,12,Menhir Data,MARKETING_AND_ADVERTISING,France,Rennes,,https://www.menhirdata.example/accueil,Menhir Data,Legitimate interest – existing customer,2023-03-20

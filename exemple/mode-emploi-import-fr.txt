@@ -55,6 +55,33 @@ vos données existantes par des valeurs vides.
 • Emails vidés : la fiche est conservée et reste rattachable par nom/téléphone ; l'email
   cassé est signalé ici, pas propagé au CRM.
 
+ASSOCIATIONS CONTACT -> ENTREPRISE (fichier séparé, facultatif)
+  Un troisième fichier, ..._ASSOCIATIONS.csv, rend les liens vers les entreprises
+  que votre export portait déjà. Il NE fait PAS partie de l'import ci-dessus :
+  importez-le à part, APRÈS les contacts, et seulement si vous voulez ces liens.
+
+  COMMENT L'IMPORTER, pas à pas :
+    Contacts > Importer > Démarrer une importation > Fichier depuis un ordinateur
+    > Plusieurs objets > Contacts et Entreprises > Un fichier
+
+  À l'écran de mapping, le nom des colonnes importe peu — c'est VOTRE mapping qui
+  décide. Mappez « Associated company ID » comme une ASSOCIATION vers l'entreprise,
+  avec l'ID d'enregistrement comme identifiant. Pas comme une propriété.
+  « Record ID » identifie le contact, de la même façon.
+
+  CE QU'IL NE PEUT PAS CASSER : un import d'association AJOUTE un lien, il n'en
+  supprime aucun. Si une fiche est déjà liée à une autre entreprise, ce fichier
+  ne la déliera pas — supprimer un lien demande une action dédiée dans HubSpot.
+
+  « Primary » dans la colonne d'étiquette signale l'entreprise principale, telle
+  que votre export la déclarait. Sans cette colonne, l'information serait perdue
+  à la restitution : elle ne se redevine pas.
+
+  Il ne contient que des associations exportées par HubSpot lui-même. Les liens
+  qui n'ont pas pu être prouvés — un nom d'entreprise sans identifiant, ou
+  plusieurs entreprises sans principale déclarée — n'y sont PAS. Ils sont listés
+  dans l'onglet « Associations » du rapport Excel, pour que vous tranchiez.
+
 ======================================================================
 LANGUE A CHOISIR AU MAPPING
 ======================================================================
@@ -77,8 +104,8 @@ IMPORTANT - UN IMPORT NE FUSIONNE PAS LES DOUBLONS
 ======================================================================
 ÉTAPE 2 - CE QUE LA FUSION VA REMONTER SUR VOS FICHES MAÎTRES
 ======================================================================
-Lors d'une fusion HubSpot, la fiche conservée GARDE ses valeurs, mais ses champs VIDES sont remplis depuis le doublon. 61 valeur(s) remonteront ainsi après vos fusions - elles ne sont PAS dans le CSV livré.
-Parmi elles, 61 concernent des champs que nous refusons volontairement de recopier d'une fiche à l'autre (date de dernière activité, base légale, statut de facturation). Raison : une date d'activité empruntée a une autre fiche fausse le calcul d'ancienneté RGPD, et une base légale héritée fabrique une justification juridique qui n'a jamais existe. La fusion native ne fait pas cette distinction - c'est donc à vous de vérifier.
+Lors d'une fusion HubSpot, la fiche conservée GARDE ses valeurs, mais ses champs VIDES sont remplis depuis le doublon. 60 valeur(s) remonteront ainsi après vos fusions - elles ne sont PAS dans le CSV livré.
+Parmi elles, 60 concernent des champs que nous refusons volontairement de recopier d'une fiche à l'autre (date de dernière activité, base légale, statut de facturation). Raison : une date d'activité empruntée a une autre fiche fausse le calcul d'ancienneté RGPD, et une base légale héritée fabrique une justification juridique qui n'a jamais existe. La fusion native ne fait pas cette distinction - c'est donc à vous de vérifier.
 Détail ligne par ligne : onglet << Fusion_valeurs_remontees >> du rapport Excel, À CONSULTER AVANT de lancer vos fusions.
 
 ======================================================================
@@ -90,7 +117,7 @@ CES VALEURS NE PEUVENT PAS ETRE CORRIGÉES PAR IMPORT. Un import HubSpot ignore 
 ======================================================================
 LIGNES SANS CLÉ DE RAPPROCHEMENT (FICHIER DE CRÉATION)
 ======================================================================
-7 ligne(s) sur 460 du fichier de CRÉATION n'ont AUCUNE clé de rapprochement : leur email est vide, et ce fichier ne porte pas de Record ID (retiré volontairement). HubSpot n'a donc rien sur quoi les rapprocher - il CRÉE une fiche, à chaque import. Importé dans le portail d'origine, ce fichier fabrique 7 doublon(s) de fiches déjà présentes ; réimporté une seconde fois, autant de nouveau. Ces lignes restent livrées : les retirer serait décider a votre place. À arbitrer avant l'import - les compléter, ou les écarter du fichier.
+7 ligne(s) sur 463 du fichier de CRÉATION n'ont AUCUNE clé de rapprochement : leur email est vide, et ce fichier ne porte pas de Record ID (retiré volontairement). HubSpot n'a donc rien sur quoi les rapprocher - il CRÉE une fiche, à chaque import. Importé dans le portail d'origine, ce fichier fabrique 7 doublon(s) de fiches déjà présentes ; réimporté une seconde fois, autant de nouveau. Ces lignes restent livrées : les retirer serait décider a votre place. À arbitrer avant l'import - les compléter, ou les écarter du fichier.
 
 ======================================================================
 VALEURS QUI NE VIENNENT PAS DE LA FICHE ELLE-MÊME
@@ -179,10 +206,10 @@ est le seul filet de sécurité réel.
 APRÈS L'IMPORT - MERCI DE NOUS RENVOYER 2 CHIFFRES
 ======================================================================
 Le chiffre a comparer depend du fichier que vous avez importe :
-  - fichier MISE A JOUR  -> 460 mises a jour, et 0 création ;
-  - fichier CRÉATION     -> 460 fiches traitées (créées, ou mises a jour si l'email existe déjà).
+  - fichier MISE A JOUR  -> 463 mises a jour, et 0 création ;
+  - fichier CRÉATION     -> 463 fiches traitées (créées, ou mises a jour si l'email existe déjà).
 
 Comparez avec l'ecran de fin d'import et renvoyez-nous les chiffres réels. Un écart signifie soit un defaut de notre traitement, soit des doublons déjà présents dans votre portail - invisibles depuis votre fichier d'export. C'est la seule vérification qui puisse le révéler.
 
 ----------------------------------------------------------------------
-Généré par l'outil d'audit CRM v3.14.0 - fichier source : sample_853.xlsx (SHA-256 28aee3e79fee8889...)
+Généré par l'outil d'audit CRM v3.14.0 - fichier source : sample_853.xlsx (SHA-256 43d2fae2992a2429...)
