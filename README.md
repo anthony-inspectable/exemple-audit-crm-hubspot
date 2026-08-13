@@ -1,5 +1,7 @@
 # Exemple d'audit CRM Inspectable
 
+*[Read this in English](README.en.md)*
+
 Ce dépôt contient **un rapport d'audit CRM complet**, tel qu'il est livré, avec les fichiers qui
 l'accompagnent. Rien n'est simulé ni mis en scène : ce sont les livrables réels de l'outil,
 produits par une exécution ordinaire.
@@ -40,6 +42,15 @@ Un contact sans téléphone bloque une équipe qui appelle ; il ne gêne pas un 
 L'outil ne devine donc jamais ce modèle, il le demande, et le rapport dit à voix haute que ses
 priorités en découlent. Sans modèle déclaré, cette page invite à le renseigner plutôt que d'inventer
 un classement qui aurait l'air savant.
+
+![La grille de lecture selon le modèle commercial](images/page-06.png)
+
+### Le plan est calculé, pas recopié
+
+Chaque action porte un responsable et un critère de succès chiffré, repris des mesures de l'audit.
+Une action n'apparaît que si son sujet existe dans la base : rien n'est proposé au cas où.
+
+![Le plan 30 / 60 / 90 jours](images/page-08.png)
 
 ---
 
