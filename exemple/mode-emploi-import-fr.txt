@@ -1,0 +1,188 @@
+OBJECTIF : réimporter le fichier nettoyé dans votre CRM sans erreur, et SANS écraser
+vos données existantes par des valeurs vides.
+
+── QUEL FICHIER CHOISIR ? ──────────────────────────────────
+• METTRE À JOUR vos fiches existantes (même portail que celui d'où elles ont été
+  exportées) :
+    utilisez  demo_853_Import_HubSpot_MISE_A_JOUR_ne_pas_ouvrir.csv
+• CRÉER des fiches (autre portail, ou base neuve) : utilisez  demo_853_Import_HubSpot_CREATION_ne_pas_ouvrir.csv
+⚠️ UTILISEZ L'UN OU L'AUTRE — JAMAIS LES DEUX : ils contiennent les MÊMES fiches.
+   Importer les deux DOUBLERAIT toute votre base.
+
+── ÉTAPE PAR ÉTAPE (HubSpot) ────────────────────────────
+0. AVANT TOUT : relisez l'onglet « Decisions_a_valider » — il regroupe les décisions 
+   de jugement prises automatiquement (doublons fusionnés, emails réparés/vidés, 
+   domaine normalisé) pour une validation rapide avant d'envoyer le fichier au client.
+1. Sauvegardez d'abord : exportez vos contacts actuels avant tout import. C'est votre
+   filet de sécurité pour revenir en arrière.
+2. Import > Démarrer un import > Fichier depuis l'ordinateur > Un fichier > Un objet >
+   CONTACTS.  (Choisissez l'objet correspondant à CET export — un mauvais objet empêche le mapping.)
+3. Chargez le fichier choisi ci-dessus.
+4. Clé de rapprochement (dédoublonnage) :
+     - fichier MISE À JOUR : rapprochement sur Record ID (fiable dans le portail
+       d'origine).
+     - fichier CRÉATION : rapprochement sur Email.
+5. CHOIX DU TYPE D'IMPORT — HubSpot propose « Create and update », « Create new
+   only » et « Update existing only ».
+     - fichier MISE À JOUR : choisissez « Update existing only ». C'est le seul
+       rempart contre une création accidentelle : une ligne dont le Record ID ne
+       correspond à rien créerait sinon une NOUVELLE fiche.
+     - fichier CRÉATION : « Create and update » (il complète les fiches déjà
+       présentes) ou « Create new only » si vous voulez n'ajouter que du neuf.
+   Rien à cocher pour les cellules VIDES : HubSpot les ignore automatiquement et
+   n'efface jamais une valeur existante avec du vide. Le nettoyage a volontairement
+   vidé quelques emails irrécupérables — ils restent donc dans votre CRM, et c'est
+   l'onglet « A_corriger_manuellement » qui les liste.
+6. Mapping des colonnes : elles se mappent automatiquement. Laissez non mappée toute
+   colonne que le CRM propose de ne pas importer — c'est un champ qu'il calcule lui-même.
+7. Mettez en pause vos workflows/séquences le temps de l'import : même sans toucher au
+   cycle de vie (voir NOTES), une mise à jour en masse d'emails, de téléphones ou de
+   sociétés peut déclencher des automatisations. Réactivez-les ensuite.
+8. Suivant > Terminer.
+
+• Les valeurs de listes déroulantes/cases à cocher ont été vérifiées contre les définitions de référence (onglet « A_corriger_avant_import »).
+• 1113 valeur(s) de liste hors des définitions de référence : si le réimport se fait dans le MÊME portail que l'export, c'est le vocabulaire propre de ce portail — rien à faire. À vérifier uniquement en cas de migration vers un AUTRE portail (détail dans « A_corriger_avant_import »).
+
+── À SAVOIR ────────────────────────────────────────────────
+• Le cycle de vie et le statut du lead ne figurent PAS dans ces fichiers, volontairement.
+  Un export est une photo. HubSpot ne fait pas RECULER cette propriété à l'import,
+  mais si elle a été vidée dans votre portail depuis l'export, la réimporter la
+  réinscrirait — un contact volontairement remis à zéro retrouverait son ancienne
+  étape, sans que rien ne le signale. Ces valeurs restent intactes dans votre portail
+  et lisibles dans ce rapport.
+• Le fichier exclut déjà les colonnes que votre CRM refuse à l'import (champs calculés,
+  propriétaire en texte libre). Rien n'est perdu : elles restent dans ce rapport.
+• Emails vidés : la fiche est conservée et reste rattachable par nom/téléphone ; l'email
+  cassé est signalé ici, pas propagé au CRM.
+
+======================================================================
+LANGUE A CHOISIR AU MAPPING
+======================================================================
+A l'étape de mapping, sélectionnez la langue << English >> même si votre portail est en francais : les en-têtes de ce fichier utilisent les noms de propriétés standard HubSpot en anglais, et HubSpot bascule de toute facon sur l'anglais quand il ne trouve pas de correspondance dans la langue choisie. C'est ce qui maximise le mapping automatique.
+
+======================================================================
+OPTION << PREVENT EXISTING DATA OVERWRITE >> - COLONNE PAR COLONNE
+======================================================================
+À l'étape de mappage, chaque colonne porte une case << Prevent existing data overwrite >>. Cochée, la propriété n'est mise à jour que sur les fiches n'ayant JAMAIS eu de valeur pour elle.
+  - COCHEZ-LA pour les colonnes où ce fichier ne fait que COMPLETER des trous (téléphone, ville, société, et les valeurs reprises d'un doublon) : vos valeurs existantes sont préservées.
+  - NE LA COCHEZ PAS pour les colonnes où l'objectif est justement de CORRIGER une valeur fausse (email réparé, nom normalisé), sinon la correction ne s'appliquera pas.
+  Les deux usages coexistent dans le même import : le choix se fait colonne par colonne, pas globalement.
+  À NE PAS CONFONDRE avec les cellules VIDES : celles-là sont ignorées AUTOMATIQUEMENT par HubSpot, quelle que soit cette case. Un import n'efface jamais une valeur existante avec du vide — il n'y a rien à cocher pour obtenir cette protection.
+
+======================================================================
+IMPORTANT - UN IMPORT NE FUSIONNE PAS LES DOUBLONS
+======================================================================
+⚠️ IMPORTANT — Un import NE FUSIONNE PAS. Après avoir importé le CSV, les doublons existent toujours dans HubSpot avec leurs deals, tickets et historiques rattachés. Seule la fusion native (fiche > Actions > Fusionner) transfère les associations. Ordre obligatoire : 1) importer le CSV  2) fusionner manuellement chaque groupe ci-dessus  3) vérifier que les deals sont bien rattachés au maître. Sauter l'étape 2 = perte réelle de visibilité commerciale. À noter : la fusion est IRRÉVERSIBLE.
+
+======================================================================
+ÉTAPE 2 - CE QUE LA FUSION VA REMONTER SUR VOS FICHES MAÎTRES
+======================================================================
+Lors d'une fusion HubSpot, la fiche conservée GARDE ses valeurs, mais ses champs VIDES sont remplis depuis le doublon. 61 valeur(s) remonteront ainsi après vos fusions - elles ne sont PAS dans le CSV livré.
+Parmi elles, 61 concernent des champs que nous refusons volontairement de recopier d'une fiche à l'autre (date de dernière activité, base légale, statut de facturation). Raison : une date d'activité empruntée a une autre fiche fausse le calcul d'ancienneté RGPD, et une base légale héritée fabrique une justification juridique qui n'a jamais existe. La fusion native ne fait pas cette distinction - c'est donc à vous de vérifier.
+Détail ligne par ligne : onglet << Fusion_valeurs_remontees >> du rapport Excel, À CONSULTER AVANT de lancer vos fusions.
+
+======================================================================
+CORRECTIONS IMPOSSIBLES PAR IMPORT
+======================================================================
+CES VALEURS NE PEUVENT PAS ETRE CORRIGÉES PAR IMPORT. Un import HubSpot ignore les cellules vides : il n'efface jamais une valeur existante. Ces corrections demandent une édition en masse dans HubSpot, ou un workflow << Edit records >>. Tant qu'elles ne sont pas faites, ces valeurs restent dans votre CRM - même après un import réussi.
+6 valeur(s) concernée(s) - détail dans l'onglet << A_corriger_manuellement >> du rapport Excel.
+
+======================================================================
+LIGNES SANS CLÉ DE RAPPROCHEMENT (FICHIER DE CRÉATION)
+======================================================================
+7 ligne(s) sur 460 du fichier de CRÉATION n'ont AUCUNE clé de rapprochement : leur email est vide, et ce fichier ne porte pas de Record ID (retiré volontairement). HubSpot n'a donc rien sur quoi les rapprocher - il CRÉE une fiche, à chaque import. Importé dans le portail d'origine, ce fichier fabrique 7 doublon(s) de fiches déjà présentes ; réimporté une seconde fois, autant de nouveau. Ces lignes restent livrées : les retirer serait décider a votre place. À arbitrer avant l'import - les compléter, ou les écarter du fichier.
+
+======================================================================
+VALEURS QUI NE VIENNENT PAS DE LA FICHE ELLE-MÊME
+======================================================================
+1 valeur(s) de ce fichier ont été reprises depuis un DOUBLON CERTAIN (email
+identique) de la même personne, pour combler un champ vide de la fiche conservée.
+Colonnes concernees : Last Name.
+
+Ce sont les seules valeurs du fichier qui ne figuraient pas telles quelles sur la
+fiche conservée dans votre export. Détail ligne par ligne : onglet << Journal_fusion >>.
+
+POURQUOI CA COMPTE : si l'un de ces champs a été rempli dans HubSpot DEPUIS votre
+export, l'import remplacera la valeur récente par celle du doublon. Un export est
+une photo — c'est le même piège que le cycle de vie, sauf qu'ici il porte sur des
+champs que ce fichier ECRIT.
+
+QUOI FAIRE : au mapping, cochez << ne pas écraser les valeurs existantes >> pour ces
+colonnes-là. Elles ne font que combler des trous : la protection est sans effet de
+bord, et elle vous met à l'abri de ce cas précis.
+
+======================================================================
+POURQUOI CES CSV S'APPELLENT << ne_pas_ouvrir >>
+======================================================================
+1 valeur(s) de votre base commencent par = + - ou @. Ce sont le plus souvent les
+téléphones que ce nettoyage vient de normaliser au format international, du type
++33612345678.
+
+HubSpot les importe comme du TEXTE, sans aucun problème. Elles sont donc livrées
+TELLES QUELLES dans les CSV : les préfixer d'une apostrophe pour protéger Excel
+écrirait << '+33612345678 >> dans vos fiches, et corromprait la donnée pour se
+protéger d'un risque qui n'existe pas à l'import.
+
+EXCEL, lui, lit ces caractères comme le début d'un CALCUL. Il afficherait
+33612345678 au lieu de +33612345678 : le préfixe international disparait. Si vous
+enregistrez par-dessus, le format que ce nettoyage vient de produire est détruit,
+et c'est cette version dégradée que vous importeriez. Voilà la seule et unique
+raison du << ne_pas_ouvrir >> dans le nom de ces fichiers.
+
+  - Pour IMPORTER : chargez le fichier directement dans HubSpot, sans l'ouvrir.
+  - Pour LIRE ces valeurs : ouvrez le rapport Excel. Elles y sont forcées en texte,
+    affichées a l'identique et jamais evaluees.
+  - S'il faut absolument ouvrir un CSV : Données > Obtenir des données > A partir
+    d'un fichier texte/CSV, en déclarant toutes les colonnes en << Texte >>.
+
+======================================================================
+STATUT DE CONTACT MARKETING (FACTURATION)
+======================================================================
+Statut de facturation — RECOMMANDATION UNIQUEMENT. L'outil n'écrit jamais cette propriété : un changement de facturation ne doit pas être l'effet secondaire d'un nettoyage. Cette colonne n'est pas incluse dans les fichiers de réimport ; c'est à vous d'appliquer le changement dans HubSpot si vous le validez.
+
+======================================================================
+A VÉRIFIER DANS HUBSPOT AVANT DE LANCER CET IMPORT (5 MINUTES)
+======================================================================
+Un import en masse peut redéclencher vos workflows et envoyer des emails automatiques
+ou creer des tâches en double. Cette vérification se fait dans votre portail - nous ne
+pouvons pas la faire depuis votre fichier d'export.
+
+1. Paramètres > Propriétés. Recherchez chaque propriété que ce fichier modifie :
+   Email, Phone number, Lifecycle stage, Lead status (+ vos propriétés personnalisées).
+2. Pour chaque propriété, ouvrez sa fiche puis l'onglet << Used in >> (Utilisé dans) et
+   basculez sur Workflows : la liste montre tous les workflows qui la référencent.
+3. Pour chaque workflow ACTIF de cette liste, ouvrez le déclencheur d'inscription :
+   se déclenche-t-il sur cette propriété (<< is known >>, << has changed >>) ? La
+   re-inscription est-elle activée ?
+4. Si oui a l'un des deux : DÉSACTIVEZ le workflow (bouton << Turn off >>) avant
+   l'import, puis réactivez-le une fois l'import vérifié. Attention : les << pause
+   dates >> ne suffisent pas, elles n'empêchent pas les nouvelles inscriptions.
+5. À l'import, ne cochez la case de consentement que si ces contacts s'attendent
+   réellement a recevoir de vos nouvelles. Jamais pour un fichier acheté ou scrape.
+
+======================================================================
+PLAN DE REPLI - A LIRE AVANT, PAS APRÈS
+======================================================================
+HubSpot ne propose AUCUNE annulation en masse d'un import terminé. Votre sauvegarde
+est le seul filet de sécurité réel.
+
+1. AVANT l'import : exportez l'état actuel de vos contacts (toutes propriétés) et
+   conservez ce fichier horodaté de côté.
+2. Importez d'abord un ÉCHANTILLON de 20 a 50 lignes. Vérifiez le résultat dans
+   HubSpot. N'importez le reste que si l'échantillon est conforme.
+3. En cas d'erreur après import complet : HubSpot conserve l'historique des imports
+   (Data Management > Data Integration) et permet de télécharger les lignes en erreur,
+   mais ne permet PAS de défaire un import réussi. La correction se fait par un
+   nouvel import cible (avec Record ID) ou par édition en masse.
+
+======================================================================
+APRÈS L'IMPORT - MERCI DE NOUS RENVOYER 2 CHIFFRES
+======================================================================
+Le chiffre a comparer depend du fichier que vous avez importe :
+  - fichier MISE A JOUR  -> 460 mises a jour, et 0 création ;
+  - fichier CRÉATION     -> 460 fiches traitées (créées, ou mises a jour si l'email existe déjà).
+
+Comparez avec l'ecran de fin d'import et renvoyez-nous les chiffres réels. Un écart signifie soit un defaut de notre traitement, soit des doublons déjà présents dans votre portail - invisibles depuis votre fichier d'export. C'est la seule vérification qui puisse le révéler.
+
+----------------------------------------------------------------------
+Généré par l'outil d'audit CRM v3.14.0 - fichier source : demo_853.xlsx (SHA-256 1647a66c4bc5dc07...)

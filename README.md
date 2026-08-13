@@ -1,0 +1,100 @@
+# Exemple d'audit CRM — Inspectable
+
+Ce dépôt contient **un rapport d'audit CRM complet**, tel qu'il est livré, avec les fichiers qui
+l'accompagnent. Rien n'est simulé ni mis en scène : ce sont les livrables réels de l'outil,
+produits par une exécution ordinaire.
+
+Il existe pour une raison simple — un audit se juge sur son rendu, pas sur sa description.
+
+---
+
+## Le rapport
+
+[![Première page du rapport d'audit](images/page-01.png)](exemple/rapport-audit-exemple-fr.pdf)
+
+**16 pages, dix sections.** La couverture porte le diagnostic entier, parce qu'un rapport dont il
+faut lire douze pages avant de comprendre le problème ne sera pas lu.
+
+Sur cet exemple, l'outil analyse 853 contacts et conclut :
+
+| | |
+|---|---|
+| Score global | **72,4 / 100** — à surveiller |
+| Base réellement prospectable | **68 contacts sur 853** (8,0 %), dont 66 survivent au nettoyage |
+| Juridiquement inexploitables en l'état | **443** sur 853 (51,9 %) |
+| Leads sans propriétaire | **234** (27,4 %) |
+| Leads inactifs à arbitrer | **307** (36,0 %) |
+
+La phrase qui résume l'affaire est en haut de la page : *vous payez pour 853 contacts, 68 sont
+exploitables*.
+
+---
+
+## Ce que contient `exemple/`
+
+| Fichier | Ce que c'est |
+|---|---|
+| `rapport-audit-exemple-fr.pdf` | Le rapport, 16 pages. **Français** |
+| `rapport-audit-exemple-en.pdf` | Le même, **anglais** — l'outil est bilingue de bout en bout |
+| `classeur-complet-fr.xlsx` | 26 onglets : base préparée, doublons par groupe, décisions à valider, journal des modifications, ce qui reste à corriger à la main |
+| `import-mise-a-jour.csv` | Le fichier que le client réimporte dans HubSpot pour appliquer le nettoyage |
+| `import-creation.csv` | Sa variante pour alimenter un **autre** portail (migration) |
+| `mode-emploi-import-fr.txt` | La procédure d'import, pas à pas |
+
+Le dossier `images/` contient les 16 pages en PNG, pour lire le rapport sans le télécharger.
+
+### Deux fichiers d'import, jamais les deux à la fois
+
+C'est le détail qui sépare un livrable utilisable d'un livrable dangereux. Le fichier de **mise à
+jour** porte le `Record ID` : HubSpot rattache alors chaque ligne à la fiche existante. Celui de
+**création** ne le porte pas, délibérément — sinon HubSpot mettrait à jour au lieu de créer.
+Importer le mauvais des deux fabrique un doublon de chaque fiche de la base.
+
+---
+
+## Les données de cet exemple sont synthétiques
+
+**Aucune donnée personnelle réelle n'apparaît ici, et ce n'est pas une promesse : c'est vérifiable.**
+
+Le jeu de 853 contacts est produit par un générateur déterministe — même graine, même fichier, sur
+n'importe quelle machine. Les anomalies y sont **injectées volontairement** et comptées à l'avance :
+3 doublons exacts, 2 doublons approchants, 3 e-mails invalides, 4 désinscriptions, 5 contacts à
+purger, 2 téléphones cassés, et ainsi de suite.
+
+Cela rend l'exemple honnête sur deux plans à la fois. Il ne peut divulguer la base de personne. Et
+comme la vérité est connue AVANT l'audit, on peut vérifier que l'outil trouve ce qu'il doit trouver,
+au lieu de le croire sur parole.
+
+Un exemple bâti sur un vrai export ferait l'inverse : plus flatteur, invérifiable, et il faudrait
+vous demander de faire confiance.
+
+---
+
+## Le principe qui gouverne l'outil
+
+**L'audit se fait hors ligne.** Le fichier n'est connecté à aucune API, ne transite par aucun
+service tiers, ne part sur aucun serveur. Il est lu sur un poste, traité, et les livrables sont
+rendus. Aucune connexion à votre portail HubSpot n'est demandée — donc aucun accès à révoquer.
+
+Trois conséquences pratiques :
+
+- **L'outil propose, vous décidez.** Rien n'est appliqué à votre CRM. Les fichiers d'import restent
+  des fichiers tant que vous ne les importez pas.
+- **Ce qui n'a pas pu être mesuré est écrit comme tel.** Un rapport qui tait ses angles morts laisse
+  croire qu'il n'y en a pas.
+- **Rien n'est deviné.** Une association d'entreprise est restituée depuis l'identifiant que HubSpot
+  a lui-même exporté, jamais déduite d'un nom qui se ressemble.
+
+---
+
+## Ce que ce dépôt ne contient pas
+
+Le code de l'outil. Ce dépôt montre **le résultat**, pas le moteur.
+
+---
+
+## Pour aller plus loin
+
+Le détail des prestations, la méthode et les tarifs : **[inspectable.fr](https://inspectable.fr)**
+
+Anthony Abreu — Inspectable

@@ -1,0 +1,18 @@
+# ---> AUCUNE DONNÉE CLIENT N'ENTRE ICI, JAMAIS. <---
+# Ce dépôt est PUBLIC. Le seul jeu de données qu'il porte est synthétique et régénérable.
+# Les règles ci-dessous ne sont pas un confort : elles empêchent qu'un export réel y arrive
+# par glisser-déposer ou par une commande lancée dans le mauvais dossier.
+*.xlsx
+*.xls
+*.csv
+!exemple/*.xlsx
+!exemple/*.csv
+
+# Sorties d'audit : elles se régénèrent, elles n'ont rien à faire ici.
+out/
+out_*/
+_anonymise_travail/
+
+# Systèmes
+Thumbs.db
+.DS_Store
