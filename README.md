@@ -131,7 +131,12 @@ Trois conséquences pratiques :
 
 ## Ce que ce dépôt ne contient pas
 
-Le code de l'outil. Ce dépôt montre **le résultat**, pas le moteur.
+Le code de l'outil.
+
+Ses **réglages**, en revanche, y sont : l'onglet `Parametres` du classeur publie les seuils, les
+pondérations du score et les règles appliquées. C'est volontaire. Un score dont on ne peut pas
+vérifier la composition ne vaut pas grand-chose, et ces réglages sont faits pour être discutés —
+trois ans de conservation, par exemple, c'est la recommandation de la CNIL, pas une préférence.
 
 ---
 
